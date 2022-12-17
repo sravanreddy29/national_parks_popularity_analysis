@@ -1,0 +1,1857 @@
+,ParkName,Year,AvgTemp,State
+0,Sand Creek Massacre NHS,1990,48.5,CO
+1,Sand Creek Massacre NHS,1991,49.4,CO
+2,Sand Creek Massacre NHS,1993,45.8,CO
+3,Sand Creek Massacre NHS,1994,50.3,CO
+4,Sand Creek Massacre NHS,1995,48.5,CO
+5,Sand Creek Massacre NHS,1996,48.2,CO
+6,Sand Creek Massacre NHS,1997,48.2,CO
+7,Sand Creek Massacre NHS,1998,50.4,CO
+8,Sand Creek Massacre NHS,1999,51,CO
+9,Sand Creek Massacre NHS,2000,49.9,CO
+10,Sand Creek Massacre NHS,2000,49.9,CO
+11,Sand Creek Massacre NHS,2001,50.2,CO
+12,Sand Creek Massacre NHS,2003,50,CO
+13,Sand Creek Massacre NHS,2004,50.3,CO
+14,Sand Creek Massacre NHS,2005,51.6,CO
+15,Sand Creek Massacre NHS,2006,50.8,CO
+16,Sand Creek Massacre NHS,2007,49.3,CO
+17,Sand Creek Massacre NHS,2008,48.3,CO
+18,Sand Creek Massacre NHS,2009,48.4,CO
+19,Sand Creek Massacre NHS,2010,51.1,CO
+20,Sand Creek Massacre NHS,2010,51.1,CO
+21,Sand Creek Massacre NHS,2011,49.9,CO
+22,Sand Creek Massacre NHS,2012,53.4,CO
+23,Sand Creek Massacre NHS,2013,49.4,CO
+24,Sand Creek Massacre NHS,2014,49.7,CO
+25,Sand Creek Massacre NHS,2015,51.8,CO
+26,Sand Creek Massacre NHS,2016,52,CO
+27,Sand Creek Massacre NHS,2017,52,CO
+28,Sand Creek Massacre NHS,2019,48.3,CO
+29,Sand Creek Massacre NHS,2020,50.6,CO
+30,Sunset Crater Volcano NM,1990,72.3,AZ
+31,Sunset Crater Volcano NM,1991,74.5,AZ
+32,Sunset Crater Volcano NM,2000,75.1,AZ
+33,Sunset Crater Volcano NM,2000,75.1,AZ
+34,Sunset Crater Volcano NM,2001,74.5,AZ
+35,Sunset Crater Volcano NM,2003,74.4,AZ
+36,Sunset Crater Volcano NM,2004,73.1,AZ
+37,Sunset Crater Volcano NM,2005,73.9,AZ
+38,Sunset Crater Volcano NM,2006,73.3,AZ
+39,Sunset Crater Volcano NM,2007,73.4,AZ
+40,Sunset Crater Volcano NM,2008,74.1,AZ
+41,Sunset Crater Volcano NM,2009,73.9,AZ
+42,Sunset Crater Volcano NM,2010,73.2,AZ
+43,Sunset Crater Volcano NM,2010,73.2,AZ
+44,Sunset Crater Volcano NM,2011,72.9,AZ
+45,Sunset Crater Volcano NM,2012,74.1,AZ
+46,Timpanogos Cave NM,1994,51.4,UT
+47,Timpanogos Cave NM,1996,51.4,UT
+48,Timpanogos Cave NM,2009,49.2,UT
+49,Timpanogos Cave NM,2011,49.2,UT
+50,Timpanogos Cave NM,2012,53,UT
+51,Timpanogos Cave NM,2013,49.2,UT
+52,Timpanogos Cave NM,2014,52.1,UT
+53,Timpanogos Cave NM,2015,53.2,UT
+54,Timpanogos Cave NM,2016,52.4,UT
+55,Timpanogos Cave NM,2017,52.6,UT
+56,Timpanogos Cave NM,2018,52.5,UT
+57,Timpanogos Cave NM,2019,50.3,UT
+58,Timpanogos Cave NM,2020,52.1,UT
+59,Tonto NM,1994,72,AZ
+60,Tonto NM,2000,73.1,AZ
+61,Tonto NM,2000,73.1,AZ
+62,Tonto NM,2001,73.4,AZ
+63,Tonto NM,2002,72.6,AZ
+64,Tonto NM,2003,74.1,AZ
+65,Tonto NM,2004,72.8,AZ
+66,Tonto NM,2005,73.8,AZ
+67,Tonto NM,2006,74.2,AZ
+68,Tonto NM,2007,73.7,AZ
+69,Tonto NM,2008,74.4,AZ
+70,Tonto NM,2010,73.8,AZ
+71,Tonto NM,2010,73.8,AZ
+72,Tonto NM,2012,74.9,AZ
+73,Tumacacori NHP,1994,72,AZ
+74,Tumacacori NHP,2000,73.1,AZ
+75,Tumacacori NHP,2000,73.1,AZ
+76,Tumacacori NHP,2001,73.4,AZ
+77,Tumacacori NHP,2002,72.6,AZ
+78,Tumacacori NHP,2003,74.1,AZ
+79,Tumacacori NHP,2004,72.8,AZ
+80,Tumacacori NHP,2005,73.8,AZ
+81,Tumacacori NHP,2006,74.2,AZ
+82,Tumacacori NHP,2007,73.7,AZ
+83,Tumacacori NHP,2008,74.4,AZ
+84,Tumacacori NHP,2010,73.8,AZ
+85,Tumacacori NHP,2010,73.8,AZ
+86,Tumacacori NHP,2012,74.9,AZ
+87,Tuzigoot NM,1994,72,AZ
+88,Tuzigoot NM,2000,73.1,AZ
+89,Tuzigoot NM,2000,73.1,AZ
+90,Tuzigoot NM,2001,73.4,AZ
+91,Tuzigoot NM,2002,72.6,AZ
+92,Tuzigoot NM,2003,74.1,AZ
+93,Tuzigoot NM,2004,72.8,AZ
+94,Tuzigoot NM,2005,73.8,AZ
+95,Tuzigoot NM,2006,74.2,AZ
+96,Tuzigoot NM,2007,73.7,AZ
+97,Tuzigoot NM,2008,74.4,AZ
+98,Tuzigoot NM,2010,73.8,AZ
+99,Tuzigoot NM,2010,73.8,AZ
+100,Tuzigoot NM,2012,74.9,AZ
+101,Valles Caldera NPRES,1994,72,NM
+102,Valles Caldera NPRES,2000,73.1,NM
+103,Valles Caldera NPRES,2000,73.1,NM
+104,Valles Caldera NPRES,2001,73.4,NM
+105,Valles Caldera NPRES,2002,72.6,NM
+106,Valles Caldera NPRES,2003,74.1,NM
+107,Valles Caldera NPRES,2004,72.8,NM
+108,Valles Caldera NPRES,2005,73.8,NM
+109,Valles Caldera NPRES,2006,74.2,NM
+110,Valles Caldera NPRES,2007,73.7,NM
+111,Valles Caldera NPRES,2008,74.4,NM
+112,Valles Caldera NPRES,2010,73.8,NM
+113,Valles Caldera NPRES,2010,73.8,NM
+114,Valles Caldera NPRES,2012,74.9,NM
+115,Sand Creek Massacre NHS,1990,48.5,CO
+116,Sand Creek Massacre NHS,1991,49.4,CO
+117,Sand Creek Massacre NHS,1993,45.8,CO
+118,Sand Creek Massacre NHS,1994,50.3,CO
+119,Sand Creek Massacre NHS,1995,48.5,CO
+120,Sand Creek Massacre NHS,1996,48.2,CO
+121,Sand Creek Massacre NHS,1997,48.2,CO
+122,Sand Creek Massacre NHS,1998,50.4,CO
+123,Sand Creek Massacre NHS,1999,51,CO
+124,Sand Creek Massacre NHS,2000,49.9,CO
+125,Sand Creek Massacre NHS,2000,49.9,CO
+126,Sand Creek Massacre NHS,2001,50.2,CO
+127,Sand Creek Massacre NHS,2003,50,CO
+128,Sand Creek Massacre NHS,2004,50.3,CO
+129,Sand Creek Massacre NHS,2005,51.6,CO
+130,Sand Creek Massacre NHS,2006,50.8,CO
+131,Sand Creek Massacre NHS,2007,49.3,CO
+132,Sand Creek Massacre NHS,2008,48.3,CO
+133,Sand Creek Massacre NHS,2009,48.4,CO
+134,Sand Creek Massacre NHS,2010,51.1,CO
+135,Sand Creek Massacre NHS,2010,51.1,CO
+136,Sand Creek Massacre NHS,2011,49.9,CO
+137,Sand Creek Massacre NHS,2012,53.4,CO
+138,Sand Creek Massacre NHS,2013,49.4,CO
+139,Sand Creek Massacre NHS,2014,49.7,CO
+140,Sand Creek Massacre NHS,2015,51.8,CO
+141,Sand Creek Massacre NHS,2016,52,CO
+142,Sand Creek Massacre NHS,2017,52,CO
+143,Sand Creek Massacre NHS,2019,48.3,CO
+144,Sand Creek Massacre NHS,2020,50.6,CO
+145,Sunset Crater Volcano NM,1990,72.3,AZ
+146,Sunset Crater Volcano NM,1991,74.5,AZ
+147,Sunset Crater Volcano NM,2000,75.1,AZ
+148,Sunset Crater Volcano NM,2000,75.1,AZ
+149,Sunset Crater Volcano NM,2001,74.5,AZ
+150,Sunset Crater Volcano NM,2003,74.4,AZ
+151,Sunset Crater Volcano NM,2004,73.1,AZ
+152,Sunset Crater Volcano NM,2005,73.9,AZ
+153,Sunset Crater Volcano NM,2006,73.3,AZ
+154,Sunset Crater Volcano NM,2007,73.4,AZ
+155,Sunset Crater Volcano NM,2008,74.1,AZ
+156,Sunset Crater Volcano NM,2009,73.9,AZ
+157,Sunset Crater Volcano NM,2010,73.2,AZ
+158,Sunset Crater Volcano NM,2010,73.2,AZ
+159,Sunset Crater Volcano NM,2011,72.9,AZ
+160,Sunset Crater Volcano NM,2012,74.1,AZ
+161,Timpanogos Cave NM,1994,51.4,UT
+162,Timpanogos Cave NM,1996,51.4,UT
+163,Timpanogos Cave NM,2009,49.2,UT
+164,Timpanogos Cave NM,2011,49.2,UT
+165,Timpanogos Cave NM,2012,53,UT
+166,Timpanogos Cave NM,2013,49.2,UT
+167,Timpanogos Cave NM,2014,52.1,UT
+168,Timpanogos Cave NM,2015,53.2,UT
+169,Timpanogos Cave NM,2016,52.4,UT
+170,Timpanogos Cave NM,2017,52.6,UT
+171,Timpanogos Cave NM,2018,52.5,UT
+172,Timpanogos Cave NM,2019,50.3,UT
+173,Timpanogos Cave NM,2020,52.1,UT
+174,Tonto NM,1994,72,AZ
+175,Tonto NM,2000,73.1,AZ
+176,Tonto NM,2000,73.1,AZ
+177,Tonto NM,2001,73.4,AZ
+178,Tonto NM,2002,72.6,AZ
+179,Tonto NM,2003,74.1,AZ
+180,Tonto NM,2004,72.8,AZ
+181,Tonto NM,2005,73.8,AZ
+182,Tonto NM,2006,74.2,AZ
+183,Tonto NM,2007,73.7,AZ
+184,Tonto NM,2008,74.4,AZ
+185,Tonto NM,2010,73.8,AZ
+186,Tonto NM,2010,73.8,AZ
+187,Tonto NM,2012,74.9,AZ
+188,Tumacacori NHP,1994,72,AZ
+189,Tumacacori NHP,2000,73.1,AZ
+190,Tumacacori NHP,2000,73.1,AZ
+191,Tumacacori NHP,2001,73.4,AZ
+192,Tumacacori NHP,2002,72.6,AZ
+193,Tumacacori NHP,2003,74.1,AZ
+194,Tumacacori NHP,2004,72.8,AZ
+195,Tumacacori NHP,2005,73.8,AZ
+196,Tumacacori NHP,2006,74.2,AZ
+197,Tumacacori NHP,2007,73.7,AZ
+198,Tumacacori NHP,2008,74.4,AZ
+199,Tumacacori NHP,2010,73.8,AZ
+200,Tumacacori NHP,2010,73.8,AZ
+201,Tumacacori NHP,2012,74.9,AZ
+202,Tuzigoot NM,1994,72,AZ
+203,Tuzigoot NM,2000,73.1,AZ
+204,Tuzigoot NM,2000,73.1,AZ
+205,Tuzigoot NM,2001,73.4,AZ
+206,Tuzigoot NM,2002,72.6,AZ
+207,Tuzigoot NM,2003,74.1,AZ
+208,Tuzigoot NM,2004,72.8,AZ
+209,Tuzigoot NM,2005,73.8,AZ
+210,Tuzigoot NM,2006,74.2,AZ
+211,Tuzigoot NM,2007,73.7,AZ
+212,Tuzigoot NM,2008,74.4,AZ
+213,Tuzigoot NM,2010,73.8,AZ
+214,Tuzigoot NM,2010,73.8,AZ
+215,Tuzigoot NM,2012,74.9,AZ
+216,Valles Caldera NPRES,1994,72,NM
+217,Valles Caldera NPRES,2000,73.1,NM
+218,Valles Caldera NPRES,2000,73.1,NM
+219,Valles Caldera NPRES,2001,73.4,NM
+220,Valles Caldera NPRES,2002,72.6,NM
+221,Valles Caldera NPRES,2003,74.1,NM
+222,Valles Caldera NPRES,2004,72.8,NM
+223,Valles Caldera NPRES,2005,73.8,NM
+224,Valles Caldera NPRES,2006,74.2,NM
+225,Valles Caldera NPRES,2007,73.7,NM
+226,Valles Caldera NPRES,2008,74.4,NM
+227,Valles Caldera NPRES,2010,73.8,NM
+228,Valles Caldera NPRES,2010,73.8,NM
+229,Valles Caldera NPRES,2012,74.9,NM
+231,Walnut Canyon NM,1990,72.3,AZ
+232,Walnut Canyon NM,1991,74.5,AZ
+233,Walnut Canyon NM,2000,75.1,AZ
+234,Walnut Canyon NM,2000,75.1,AZ
+235,Walnut Canyon NM,2001,74.5,AZ
+236,Walnut Canyon NM,2003,74.4,AZ
+237,Walnut Canyon NM,2004,73.1,AZ
+238,Walnut Canyon NM,2005,73.9,AZ
+239,Walnut Canyon NM,2006,73.3,AZ
+240,Walnut Canyon NM,2007,73.4,AZ
+241,Walnut Canyon NM,2008,74.1,AZ
+242,Walnut Canyon NM,2009,73.9,AZ
+243,Walnut Canyon NM,2010,73.2,AZ
+244,Walnut Canyon NM,2010,73.2,AZ
+245,Walnut Canyon NM,2011,72.9,AZ
+246,Walnut Canyon NM,2012,74.1,AZ
+247,Washita Battlefield NHS,1990,53.5,OK
+248,Washita Battlefield NHS,1991,53.6,OK
+249,Washita Battlefield NHS,1992,53.6,OK
+250,Washita Battlefield NHS,1994,55.2,OK
+251,Washita Battlefield NHS,1995,54,OK
+252,Washita Battlefield NHS,1996,53.4,OK
+253,Washita Battlefield NHS,1997,52.7,OK
+254,Washita Battlefield NHS,1998,55.1,OK
+255,Washita Battlefield NHS,1999,54.5,OK
+256,Washita Battlefield NHS,2000,55.2,OK
+257,Washita Battlefield NHS,2000,55.2,OK
+258,Washita Battlefield NHS,2001,54.2,OK
+259,Washita Battlefield NHS,2003,55,OK
+260,Washita Battlefield NHS,2004,54.3,OK
+261,Washita Battlefield NHS,2005,54.7,OK
+262,Washita Battlefield NHS,2006,55,OK
+263,Washita Battlefield NHS,2007,53.3,OK
+264,Washita Battlefield NHS,2008,55.1,OK
+265,Washita Battlefield NHS,2009,55.5,OK
+266,Washita Battlefield NHS,2011,56.5,OK
+267,Washita Battlefield NHS,2013,54.9,OK
+268,Washita Battlefield NHS,2015,55.6,OK
+269,Washita Battlefield NHS,2016,56.4,OK
+270,Washita Battlefield NHS,2017,56,OK
+271,Washita Battlefield NHS,2018,54.6,OK
+272,Washita Battlefield NHS,2019,53.5,OK
+273,White Sands NP,1994,72,NM
+274,White Sands NP,2000,73.1,NM
+275,White Sands NP,2000,73.1,NM
+276,White Sands NP,2001,73.4,NM
+277,White Sands NP,2002,72.6,NM
+278,White Sands NP,2003,74.1,NM
+279,White Sands NP,2004,72.8,NM
+280,White Sands NP,2005,73.8,NM
+281,White Sands NP,2006,74.2,NM
+282,White Sands NP,2007,73.7,NM
+283,White Sands NP,2008,74.4,NM
+284,White Sands NP,2010,73.8,NM
+285,White Sands NP,2010,73.8,NM
+286,White Sands NP,2012,74.9,NM
+287,Wupatki NM,1994,72,AZ
+288,Wupatki NM,2000,73.1,AZ
+289,Wupatki NM,2000,73.1,AZ
+290,Wupatki NM,2001,73.4,AZ
+291,Wupatki NM,2002,72.6,AZ
+292,Wupatki NM,2003,74.1,AZ
+293,Wupatki NM,2004,72.8,AZ
+294,Wupatki NM,2005,73.8,AZ
+295,Wupatki NM,2006,74.2,AZ
+296,Wupatki NM,2007,73.7,AZ
+297,Wupatki NM,2008,74.4,AZ
+298,Wupatki NM,2010,73.8,AZ
+299,Wupatki NM,2010,73.8,AZ
+300,Wupatki NM,2012,74.9,AZ
+301,Yellowstone NP,1990,42,
+302,Yellowstone NP,1991,41.3,
+303,Yellowstone NP,1994,43.4,
+304,Yellowstone NP,1995,42.7,
+305,Yellowstone NP,1999,43.6,
+306,Yellowstone NP,2001,43.4,
+307,Yellowstone NP,2002,41,
+308,Yellowstone NP,2004,43.5,
+309,Yellowstone NP,2005,42.6,
+310,Yellowstone NP,2014,43.2,
+311,Yellowstone NP,2015,45.4,
+312,Yellowstone NP,2016,44.7,
+313,Yellowstone NP,2017,44.3,
+314,Yellowstone NP,2020,42.6,
+315,Zion NP,1990,64.8,UT
+316,Zion NP,1997,67.9,UT
+317,Zion NP,1998,65.2,UT
+318,Zion NP,2002,68.4,UT
+319,Zion NP,2003,70.1,UT
+320,Zion NP,2004,68.3,UT
+321,Zion NP,2006,68.4,UT
+322,Zion NP,2009,68.2,UT
+323,Zion NP,2010,68.2,UT
+324,Zion NP,2010,68.2,UT
+325,Zion NP,2011,66.7,UT
+326,Zion NP,2012,70.4,UT
+327,Zion NP,2015,70.8,UT
+328,Zion NP,2016,69.6,UT
+329,Zion NP,2019,67.3,UT
+330,Agate Fossil Beds NM,1990,46.6,NE
+331,Agate Fossil Beds NM,1991,47.2,NE
+332,Agate Fossil Beds NM,1992,46.8,NE
+333,Agate Fossil Beds NM,1993,42.4,NE
+334,Agate Fossil Beds NM,1994,47.2,NE
+335,Agate Fossil Beds NM,1995,45.4,NE
+336,Agate Fossil Beds NM,1996,44.6,NE
+337,Agate Fossil Beds NM,1997,46.1,NE
+338,Agate Fossil Beds NM,1998,46,NE
+339,Agate Fossil Beds NM,1999,47.5,NE
+340,Agate Fossil Beds NM,2000,45.4,NE
+341,Agate Fossil Beds NM,2000,45.4,NE
+342,Agate Fossil Beds NM,2001,46.4,NE
+343,Agate Fossil Beds NM,2002,45.3,NE
+344,Agate Fossil Beds NM,2003,46.4,NE
+345,Agate Fossil Beds NM,2004,46.7,NE
+346,Agate Fossil Beds NM,2005,46.6,NE
+347,Agate Fossil Beds NM,2006,47,NE
+348,Agate Fossil Beds NM,2007,47.3,NE
+349,Agate Fossil Beds NM,2008,45.1,NE
+350,Agate Fossil Beds NM,2010,46.8,NE
+351,Agate Fossil Beds NM,2010,46.8,NE
+352,Agate Fossil Beds NM,2011,46.5,NE
+353,Agate Fossil Beds NM,2012,49.4,NE
+354,Agate Fossil Beds NM,2013,46,NE
+355,Agate Fossil Beds NM,2014,46.1,NE
+356,Agate Fossil Beds NM,2015,48.3,NE
+357,Agate Fossil Beds NM,2016,47.9,NE
+358,Agate Fossil Beds NM,2017,48,NE
+359,Agate Fossil Beds NM,2020,47.7,NE
+360,Apostle Islands NL,1990,36.6,WI
+361,Apostle Islands NL,1991,36.4,WI
+362,Apostle Islands NL,1992,35.3,WI
+363,Apostle Islands NL,1993,34.7,WI
+364,Apostle Islands NL,1994,36.3,WI
+365,Apostle Islands NL,1995,35.7,WI
+366,Apostle Islands NL,1996,34.3,WI
+367,Apostle Islands NL,1997,36.5,WI
+368,Apostle Islands NL,1998,40.4,WI
+369,Apostle Islands NL,1999,38.8,WI
+370,Apostle Islands NL,2000,36.8,WI
+371,Apostle Islands NL,2000,36.8,WI
+372,Apostle Islands NL,2001,39,WI
+373,Apostle Islands NL,2002,37.4,WI
+374,Apostle Islands NL,2003,36.3,WI
+375,Apostle Islands NL,2004,36.1,WI
+376,Apostle Islands NL,2005,37.5,WI
+377,Apostle Islands NL,2006,39.7,WI
+378,Apostle Islands NL,2012,40.4,WI
+379,Apostle Islands NL,2013,34.9,WI
+380,Arkansas Post NMEM,1990,64.1,AR
+381,Arkansas Post NMEM,1991,63.3,AR
+382,Arkansas Post NMEM,1994,61.2,AR
+383,Arkansas Post NMEM,1995,61.2,AR
+384,Arkansas Post NMEM,1996,59.9,AR
+385,Arkansas Post NMEM,1997,60.5,AR
+386,Arkansas Post NMEM,1998,63.5,AR
+387,Arkansas Post NMEM,1999,62.7,AR
+388,Arkansas Post NMEM,2000,61.4,AR
+389,Arkansas Post NMEM,2000,61.4,AR
+390,Arkansas Post NMEM,2001,60.7,AR
+391,Arkansas Post NMEM,2002,59.6,AR
+392,Arkansas Post NMEM,2003,59.3,AR
+393,Arkansas Post NMEM,2004,60.1,AR
+394,Arkansas Post NMEM,2005,60.9,AR
+395,Arkansas Post NMEM,2006,61,AR
+396,Arkansas Post NMEM,2007,60.6,AR
+397,Arkansas Post NMEM,2008,58.7,AR
+398,Arkansas Post NMEM,2009,58.5,AR
+399,Arkansas Post NMEM,2010,59.9,AR
+400,Arkansas Post NMEM,2010,59.9,AR
+401,Arkansas Post NMEM,2012,62.4,AR
+402,Arkansas Post NMEM,2013,58.5,AR
+403,Arkansas Post NMEM,2014,57.1,AR
+404,Arkansas Post NMEM,2015,59.9,AR
+405,Arkansas Post NMEM,2016,61,AR
+406,Arkansas Post NMEM,2018,59.6,AR
+407,Arkansas Post NMEM,2019,59.6,AR
+408,Arkansas Post NMEM,2020,59.5,AR
+409,Badlands NP,1994,50.5,SD
+410,Badlands NP,1995,48.5,SD
+411,Badlands NP,1998,50.1,SD
+412,Badlands NP,1999,51.4,SD
+413,Badlands NP,2000,49.1,SD
+414,Badlands NP,2000,49.1,SD
+415,Badlands NP,2001,50.6,SD
+416,Badlands NP,2002,48.7,SD
+417,Badlands NP,2003,49.6,SD
+418,Badlands NP,2006,48.9,SD
+419,Badlands NP,2009,45.5,SD
+420,Badlands NP,2010,46.9,SD
+421,Badlands NP,2010,46.9,SD
+422,Badlands NP,2011,46.5,SD
+423,Badlands NP,2012,50.7,SD
+424,Badlands NP,2013,46.4,SD
+425,Badlands NP,2014,45.9,SD
+426,Badlands NP,2015,48.1,SD
+427,Badlands NP,2016,49.1,SD
+428,Badlands NP,2017,47.9,SD
+429,Badlands NP,2018,46.1,SD
+430,Badlands NP,2019,44.6,SD
+431,Badlands NP,2020,49.1,SD
+432,Brown v. Board of Education NHS,1990,57.7,KS
+433,Brown v. Board of Education NHS,1991,58,KS
+434,Brown v. Board of Education NHS,1993,55.2,KS
+435,Brown v. Board of Education NHS,1994,58.3,KS
+436,Brown v. Board of Education NHS,2007,57.1,KS
+437,Brown v. Board of Education NHS,2008,55.1,KS
+438,Brown v. Board of Education NHS,2009,55.6,KS
+439,Brown v. Board of Education NHS,2010,57.1,KS
+440,Brown v. Board of Education NHS,2010,57.1,KS
+441,Brown v. Board of Education NHS,2011,57.3,KS
+442,Brown v. Board of Education NHS,2012,60.8,KS
+443,Brown v. Board of Education NHS,2013,56,KS
+444,Brown v. Board of Education NHS,2014,56.4,KS
+445,Brown v. Board of Education NHS,2015,58.9,KS
+446,Brown v. Board of Education NHS,2016,60,KS
+447,Brown v. Board of Education NHS,2017,59.3,KS
+448,Brown v. Board of Education NHS,2018,57.5,KS
+449,Brown v. Board of Education NHS,2019,56.3,KS
+450,Brown v. Board of Education NHS,2020,58.1,KS
+452,Charles Young Buffalo Soldiers NM,1990,53.1,OH
+453,Charles Young Buffalo Soldiers NM,1991,53.3,OH
+454,Charles Young Buffalo Soldiers NM,1992,50.8,OH
+455,Charles Young Buffalo Soldiers NM,1993,50.4,OH
+456,Charles Young Buffalo Soldiers NM,1994,51.2,OH
+457,Charles Young Buffalo Soldiers NM,1995,51,OH
+458,Charles Young Buffalo Soldiers NM,1996,49.8,OH
+459,Charles Young Buffalo Soldiers NM,1997,50.2,OH
+460,Charles Young Buffalo Soldiers NM,1998,55.1,OH
+461,Charles Young Buffalo Soldiers NM,1999,53.3,OH
+462,Charles Young Buffalo Soldiers NM,2001,53.2,OH
+463,Charles Young Buffalo Soldiers NM,2002,53.3,OH
+464,Charles Young Buffalo Soldiers NM,2005,51.3,OH
+465,Charles Young Buffalo Soldiers NM,2006,52.2,OH
+466,Charles Young Buffalo Soldiers NM,2008,49.6,OH
+467,Charles Young Buffalo Soldiers NM,2009,49.4,OH
+468,Charles Young Buffalo Soldiers NM,2010,51.1,OH
+469,Charles Young Buffalo Soldiers NM,2010,51.1,OH
+470,Charles Young Buffalo Soldiers NM,2011,51.2,OH
+471,Charles Young Buffalo Soldiers NM,2012,53.9,OH
+472,Charles Young Buffalo Soldiers NM,2013,49.9,OH
+473,Charles Young Buffalo Soldiers NM,2014,47.6,OH
+474,Charles Young Buffalo Soldiers NM,2015,50.6,OH
+475,Charles Young Buffalo Soldiers NM,2016,52.3,OH
+476,Charles Young Buffalo Soldiers NM,2017,52.2,OH
+477,Charles Young Buffalo Soldiers NM,2019,50.8,OH
+478,Charles Young Buffalo Soldiers NM,2020,52,OH
+479,Cuyahoga Valley NP,1990,51.3,OH
+480,Cuyahoga Valley NP,1991,52,OH
+481,Cuyahoga Valley NP,1992,49,OH
+482,Cuyahoga Valley NP,1993,49.1,OH
+483,Cuyahoga Valley NP,1994,49.6,OH
+484,Cuyahoga Valley NP,1995,49.4,OH
+485,Cuyahoga Valley NP,1996,48.3,OH
+486,Cuyahoga Valley NP,1997,48.5,OH
+487,Cuyahoga Valley NP,1998,53.5,OH
+488,Cuyahoga Valley NP,1999,51.2,OH
+489,Cuyahoga Valley NP,2000,49.7,OH
+490,Cuyahoga Valley NP,2000,49.7,OH
+491,Cuyahoga Valley NP,2001,51.5,OH
+492,Cuyahoga Valley NP,2003,48.5,OH
+493,Cuyahoga Valley NP,2005,50.7,OH
+494,Cuyahoga Valley NP,2017,52,OH
+495,Cuyahoga Valley NP,2018,51,OH
+496,Cuyahoga Valley NP,2019,50.4,OH
+497,Cuyahoga Valley NP,2020,52.5,OH
+498,Dayton Aviation Heritage NHP,1990,53.6,OH
+499,Dayton Aviation Heritage NHP,1991,53.7,OH
+500,Dayton Aviation Heritage NHP,1992,51,OH
+501,Dayton Aviation Heritage NHP,1994,51.3,OH
+502,Dayton Aviation Heritage NHP,1996,49.6,OH
+503,Dayton Aviation Heritage NHP,1997,50.1,OH
+504,Dayton Aviation Heritage NHP,1998,54.7,OH
+505,Dayton Aviation Heritage NHP,1999,52.9,OH
+506,Dayton Aviation Heritage NHP,2000,51.6,OH
+507,Dayton Aviation Heritage NHP,2000,51.6,OH
+508,Dayton Aviation Heritage NHP,2001,53.4,OH
+509,Dayton Aviation Heritage NHP,2004,51.9,OH
+510,Dayton Aviation Heritage NHP,2005,52,OH
+511,Dayton Aviation Heritage NHP,2006,53.2,OH
+512,Dayton Aviation Heritage NHP,2009,51.1,OH
+513,Dayton Aviation Heritage NHP,2010,52.2,OH
+514,Dayton Aviation Heritage NHP,2010,52.2,OH
+515,Dayton Aviation Heritage NHP,2011,52.9,OH
+516,Dayton Aviation Heritage NHP,2012,54.9,OH
+517,Dayton Aviation Heritage NHP,2013,51.5,OH
+518,Dayton Aviation Heritage NHP,2014,49.3,OH
+519,Dayton Aviation Heritage NHP,2015,52.2,OH
+520,Dayton Aviation Heritage NHP,2016,54.3,OH
+521,Dayton Aviation Heritage NHP,2017,54,OH
+522,Effigy Mounds NM,1991,47.4,IA
+523,Effigy Mounds NM,1993,45.5,IA
+524,Effigy Mounds NM,2006,49.4,IA
+525,Effigy Mounds NM,2007,48.1,IA
+526,Effigy Mounds NM,2009,46,IA
+527,Effigy Mounds NM,2011,47.9,IA
+528,Effigy Mounds NM,2012,50.9,IA
+529,Effigy Mounds NM,2013,45.8,IA
+530,Effigy Mounds NM,2014,44,IA
+531,Effigy Mounds NM,2015,47.9,IA
+532,Effigy Mounds NM,2016,49.8,IA
+533,Effigy Mounds NM,2017,48.9,IA
+534,Effigy Mounds NM,2018,47.2,IA
+535,Effigy Mounds NM,2019,46.3,IA
+536,Effigy Mounds NM,2020,48.5,IA
+537,First Ladies NHS,2000,40.7,OH
+538,First Ladies NHS,2000,40.7,OH
+539,First Ladies NHS,2001,40.9,OH
+540,First Ladies NHS,2010,43.6,OH
+541,First Ladies NHS,2010,43.6,OH
+542,First Ladies NHS,2011,41.1,OH
+543,First Ladies NHS,2015,38.1,OH
+544,First Ladies NHS,2016,43.2,OH
+545,Fort Larned NHS,1990,63.7,KS
+546,Fort Larned NHS,1991,63,KS
+547,Fort Larned NHS,1992,60.6,KS
+548,Fort Larned NHS,1993,60.3,KS
+549,Fort Larned NHS,1994,61.2,KS
+550,Fort Larned NHS,1995,61.4,KS
+551,Fort Larned NHS,1996,60.3,KS
+552,Fort Larned NHS,1997,61.2,KS
+553,Fort Larned NHS,1998,64.4,KS
+554,Fort Larned NHS,1999,63.5,KS
+555,Fort Larned NHS,2000,61.9,KS
+556,Fort Larned NHS,2000,61.9,KS
+557,Fort Larned NHS,2001,62.3,KS
+558,Fort Larned NHS,2002,61.5,KS
+559,Fort Larned NHS,2003,62,KS
+560,Fort Larned NHS,2004,63.1,KS
+561,Fort Larned NHS,2006,63.5,KS
+562,Fort Larned NHS,2007,62.9,KS
+563,Fort Larned NHS,2008,60.5,KS
+564,Fort Larned NHS,2009,60.4,KS
+565,Fort Larned NHS,2010,61.6,KS
+566,Fort Larned NHS,2010,61.6,KS
+567,Fort Larned NHS,2011,62.5,KS
+568,Fort Larned NHS,2012,63.9,KS
+569,Fort Larned NHS,2013,60.5,KS
+570,Fort Larned NHS,2016,64.5,KS
+571,Fort Larned NHS,2017,63.4,KS
+572,Fort Larned NHS,2018,62.4,KS
+573,Fort Larned NHS,2019,62.2,KS
+574,Fort Larned NHS,2020,62.7,KS
+575,Fort Scott NHS,1990,62.4,KS
+576,Fort Scott NHS,1991,61.8,KS
+577,Fort Scott NHS,1992,60.1,KS
+578,Fort Scott NHS,1993,59.7,KS
+579,Fort Scott NHS,1995,60.5,KS
+580,Fort Scott NHS,1999,62.7,KS
+581,Fort Scott NHS,2000,61.5,KS
+582,Fort Scott NHS,2000,61.5,KS
+583,Fort Scott NHS,2001,61.8,KS
+584,Fort Scott NHS,2007,60.4,KS
+585,Fort Scott NHS,2018,58.9,KS
+586,Fort Scott NHS,2019,59,KS
+587,Fort Scott NHS,2020,59.4,KS
+588,Fort Smith NHS,1990,64.1,AR
+589,Fort Smith NHS,1991,63.3,AR
+590,Fort Smith NHS,1994,61.2,AR
+591,Fort Smith NHS,1995,61.2,AR
+592,Fort Smith NHS,1996,59.9,AR
+593,Fort Smith NHS,1997,60.5,AR
+594,Fort Smith NHS,1998,63.5,AR
+595,Fort Smith NHS,1999,62.7,AR
+596,Fort Smith NHS,2000,61.4,AR
+597,Fort Smith NHS,2000,61.4,AR
+598,Fort Smith NHS,2001,60.7,AR
+599,Fort Smith NHS,2002,59.6,AR
+600,Fort Smith NHS,2003,59.3,AR
+601,Fort Smith NHS,2004,60.1,AR
+602,Fort Smith NHS,2005,60.9,AR
+603,Fort Smith NHS,2006,61,AR
+604,Fort Smith NHS,2007,60.6,AR
+605,Fort Smith NHS,2008,58.7,AR
+606,Fort Smith NHS,2009,58.5,AR
+607,Fort Smith NHS,2010,59.9,AR
+608,Fort Smith NHS,2010,59.9,AR
+609,Fort Smith NHS,2012,62.4,AR
+610,Fort Smith NHS,2013,58.5,AR
+611,Fort Smith NHS,2014,57.1,AR
+612,Fort Smith NHS,2015,59.9,AR
+613,Fort Smith NHS,2016,61,AR
+614,Fort Smith NHS,2018,59.6,AR
+615,Fort Smith NHS,2019,59.6,AR
+616,Fort Smith NHS,2020,59.5,AR
+617,Fort Union Trading Post NHS,1990,47,ND
+618,Fort Union Trading Post NHS,1991,46.7,ND
+619,Fort Union Trading Post NHS,1992,48.4,ND
+620,Fort Union Trading Post NHS,1993,46.1,ND
+621,Fort Union Trading Post NHS,1994,48.5,ND
+622,Fort Union Trading Post NHS,1995,47.8,ND
+623,Fort Union Trading Post NHS,1996,45.4,ND
+624,Fort Union Trading Post NHS,1997,47.5,ND
+625,Fort Union Trading Post NHS,1998,49.9,ND
+626,Fort Union Trading Post NHS,1999,47.8,ND
+627,Fort Union Trading Post NHS,2000,47,ND
+628,Fort Union Trading Post NHS,2000,47,ND
+629,Fort Union Trading Post NHS,2001,48.3,ND
+630,Fort Union Trading Post NHS,2002,47.4,ND
+631,Fort Union Trading Post NHS,2003,49,ND
+632,Fort Union Trading Post NHS,2004,49.3,ND
+633,Fort Union Trading Post NHS,2005,47.6,ND
+634,Fort Union Trading Post NHS,2006,49.1,ND
+635,Fort Union Trading Post NHS,2012,48.4,ND
+636,Gateway Arch NP,1990,62.4,MO
+637,Gateway Arch NP,1991,61.8,MO
+638,Gateway Arch NP,1992,60.1,MO
+639,Gateway Arch NP,1993,59.7,MO
+640,Gateway Arch NP,1995,60.5,MO
+641,Gateway Arch NP,1999,62.7,MO
+642,Gateway Arch NP,2000,61.5,MO
+643,Gateway Arch NP,2000,61.5,MO
+644,Gateway Arch NP,2001,61.8,MO
+645,Gateway Arch NP,2007,60.4,MO
+646,Gateway Arch NP,2018,58.9,MO
+647,Gateway Arch NP,2019,59,MO
+648,Gateway Arch NP,2020,59.4,MO
+649,George Rogers Clark NHP,1990,62.3,IN
+650,George Rogers Clark NHP,1991,61.6,IN
+651,George Rogers Clark NHP,1993,59.7,IN
+652,George Rogers Clark NHP,1994,61,IN
+653,George Rogers Clark NHP,1995,60.8,IN
+654,George Rogers Clark NHP,1996,59.3,IN
+655,George Rogers Clark NHP,1997,59.6,IN
+656,George Rogers Clark NHP,1998,63.5,IN
+657,George Rogers Clark NHP,1999,62.7,IN
+658,George Rogers Clark NHP,2000,60.6,IN
+659,George Rogers Clark NHP,2000,60.6,IN
+660,George Rogers Clark NHP,2002,60.6,IN
+661,George Rogers Clark NHP,2003,59.5,IN
+662,George Rogers Clark NHP,2004,60.7,IN
+663,George Rogers Clark NHP,2005,61.2,IN
+664,George Rogers Clark NHP,2006,61.3,IN
+665,George Rogers Clark NHP,2007,61.8,IN
+666,George Rogers Clark NHP,2008,59.1,IN
+667,George Rogers Clark NHP,2009,59.6,IN
+668,George Rogers Clark NHP,2010,60.8,IN
+669,George Rogers Clark NHP,2010,60.8,IN
+670,George Rogers Clark NHP,2011,60.9,IN
+671,George Washington Carver NM,1990,62.4,MO
+672,George Washington Carver NM,1991,61.8,MO
+673,George Washington Carver NM,1992,60.1,MO
+674,George Washington Carver NM,1993,59.7,MO
+675,George Washington Carver NM,1995,60.5,MO
+676,George Washington Carver NM,1999,62.7,MO
+677,George Washington Carver NM,2000,61.5,MO
+678,George Washington Carver NM,2000,61.5,MO
+679,George Washington Carver NM,2001,61.8,MO
+680,George Washington Carver NM,2007,60.4,MO
+681,George Washington Carver NM,2018,58.9,MO
+682,George Washington Carver NM,2019,59,MO
+683,George Washington Carver NM,2020,59.4,MO
+684,Grand Portage NM,1990,37.8,MN
+685,Grand Portage NM,1992,36.2,MN
+686,Grand Portage NM,1995,35.4,MN
+687,Grand Portage NM,1998,40,MN
+688,Grand Portage NM,1999,39.6,MN
+689,Grand Portage NM,2000,37,MN
+690,Grand Portage NM,2000,37,MN
+691,Grand Portage NM,2001,38.6,MN
+692,Grand Portage NM,2002,36.6,MN
+693,Grand Portage NM,2003,37.5,MN
+694,Grand Portage NM,2008,35.6,MN
+695,Grand Portage NM,2009,35.8,MN
+696,Grand Portage NM,2010,38.7,MN
+697,Grand Portage NM,2010,38.7,MN
+698,Grand Portage NM,2011,38.3,MN
+699,Grand Portage NM,2013,34.9,MN
+700,Grand Portage NM,2014,35.3,MN
+701,Grand Portage NM,2015,40.1,MN
+702,Grand Portage NM,2019,33.7,MN
+703,Grand Portage NM,2020,38.4,MN
+704,Harry S Truman NHS,1990,62.4,MO
+705,Harry S Truman NHS,1991,61.8,MO
+706,Harry S Truman NHS,1992,60.1,MO
+707,Harry S Truman NHS,1993,59.7,MO
+708,Harry S Truman NHS,1995,60.5,MO
+709,Harry S Truman NHS,1999,62.7,MO
+710,Harry S Truman NHS,2000,61.5,MO
+711,Harry S Truman NHS,2000,61.5,MO
+712,Harry S Truman NHS,2001,61.8,MO
+713,Harry S Truman NHS,2007,60.4,MO
+714,Harry S Truman NHS,2018,58.9,MO
+715,Harry S Truman NHS,2019,59,MO
+716,Harry S Truman NHS,2020,59.4,MO
+717,Herbert Hoover NHS,1990,52.5,IA
+718,Herbert Hoover NHS,1992,50.2,IA
+719,Herbert Hoover NHS,1996,46.3,IA
+720,Herbert Hoover NHS,2002,49.5,IA
+721,Herbert Hoover NHS,2003,48.3,IA
+722,Herbert Hoover NHS,2004,49.1,IA
+723,Herbert Hoover NHS,2006,50.8,IA
+724,Herbert Hoover NHS,2011,49.8,IA
+725,Herbert Hoover NHS,2012,52.3,IA
+726,Herbert Hoover NHS,2014,46.4,IA
+727,Herbert Hoover NHS,2017,51.7,IA
+728,Herbert Hoover NHS,2018,49.3,IA
+729,Herbert Hoover NHS,2019,48.8,IA
+730,Herbert Hoover NHS,2020,50.7,IA
+731,Homestead NHP,1990,47.5,NE
+732,Homestead NHP,1991,46.1,NE
+733,Homestead NHP,1992,46,NE
+734,Homestead NHP,1995,46.2,NE
+735,Homestead NHP,2006,47.4,NE
+736,Homestead NHP,2007,45.8,NE
+737,Homestead NHP,2009,44,NE
+738,Homestead NHP,2010,45.4,NE
+739,Homestead NHP,2010,45.4,NE
+740,Homestead NHP,2011,45.5,NE
+741,Homestead NHP,2012,49.5,NE
+742,Homestead NHP,2013,43.7,NE
+743,Homestead NHP,2014,42.9,NE
+744,Homestead NHP,2015,46.9,NE
+745,Homestead NHP,2016,48.2,NE
+746,Homestead NHP,2019,44.1,NE
+747,Hopewell Culture NHP,1993,52.5,OH
+748,Hopewell Culture NHP,1994,53.1,OH
+749,Hopewell Culture NHP,1995,52.6,OH
+750,Hopewell Culture NHP,1996,50.5,OH
+751,Hopewell Culture NHP,1997,52.9,OH
+752,Hopewell Culture NHP,2007,55.4,OH
+753,Hopewell Culture NHP,2012,55.6,OH
+754,Hopewell Culture NHP,2013,52.9,OH
+755,Hopewell Culture NHP,2019,55.5,OH
+756,Hopewell Culture NHP,2020,55,OH
+757,Hot Springs NP,1990,64.1,AR
+758,Hot Springs NP,1991,63.3,AR
+759,Hot Springs NP,1994,61.2,AR
+760,Hot Springs NP,1995,61.2,AR
+761,Hot Springs NP,1996,59.9,AR
+762,Hot Springs NP,1997,60.5,AR
+763,Hot Springs NP,1998,63.5,AR
+764,Hot Springs NP,1999,62.7,AR
+765,Hot Springs NP,2000,61.4,AR
+766,Hot Springs NP,2000,61.4,AR
+767,Hot Springs NP,2001,60.7,AR
+768,Hot Springs NP,2002,59.6,AR
+769,Hot Springs NP,2003,59.3,AR
+770,Hot Springs NP,2004,60.1,AR
+771,Hot Springs NP,2005,60.9,AR
+772,Hot Springs NP,2006,61,AR
+773,Hot Springs NP,2007,60.6,AR
+774,Hot Springs NP,2008,58.7,AR
+775,Hot Springs NP,2009,58.5,AR
+776,Hot Springs NP,2010,59.9,AR
+777,Hot Springs NP,2010,59.9,AR
+778,Hot Springs NP,2012,62.4,AR
+779,Hot Springs NP,2013,58.5,AR
+780,Hot Springs NP,2014,57.1,AR
+781,Hot Springs NP,2015,59.9,AR
+782,Hot Springs NP,2016,61,AR
+783,Hot Springs NP,2018,59.6,AR
+784,Hot Springs NP,2019,59.6,AR
+785,Hot Springs NP,2020,59.5,AR
+786,Indiana Dunes NP,2000,40.7,IN
+787,Indiana Dunes NP,2000,40.7,IN
+788,Indiana Dunes NP,2001,40.9,IN
+789,Indiana Dunes NP,2010,43.6,IN
+790,Indiana Dunes NP,2010,43.6,IN
+791,Indiana Dunes NP,2011,41.1,IN
+792,Indiana Dunes NP,2015,38.1,IN
+793,Indiana Dunes NP,2016,43.2,IN
+794,Isle Royale NP,1990,37.8,MI
+795,Isle Royale NP,1992,36.2,MI
+796,Isle Royale NP,1995,35.4,MI
+797,Isle Royale NP,1998,40,MI
+798,Isle Royale NP,1999,39.6,MI
+799,Isle Royale NP,2000,37,MI
+800,Isle Royale NP,2000,37,MI
+801,Isle Royale NP,2001,38.6,MI
+802,Isle Royale NP,2002,36.6,MI
+803,Isle Royale NP,2003,37.5,MI
+804,Isle Royale NP,2008,35.6,MI
+805,Isle Royale NP,2009,35.8,MI
+806,Isle Royale NP,2010,38.7,MI
+807,Isle Royale NP,2010,38.7,MI
+808,Isle Royale NP,2011,38.3,MI
+809,Isle Royale NP,2013,34.9,MI
+810,Isle Royale NP,2014,35.3,MI
+811,Isle Royale NP,2015,40.1,MI
+812,Isle Royale NP,2019,33.7,MI
+813,Isle Royale NP,2020,38.4,MI
+814,James A. Garfield NHS,2000,40.7,OH
+815,James A. Garfield NHS,2000,40.7,OH
+816,James A. Garfield NHS,2001,40.9,OH
+817,James A. Garfield NHS,2010,43.6,OH
+818,James A. Garfield NHS,2010,43.6,OH
+819,James A. Garfield NHS,2011,41.1,OH
+820,James A. Garfield NHS,2015,38.1,OH
+821,James A. Garfield NHS,2016,43.2,OH
+822,Jewel Cave NM,1990,46.7,SD
+823,Jewel Cave NM,1991,47.6,SD
+824,Jewel Cave NM,1992,47,SD
+825,Jewel Cave NM,1993,43.1,SD
+826,Jewel Cave NM,1994,46.6,SD
+827,Jewel Cave NM,1995,45.8,SD
+828,Jewel Cave NM,1996,43.1,SD
+829,Jewel Cave NM,1997,46.3,SD
+830,Jewel Cave NM,1998,48.1,SD
+831,Jewel Cave NM,1999,48.8,SD
+832,Jewel Cave NM,2002,46.2,SD
+833,Jewel Cave NM,2003,47.3,SD
+834,Jewel Cave NM,2005,48.2,SD
+835,Jewel Cave NM,2006,49.3,SD
+836,Jewel Cave NM,2008,45.3,SD
+837,Jewel Cave NM,2010,46.8,SD
+838,Jewel Cave NM,2010,46.8,SD
+839,Jewel Cave NM,2011,47,SD
+840,Jewel Cave NM,2012,49.9,SD
+841,Jewel Cave NM,2014,46.3,SD
+842,Jewel Cave NM,2016,50,SD
+843,Jewel Cave NM,2017,48.3,SD
+844,Jewel Cave NM,2018,45.9,SD
+845,Jewel Cave NM,2020,48.7,SD
+846,Keweenaw NHP,1990,36.6,MI
+847,Keweenaw NHP,1991,36.4,MI
+848,Keweenaw NHP,1992,35.3,MI
+849,Keweenaw NHP,1993,34.7,MI
+850,Keweenaw NHP,1994,36.3,MI
+851,Keweenaw NHP,1995,35.7,MI
+852,Keweenaw NHP,1996,34.3,MI
+853,Keweenaw NHP,1997,36.5,MI
+854,Keweenaw NHP,1998,40.4,MI
+855,Keweenaw NHP,1999,38.8,MI
+856,Keweenaw NHP,2000,36.8,MI
+857,Keweenaw NHP,2000,36.8,MI
+858,Keweenaw NHP,2001,39,MI
+859,Keweenaw NHP,2002,37.4,MI
+860,Keweenaw NHP,2003,36.3,MI
+861,Keweenaw NHP,2004,36.1,MI
+862,Keweenaw NHP,2005,37.5,MI
+863,Keweenaw NHP,2006,39.7,MI
+864,Keweenaw NHP,2012,40.4,MI
+865,Keweenaw NHP,2013,34.9,MI
+866,Knife River Indian Villages NHS,1990,47.4,ND
+867,Knife River Indian Villages NHS,1991,47.3,ND
+868,Knife River Indian Villages NHS,1992,48.9,ND
+869,Knife River Indian Villages NHS,1993,46.3,ND
+870,Knife River Indian Villages NHS,1994,48.7,ND
+871,Knife River Indian Villages NHS,1995,48.1,ND
+872,Knife River Indian Villages NHS,1996,45.5,ND
+873,Knife River Indian Villages NHS,1997,47.3,ND
+874,Knife River Indian Villages NHS,1998,50.2,ND
+875,Knife River Indian Villages NHS,1999,47.8,ND
+876,Knife River Indian Villages NHS,2000,46.9,ND
+877,Knife River Indian Villages NHS,2000,46.9,ND
+878,Knife River Indian Villages NHS,2001,48,ND
+879,Knife River Indian Villages NHS,2002,47.6,ND
+880,Knife River Indian Villages NHS,2003,48.9,ND
+881,Knife River Indian Villages NHS,2004,49.1,ND
+882,Knife River Indian Villages NHS,2005,47.5,ND
+883,Knife River Indian Villages NHS,2006,48.7,ND
+884,Knife River Indian Villages NHS,2007,48.4,ND
+885,Knife River Indian Villages NHS,2009,47.1,ND
+886,Knife River Indian Villages NHS,2010,48.4,ND
+887,Knife River Indian Villages NHS,2010,48.4,ND
+888,Knife River Indian Villages NHS,2011,46.5,ND
+889,Knife River Indian Villages NHS,2013,48.2,ND
+890,Knife River Indian Villages NHS,2014,48.3,ND
+891,Knife River Indian Villages NHS,2015,50.4,ND
+892,Knife River Indian Villages NHS,2016,50,ND
+893,Knife River Indian Villages NHS,2017,47.9,ND
+894,Knife River Indian Villages NHS,2018,48.5,ND
+895,Knife River Indian Villages NHS,2019,47.5,ND
+896,Knife River Indian Villages NHS,2020,48.6,ND
+897,Lincoln Boyhood NMEM,1990,62.3,IN
+898,Lincoln Boyhood NMEM,1991,61.6,IN
+899,Lincoln Boyhood NMEM,1993,59.7,IN
+900,Lincoln Boyhood NMEM,1994,61,IN
+901,Lincoln Boyhood NMEM,1995,60.8,IN
+902,Lincoln Boyhood NMEM,1996,59.3,IN
+903,Lincoln Boyhood NMEM,1997,59.6,IN
+904,Lincoln Boyhood NMEM,1998,63.5,IN
+905,Lincoln Boyhood NMEM,1999,62.7,IN
+906,Lincoln Boyhood NMEM,2000,60.6,IN
+907,Lincoln Boyhood NMEM,2000,60.6,IN
+908,Lincoln Boyhood NMEM,2002,60.6,IN
+909,Lincoln Boyhood NMEM,2003,59.5,IN
+910,Lincoln Boyhood NMEM,2004,60.7,IN
+911,Lincoln Boyhood NMEM,2005,61.2,IN
+912,Lincoln Boyhood NMEM,2006,61.3,IN
+913,Lincoln Boyhood NMEM,2007,61.8,IN
+914,Lincoln Boyhood NMEM,2008,59.1,IN
+915,Lincoln Boyhood NMEM,2009,59.6,IN
+916,Lincoln Boyhood NMEM,2010,60.8,IN
+917,Lincoln Boyhood NMEM,2010,60.8,IN
+918,Lincoln Boyhood NMEM,2011,60.9,IN
+919,Lincoln Home NHS,1990,62.4,IL
+920,Lincoln Home NHS,1991,61.8,IL
+921,Lincoln Home NHS,1992,60.1,IL
+922,Lincoln Home NHS,1993,59.7,IL
+923,Lincoln Home NHS,1995,60.5,IL
+924,Lincoln Home NHS,1999,62.7,IL
+925,Lincoln Home NHS,2000,61.5,IL
+926,Lincoln Home NHS,2000,61.5,IL
+927,Lincoln Home NHS,2001,61.8,IL
+928,Lincoln Home NHS,2007,60.4,IL
+929,Lincoln Home NHS,2018,58.9,IL
+930,Lincoln Home NHS,2019,59,IL
+931,Lincoln Home NHS,2020,59.4,IL
+932,Little Rock Central High School NHS,1990,62.4,AR
+933,Little Rock Central High School NHS,1991,61.8,AR
+934,Little Rock Central High School NHS,1992,60.1,AR
+935,Little Rock Central High School NHS,1993,59.7,AR
+936,Little Rock Central High School NHS,1995,60.5,AR
+937,Little Rock Central High School NHS,1999,62.7,AR
+938,Little Rock Central High School NHS,2000,61.5,AR
+939,Little Rock Central High School NHS,2000,61.5,AR
+940,Little Rock Central High School NHS,2001,61.8,AR
+941,Little Rock Central High School NHS,2007,60.4,AR
+942,Little Rock Central High School NHS,2018,58.9,AR
+943,Little Rock Central High School NHS,2019,59,AR
+944,Little Rock Central High School NHS,2020,59.4,AR
+945,Minuteman Missile NHS,1994,50.5,SD
+946,Minuteman Missile NHS,1995,48.5,SD
+947,Minuteman Missile NHS,1998,50.1,SD
+948,Minuteman Missile NHS,1999,51.4,SD
+949,Minuteman Missile NHS,2000,49.1,SD
+950,Minuteman Missile NHS,2000,49.1,SD
+951,Minuteman Missile NHS,2001,50.6,SD
+952,Minuteman Missile NHS,2002,48.7,SD
+953,Minuteman Missile NHS,2003,49.6,SD
+954,Minuteman Missile NHS,2006,48.9,SD
+955,Minuteman Missile NHS,2009,45.5,SD
+956,Minuteman Missile NHS,2010,46.9,SD
+957,Minuteman Missile NHS,2010,46.9,SD
+958,Minuteman Missile NHS,2011,46.5,SD
+959,Minuteman Missile NHS,2012,50.7,SD
+960,Minuteman Missile NHS,2013,46.4,SD
+961,Minuteman Missile NHS,2014,45.9,SD
+962,Minuteman Missile NHS,2015,48.1,SD
+963,Minuteman Missile NHS,2016,49.1,SD
+964,Minuteman Missile NHS,2017,47.9,SD
+965,Minuteman Missile NHS,2018,46.1,SD
+966,Minuteman Missile NHS,2019,44.6,SD
+967,Minuteman Missile NHS,2020,49.1,SD
+968,Mississippi NRRA,1990,46.1,MN
+969,Mississippi NRRA,1991,44.7,MN
+970,Mississippi NRRA,1992,44.1,MN
+971,Mississippi NRRA,1993,41.9,MN
+972,Mississippi NRRA,1994,44,MN
+973,Mississippi NRRA,1995,44.1,MN
+974,Mississippi NRRA,1997,43.6,MN
+975,Mississippi NRRA,1998,48,MN
+976,Mississippi NRRA,1999,46.6,MN
+977,Mississippi NRRA,2000,45.3,MN
+978,Mississippi NRRA,2000,45.3,MN
+979,Mississippi NRRA,2001,45.7,MN
+980,Mississippi NRRA,2002,45.9,MN
+981,Mississippi NRRA,2003,44.7,MN
+982,Mississippi NRRA,2004,45.2,MN
+983,Mississippi NRRA,2005,46.5,MN
+984,Mississippi NRRA,2006,47.1,MN
+985,Mississippi NRRA,2007,45.5,MN
+986,Mississippi NRRA,2008,42.7,MN
+987,Mississippi NRRA,2009,43.6,MN
+988,Mississippi NRRA,2010,45.5,MN
+989,Mississippi NRRA,2010,45.5,MN
+990,Mississippi NRRA,2011,45.5,MN
+991,Mississippi NRRA,2012,49.4,MN
+992,Mississippi NRRA,2013,43.4,MN
+993,Mississippi NRRA,2014,42.2,MN
+994,Mississippi NRRA,2015,46.8,MN
+995,Mississippi NRRA,2016,47.7,MN
+996,Mississippi NRRA,2017,46.6,MN
+997,Mississippi NRRA,2018,44,MN
+998,Mississippi NRRA,2019,43.4,MN
+999,Mississippi NRRA,2020,46.5,MN
+1000,Missouri NRR,1990,47,SD
+1001,Missouri NRR,1991,46.7,SD
+1002,Missouri NRR,1992,48.4,SD
+1003,Missouri NRR,1993,46.1,SD
+1004,Missouri NRR,1994,48.5,SD
+1005,Missouri NRR,1995,47.8,SD
+1006,Missouri NRR,1996,45.4,SD
+1007,Missouri NRR,1997,47.5,SD
+1008,Missouri NRR,1998,49.9,SD
+1009,Missouri NRR,1999,47.8,SD
+1010,Missouri NRR,2000,47,SD
+1011,Missouri NRR,2000,47,SD
+1012,Missouri NRR,2001,48.3,SD
+1013,Missouri NRR,2002,47.4,SD
+1014,Missouri NRR,2003,49,SD
+1015,Missouri NRR,2004,49.3,SD
+1016,Missouri NRR,2005,47.6,SD
+1017,Missouri NRR,2006,49.1,SD
+1018,Missouri NRR,2012,48.4,SD
+1019,Mount Rushmore NMEM,1991,43.8,SD
+1020,Mount Rushmore NMEM,1993,38.7,SD
+1021,Mount Rushmore NMEM,1994,42.4,SD
+1022,Mount Rushmore NMEM,1995,42.7,SD
+1023,Mount Rushmore NMEM,1996,38.8,SD
+1024,Mount Rushmore NMEM,1998,44.5,SD
+1025,Mount Rushmore NMEM,1999,45.3,SD
+1026,Mount Rushmore NMEM,2000,43.4,SD
+1027,Mount Rushmore NMEM,2000,43.4,SD
+1028,Mount Rushmore NMEM,2002,43.7,SD
+1029,Mount Rushmore NMEM,2003,44.1,SD
+1030,Mount Rushmore NMEM,2004,45.4,SD
+1031,Mount Rushmore NMEM,2005,47.6,SD
+1032,Mount Rushmore NMEM,2006,47.9,SD
+1033,Mount Rushmore NMEM,2007,46.4,SD
+1034,Mount Rushmore NMEM,2015,44.8,SD
+1035,Mount Rushmore NMEM,2017,41.1,SD
+1036,Nicodemus NHS,1990,48.5,KS
+1037,Nicodemus NHS,1991,49.4,KS
+1038,Nicodemus NHS,1993,45.8,KS
+1039,Nicodemus NHS,1994,50.3,KS
+1040,Nicodemus NHS,1995,48.5,KS
+1041,Nicodemus NHS,1996,48.2,KS
+1042,Nicodemus NHS,1997,48.2,KS
+1043,Nicodemus NHS,1998,50.4,KS
+1044,Nicodemus NHS,1999,51,KS
+1045,Nicodemus NHS,2000,49.9,KS
+1046,Nicodemus NHS,2000,49.9,KS
+1047,Nicodemus NHS,2001,50.2,KS
+1048,Nicodemus NHS,2003,50,KS
+1049,Nicodemus NHS,2004,50.3,KS
+1050,Nicodemus NHS,2005,51.6,KS
+1051,Nicodemus NHS,2006,50.8,KS
+1052,Nicodemus NHS,2007,49.3,KS
+1053,Nicodemus NHS,2008,48.3,KS
+1054,Nicodemus NHS,2009,48.4,KS
+1055,Nicodemus NHS,2010,51.1,KS
+1056,Nicodemus NHS,2010,51.1,KS
+1057,Nicodemus NHS,2011,49.9,KS
+1058,Nicodemus NHS,2012,53.4,KS
+1059,Nicodemus NHS,2013,49.4,KS
+1060,Nicodemus NHS,2014,49.7,KS
+1061,Nicodemus NHS,2015,51.8,KS
+1062,Nicodemus NHS,2016,52,KS
+1063,Nicodemus NHS,2017,52,KS
+1064,Nicodemus NHS,2019,48.3,KS
+1065,Nicodemus NHS,2020,50.6,KS
+1066,Niobrara NSR,1990,50.9,NE
+1067,Niobrara NSR,1991,50.7,NE
+1068,Niobrara NSR,1992,49.6,NE
+1069,Niobrara NSR,1993,46.6,NE
+1070,Niobrara NSR,1994,49.3,NE
+1071,Niobrara NSR,1995,49.1,NE
+1072,Niobrara NSR,1996,45.8,NE
+1073,Niobrara NSR,1997,49,NE
+1074,Niobrara NSR,1998,51,NE
+1075,Niobrara NSR,1999,51.9,NE
+1076,Niobrara NSR,2000,50.4,NE
+1077,Niobrara NSR,2000,50.4,NE
+1078,Niobrara NSR,2002,51.1,NE
+1079,Niobrara NSR,2003,50,NE
+1080,Niobrara NSR,2004,50.1,NE
+1081,Niobrara NSR,2005,50.6,NE
+1082,Niobrara NSR,2006,51.2,NE
+1083,Niobrara NSR,2007,49.9,NE
+1084,Niobrara NSR,2008,47.9,NE
+1085,Niobrara NSR,2009,47.8,NE
+1086,Niobrara NSR,2010,49.7,NE
+1087,Niobrara NSR,2010,49.7,NE
+1088,Niobrara NSR,2011,49,NE
+1089,Niobrara NSR,2012,54,NE
+1090,Niobrara NSR,2013,48.5,NE
+1091,Niobrara NSR,2014,48.5,NE
+1092,Niobrara NSR,2015,51.5,NE
+1093,Niobrara NSR,2016,52.4,NE
+1094,Niobrara NSR,2017,51.5,NE
+1095,Niobrara NSR,2018,49.1,NE
+1096,Niobrara NSR,2019,48.2,NE
+1097,Ozark NSR,1990,62.4,MO
+1098,Ozark NSR,1991,61.8,MO
+1099,Ozark NSR,1992,60.1,MO
+1100,Ozark NSR,1993,59.7,MO
+1101,Ozark NSR,1995,60.5,MO
+1102,Ozark NSR,1999,62.7,MO
+1103,Ozark NSR,2000,61.5,MO
+1104,Ozark NSR,2000,61.5,MO
+1105,Ozark NSR,2001,61.8,MO
+1106,Ozark NSR,2007,60.4,MO
+1107,Ozark NSR,2018,58.9,MO
+1108,Ozark NSR,2019,59,MO
+1109,Ozark NSR,2020,59.4,MO
+1110,Pea Ridge NMP,1990,62.4,AR
+1111,Pea Ridge NMP,1991,61.8,AR
+1112,Pea Ridge NMP,1992,60.1,AR
+1113,Pea Ridge NMP,1993,59.7,AR
+1114,Pea Ridge NMP,1995,60.5,AR
+1115,Pea Ridge NMP,1999,62.7,AR
+1116,Pea Ridge NMP,2000,61.5,AR
+1117,Pea Ridge NMP,2000,61.5,AR
+1118,Pea Ridge NMP,2001,61.8,AR
+1119,Pea Ridge NMP,2007,60.4,AR
+1120,Pea Ridge NMP,2018,58.9,AR
+1121,Pea Ridge NMP,2019,59,AR
+1122,Pea Ridge NMP,2020,59.4,AR
+1123,Perry's Victory & Intl. Peace MEM,2000,40.7,OH
+1124,Perry's Victory & Intl. Peace MEM,2000,40.7,OH
+1125,Perry's Victory & Intl. Peace MEM,2001,40.9,OH
+1126,Perry's Victory & Intl. Peace MEM,2010,43.6,OH
+1127,Perry's Victory & Intl. Peace MEM,2010,43.6,OH
+1128,Perry's Victory & Intl. Peace MEM,2011,41.1,OH
+1129,Perry's Victory & Intl. Peace MEM,2015,38.1,OH
+1130,Perry's Victory & Intl. Peace MEM,2016,43.2,OH
+1131,Pictured Rocks NL,2000,40.7,MI
+1132,Pictured Rocks NL,2000,40.7,MI
+1133,Pictured Rocks NL,2001,40.9,MI
+1134,Pictured Rocks NL,2010,43.6,MI
+1135,Pictured Rocks NL,2010,43.6,MI
+1136,Pictured Rocks NL,2011,41.1,MI
+1137,Pictured Rocks NL,2015,38.1,MI
+1138,Pictured Rocks NL,2016,43.2,MI
+1139,Pipestone NM,1990,47.4,MN
+1140,Pipestone NM,1991,47.3,MN
+1141,Pipestone NM,1992,48.9,MN
+1142,Pipestone NM,1993,46.3,MN
+1143,Pipestone NM,1994,48.7,MN
+1144,Pipestone NM,1995,48.1,MN
+1145,Pipestone NM,1996,45.5,MN
+1146,Pipestone NM,1997,47.3,MN
+1147,Pipestone NM,1998,50.2,MN
+1148,Pipestone NM,1999,47.8,MN
+1149,Pipestone NM,2000,46.9,MN
+1150,Pipestone NM,2000,46.9,MN
+1151,Pipestone NM,2001,48,MN
+1152,Pipestone NM,2002,47.6,MN
+1153,Pipestone NM,2003,48.9,MN
+1154,Pipestone NM,2004,49.1,MN
+1155,Pipestone NM,2005,47.5,MN
+1156,Pipestone NM,2006,48.7,MN
+1157,Pipestone NM,2007,48.4,MN
+1158,Pipestone NM,2009,47.1,MN
+1159,Pipestone NM,2010,48.4,MN
+1160,Pipestone NM,2010,48.4,MN
+1161,Pipestone NM,2011,46.5,MN
+1162,Pipestone NM,2013,48.2,MN
+1163,Pipestone NM,2014,48.3,MN
+1164,Pipestone NM,2015,50.4,MN
+1165,Pipestone NM,2016,50,MN
+1166,Pipestone NM,2017,47.9,MN
+1167,Pipestone NM,2018,48.5,MN
+1168,Pipestone NM,2019,47.5,MN
+1169,Pipestone NM,2020,48.6,MN
+1170,River Raisin NBP,2000,40.7,MI
+1171,River Raisin NBP,2000,40.7,MI
+1172,River Raisin NBP,2001,40.9,MI
+1173,River Raisin NBP,2010,43.6,MI
+1174,River Raisin NBP,2010,43.6,MI
+1175,River Raisin NBP,2011,41.1,MI
+1176,River Raisin NBP,2015,38.1,MI
+1177,River Raisin NBP,2016,43.2,MI
+1178,Saint Croix NSR,1995,38.9,WI
+1179,Saint Croix NSR,1996,36.5,WI
+1180,Saint Croix NSR,1997,39.5,WI
+1181,Saint Croix NSR,1998,44,WI
+1182,Saint Croix NSR,1999,43.1,WI
+1183,Saint Croix NSR,2002,40.7,WI
+1184,Saint Croix NSR,2004,40.4,WI
+1185,Saint Croix NSR,2020,41.9,WI
+1186,Scotts Bluff NM,1991,48.6,NE
+1187,Scotts Bluff NM,1992,48.1,NE
+1188,Scotts Bluff NM,1993,46.1,NE
+1189,Scotts Bluff NM,1994,49.9,NE
+1190,Scotts Bluff NM,1995,48.3,NE
+1191,Scotts Bluff NM,1996,48.6,NE
+1192,Scotts Bluff NM,1997,48.3,NE
+1193,Scotts Bluff NM,1998,49.9,NE
+1194,Scotts Bluff NM,2000,49.9,NE
+1195,Scotts Bluff NM,2000,49.9,NE
+1196,Scotts Bluff NM,2001,50.2,NE
+1197,Scotts Bluff NM,2002,49.7,NE
+1198,Scotts Bluff NM,2004,49.1,NE
+1199,Scotts Bluff NM,2005,49.6,NE
+1200,Scotts Bluff NM,2007,47.6,NE
+1201,Scotts Bluff NM,2009,46.4,NE
+1202,Scotts Bluff NM,2010,48.1,NE
+1203,Scotts Bluff NM,2010,48.1,NE
+1204,Scotts Bluff NM,2019,46,NE
+1205,Sleeping Bear Dunes NL,2000,40.7,MI
+1206,Sleeping Bear Dunes NL,2000,40.7,MI
+1207,Sleeping Bear Dunes NL,2001,40.9,MI
+1208,Sleeping Bear Dunes NL,2010,43.6,MI
+1209,Sleeping Bear Dunes NL,2010,43.6,MI
+1210,Sleeping Bear Dunes NL,2011,41.1,MI
+1211,Sleeping Bear Dunes NL,2015,38.1,MI
+1212,Sleeping Bear Dunes NL,2016,43.2,MI
+1213,Tallgrass Prairie NPRES,1990,57.7,KS
+1214,Tallgrass Prairie NPRES,1991,58,KS
+1215,Tallgrass Prairie NPRES,1993,55.2,KS
+1216,Tallgrass Prairie NPRES,1994,58.3,KS
+1217,Tallgrass Prairie NPRES,2007,57.1,KS
+1218,Tallgrass Prairie NPRES,2008,55.1,KS
+1219,Tallgrass Prairie NPRES,2009,55.6,KS
+1220,Tallgrass Prairie NPRES,2010,57.1,KS
+1221,Tallgrass Prairie NPRES,2010,57.1,KS
+1222,Tallgrass Prairie NPRES,2011,57.3,KS
+1223,Tallgrass Prairie NPRES,2012,60.8,KS
+1224,Tallgrass Prairie NPRES,2013,56,KS
+1225,Tallgrass Prairie NPRES,2014,56.4,KS
+1226,Tallgrass Prairie NPRES,2015,58.9,KS
+1227,Tallgrass Prairie NPRES,2016,60,KS
+1228,Tallgrass Prairie NPRES,2017,59.3,KS
+1229,Tallgrass Prairie NPRES,2018,57.5,KS
+1230,Tallgrass Prairie NPRES,2019,56.3,KS
+1231,Tallgrass Prairie NPRES,2020,58.1,KS
+1232,Theodore Roosevelt NP,1990,47,ND
+1233,Theodore Roosevelt NP,1991,46.7,ND
+1234,Theodore Roosevelt NP,1992,48.4,ND
+1235,Theodore Roosevelt NP,1993,46.1,ND
+1236,Theodore Roosevelt NP,1994,48.5,ND
+1237,Theodore Roosevelt NP,1995,47.8,ND
+1238,Theodore Roosevelt NP,1996,45.4,ND
+1239,Theodore Roosevelt NP,1997,47.5,ND
+1240,Theodore Roosevelt NP,1998,49.9,ND
+1241,Theodore Roosevelt NP,1999,47.8,ND
+1242,Theodore Roosevelt NP,2000,47,ND
+1243,Theodore Roosevelt NP,2000,47,ND
+1244,Theodore Roosevelt NP,2001,48.3,ND
+1245,Theodore Roosevelt NP,2002,47.4,ND
+1246,Theodore Roosevelt NP,2003,49,ND
+1247,Theodore Roosevelt NP,2004,49.3,ND
+1248,Theodore Roosevelt NP,2005,47.6,ND
+1249,Theodore Roosevelt NP,2006,49.1,ND
+1250,Theodore Roosevelt NP,2012,48.4,ND
+1251,Ulysses S. Grant NHS,1990,62.4,MO
+1252,Ulysses S. Grant NHS,1991,61.8,MO
+1253,Ulysses S. Grant NHS,1992,60.1,MO
+1254,Ulysses S. Grant NHS,1993,59.7,MO
+1255,Ulysses S. Grant NHS,1995,60.5,MO
+1256,Ulysses S. Grant NHS,1999,62.7,MO
+1257,Ulysses S. Grant NHS,2000,61.5,MO
+1258,Ulysses S. Grant NHS,2000,61.5,MO
+1259,Ulysses S. Grant NHS,2001,61.8,MO
+1260,Ulysses S. Grant NHS,2007,60.4,MO
+1261,Ulysses S. Grant NHS,2018,58.9,MO
+1262,Ulysses S. Grant NHS,2019,59,MO
+1263,Ulysses S. Grant NHS,2020,59.4,MO
+1264,Voyageurs NP,1990,37.8,MN
+1265,Voyageurs NP,1992,36.2,MN
+1266,Voyageurs NP,1995,35.4,MN
+1267,Voyageurs NP,1998,40,MN
+1268,Voyageurs NP,1999,39.6,MN
+1269,Voyageurs NP,2000,37,MN
+1270,Voyageurs NP,2000,37,MN
+1271,Voyageurs NP,2001,38.6,MN
+1272,Voyageurs NP,2002,36.6,MN
+1273,Voyageurs NP,2003,37.5,MN
+1274,Voyageurs NP,2008,35.6,MN
+1275,Voyageurs NP,2009,35.8,MN
+1276,Voyageurs NP,2010,38.7,MN
+1277,Voyageurs NP,2010,38.7,MN
+1278,Voyageurs NP,2011,38.3,MN
+1279,Voyageurs NP,2013,34.9,MN
+1280,Voyageurs NP,2014,35.3,MN
+1281,Voyageurs NP,2015,40.1,MN
+1282,Voyageurs NP,2019,33.7,MN
+1283,Voyageurs NP,2020,38.4,MN
+1284,William Howard Taft NHS,1990,53.6,OH
+1285,William Howard Taft NHS,1991,53.7,OH
+1286,William Howard Taft NHS,1992,51,OH
+1287,William Howard Taft NHS,1994,51.3,OH
+1288,William Howard Taft NHS,1996,49.6,OH
+1289,William Howard Taft NHS,1997,50.1,OH
+1290,William Howard Taft NHS,1998,54.7,OH
+1291,William Howard Taft NHS,1999,52.9,OH
+1292,William Howard Taft NHS,2000,51.6,OH
+1293,William Howard Taft NHS,2000,51.6,OH
+1294,William Howard Taft NHS,2001,53.4,OH
+1295,William Howard Taft NHS,2004,51.9,OH
+1296,William Howard Taft NHS,2005,52,OH
+1297,William Howard Taft NHS,2006,53.2,OH
+1298,William Howard Taft NHS,2009,51.1,OH
+1299,William Howard Taft NHS,2010,52.2,OH
+1300,William Howard Taft NHS,2010,52.2,OH
+1301,William Howard Taft NHS,2011,52.9,OH
+1302,William Howard Taft NHS,2012,54.9,OH
+1303,William Howard Taft NHS,2013,51.5,OH
+1304,William Howard Taft NHS,2014,49.3,OH
+1305,William Howard Taft NHS,2015,52.2,OH
+1306,William Howard Taft NHS,2016,54.3,OH
+1307,William Howard Taft NHS,2017,54,OH
+1308,Wilson's Creek NB,1990,62.3,MO
+1309,Wilson's Creek NB,1991,61.5,MO
+1310,Wilson's Creek NB,1992,60,MO
+1311,Wilson's Creek NB,1993,59.3,MO
+1312,Wilson's Creek NB,1994,60.8,MO
+1313,Wilson's Creek NB,1996,60,MO
+1314,Wilson's Creek NB,1997,60.7,MO
+1315,Wilson's Creek NB,1998,63.7,MO
+1316,Wilson's Creek NB,1999,63,MO
+1317,Wilson's Creek NB,2000,62,MO
+1318,Wilson's Creek NB,2000,62,MO
+1319,Wilson's Creek NB,2001,62.4,MO
+1320,Wilson's Creek NB,2002,61.4,MO
+1321,Wilson's Creek NB,2003,60.1,MO
+1322,Wilson's Creek NB,2004,60,MO
+1323,Wilson's Creek NB,2005,59.8,MO
+1324,Wilson's Creek NB,2006,59.1,MO
+1325,Wilson's Creek NB,2008,56.8,MO
+1326,Wilson's Creek NB,2009,57.1,MO
+1327,Wilson's Creek NB,2010,58.5,MO
+1328,Wilson's Creek NB,2010,58.5,MO
+1329,Wilson's Creek NB,2012,60.7,MO
+1330,Wilson's Creek NB,2013,56,MO
+1331,Wilson's Creek NB,2015,57.7,MO
+1332,Wilson's Creek NB,2016,59,MO
+1333,Wilson's Creek NB,2017,58.7,MO
+1334,Wilson's Creek NB,2018,57.4,MO
+1335,Wilson's Creek NB,2019,57.4,MO
+1336,Wilson's Creek NB,2020,57.7,MO
+1337,Wind Cave NP,1990,46.6,SD
+1338,Wind Cave NP,1991,47.2,SD
+1339,Wind Cave NP,1992,46.8,SD
+1340,Wind Cave NP,1993,42.4,SD
+1341,Wind Cave NP,1994,47.2,SD
+1342,Wind Cave NP,1995,45.4,SD
+1343,Wind Cave NP,1996,44.6,SD
+1344,Wind Cave NP,1997,46.1,SD
+1345,Wind Cave NP,1998,46,SD
+1346,Wind Cave NP,1999,47.5,SD
+1347,Wind Cave NP,2000,45.4,SD
+1348,Wind Cave NP,2000,45.4,SD
+1349,Wind Cave NP,2001,46.4,SD
+1350,Wind Cave NP,2002,45.3,SD
+1351,Wind Cave NP,2003,46.4,SD
+1352,Wind Cave NP,2004,46.7,SD
+1353,Wind Cave NP,2005,46.6,SD
+1354,Wind Cave NP,2006,47,SD
+1355,Wind Cave NP,2007,47.3,SD
+1356,Wind Cave NP,2008,45.1,SD
+1357,Wind Cave NP,2010,46.8,SD
+1358,Wind Cave NP,2010,46.8,SD
+1359,Wind Cave NP,2011,46.5,SD
+1360,Wind Cave NP,2012,49.4,SD
+1361,Wind Cave NP,2013,46,SD
+1362,Wind Cave NP,2014,46.1,SD
+1363,Wind Cave NP,2015,48.3,SD
+1364,Wind Cave NP,2016,47.9,SD
+1365,Wind Cave NP,2017,48,SD
+1366,Wind Cave NP,2020,47.7,SD
+1367,Antietam NB,2000,40.7,MD
+1368,Antietam NB,2000,40.7,MD
+1369,Antietam NB,2001,40.9,MD
+1370,Antietam NB,2010,43.6,MD
+1371,Antietam NB,2010,43.6,MD
+1372,Antietam NB,2011,41.1,MD
+1373,Antietam NB,2015,38.1,MD
+1374,Antietam NB,2016,43.2,MD
+1375,Arlington House The R.E. Lee MEM,1996,44.2,VA
+1376,Arlington House The R.E. Lee MEM,1997,45,VA
+1377,Arlington House The R.E. Lee MEM,1998,50,VA
+1378,Arlington House The R.E. Lee MEM,1999,47.8,VA
+1379,Arlington House The R.E. Lee MEM,2000,46.1,VA
+1380,Arlington House The R.E. Lee MEM,2000,46.1,VA
+1381,Arlington House The R.E. Lee MEM,2001,48.3,VA
+1382,Arlington House The R.E. Lee MEM,2002,47.3,VA
+1383,Arlington House The R.E. Lee MEM,2003,44.9,VA
+1384,Arlington House The R.E. Lee MEM,2006,48,VA
+1385,Arlington House The R.E. Lee MEM,2007,47,VA
+1386,Arlington House The R.E. Lee MEM,2009,45.3,VA
+1387,Arlington House The R.E. Lee MEM,2010,47.4,VA
+1388,Arlington House The R.E. Lee MEM,2010,47.4,VA
+1389,Belmont-Paul Women's Equality NM,1996,44.2,DC
+1390,Belmont-Paul Women's Equality NM,1997,45,DC
+1391,Belmont-Paul Women's Equality NM,1998,50,DC
+1392,Belmont-Paul Women's Equality NM,1999,47.8,DC
+1393,Belmont-Paul Women's Equality NM,2000,46.1,DC
+1394,Belmont-Paul Women's Equality NM,2000,46.1,DC
+1395,Belmont-Paul Women's Equality NM,2001,48.3,DC
+1396,Belmont-Paul Women's Equality NM,2002,47.3,DC
+1397,Belmont-Paul Women's Equality NM,2003,44.9,DC
+1398,Belmont-Paul Women's Equality NM,2006,48,DC
+1399,Belmont-Paul Women's Equality NM,2007,47,DC
+1400,Belmont-Paul Women's Equality NM,2009,45.3,DC
+1401,Belmont-Paul Women's Equality NM,2010,47.4,DC
+1402,Belmont-Paul Women's Equality NM,2010,47.4,DC
+1403,Carter G. Woodson Home NHS,1996,44.2,DC
+1404,Carter G. Woodson Home NHS,1997,45,DC
+1405,Carter G. Woodson Home NHS,1998,50,DC
+1406,Carter G. Woodson Home NHS,1999,47.8,DC
+1407,Carter G. Woodson Home NHS,2000,46.1,DC
+1408,Carter G. Woodson Home NHS,2000,46.1,DC
+1409,Carter G. Woodson Home NHS,2001,48.3,DC
+1410,Carter G. Woodson Home NHS,2002,47.3,DC
+1411,Carter G. Woodson Home NHS,2003,44.9,DC
+1412,Carter G. Woodson Home NHS,2006,48,DC
+1413,Carter G. Woodson Home NHS,2007,47,DC
+1414,Carter G. Woodson Home NHS,2009,45.3,DC
+1415,Carter G. Woodson Home NHS,2010,47.4,DC
+1416,Carter G. Woodson Home NHS,2010,47.4,DC
+1417,Catoctin Mountain Park,2000,40.7,MD
+1418,Catoctin Mountain Park,2000,40.7,MD
+1419,Catoctin Mountain Park,2001,40.9,MD
+1420,Catoctin Mountain Park,2010,43.6,MD
+1421,Catoctin Mountain Park,2010,43.6,MD
+1422,Catoctin Mountain Park,2011,41.1,MD
+1423,Catoctin Mountain Park,2015,38.1,MD
+1424,Catoctin Mountain Park,2016,43.2,MD
+1425,Chesapeake & Ohio Canal NHP,2000,40.7,MD
+1426,Chesapeake & Ohio Canal NHP,2000,40.7,MD
+1427,Chesapeake & Ohio Canal NHP,2001,40.9,MD
+1428,Chesapeake & Ohio Canal NHP,2010,43.6,MD
+1429,Chesapeake & Ohio Canal NHP,2010,43.6,MD
+1430,Chesapeake & Ohio Canal NHP,2011,41.1,MD
+1431,Chesapeake & Ohio Canal NHP,2015,38.1,MD
+1432,Chesapeake & Ohio Canal NHP,2016,43.2,MD
+1433,Clara Barton NHS,1996,44.2,MD
+1434,Clara Barton NHS,1997,45,MD
+1435,Clara Barton NHS,1998,50,MD
+1436,Clara Barton NHS,1999,47.8,MD
+1437,Clara Barton NHS,2000,46.1,MD
+1438,Clara Barton NHS,2000,46.1,MD
+1439,Clara Barton NHS,2001,48.3,MD
+1440,Clara Barton NHS,2002,47.3,MD
+1441,Clara Barton NHS,2003,44.9,MD
+1442,Clara Barton NHS,2006,48,MD
+1443,Clara Barton NHS,2007,47,MD
+1444,Clara Barton NHS,2009,45.3,MD
+1445,Clara Barton NHS,2010,47.4,MD
+1446,Clara Barton NHS,2010,47.4,MD
+1447,Dwight D. Eisenhower MEM,2000,40.7,
+1448,Dwight D. Eisenhower MEM,2000,40.7,
+1449,Dwight D. Eisenhower MEM,2001,40.9,
+1450,Dwight D. Eisenhower MEM,2010,43.6,
+1451,Dwight D. Eisenhower MEM,2010,43.6,
+1452,Dwight D. Eisenhower MEM,2011,41.1,
+1453,Dwight D. Eisenhower MEM,2015,38.1,
+1454,Dwight D. Eisenhower MEM,2016,43.2,
+1455,Ford's Theatre NHS,1996,44.2,DC
+1456,Ford's Theatre NHS,1997,45,DC
+1457,Ford's Theatre NHS,1998,50,DC
+1458,Ford's Theatre NHS,1999,47.8,DC
+1459,Ford's Theatre NHS,2000,46.1,DC
+1460,Ford's Theatre NHS,2000,46.1,DC
+1461,Ford's Theatre NHS,2001,48.3,DC
+1462,Ford's Theatre NHS,2002,47.3,DC
+1463,Ford's Theatre NHS,2003,44.9,DC
+1464,Ford's Theatre NHS,2006,48,DC
+1465,Ford's Theatre NHS,2007,47,DC
+1466,Ford's Theatre NHS,2009,45.3,DC
+1467,Ford's Theatre NHS,2010,47.4,DC
+1468,Ford's Theatre NHS,2010,47.4,DC
+1469,Fort Washington Park,2000,40.7,MD
+1470,Fort Washington Park,2000,40.7,MD
+1471,Fort Washington Park,2001,40.9,MD
+1472,Fort Washington Park,2010,43.6,MD
+1473,Fort Washington Park,2010,43.6,MD
+1474,Fort Washington Park,2011,41.1,MD
+1475,Fort Washington Park,2015,38.1,MD
+1476,Fort Washington Park,2016,43.2,MD
+1477,Frederick Douglass NHS,1996,44.2,DC
+1478,Frederick Douglass NHS,1997,45,DC
+1479,Frederick Douglass NHS,1998,50,DC
+1480,Frederick Douglass NHS,1999,47.8,DC
+1481,Frederick Douglass NHS,2000,46.1,DC
+1482,Frederick Douglass NHS,2000,46.1,DC
+1483,Frederick Douglass NHS,2001,48.3,DC
+1484,Frederick Douglass NHS,2002,47.3,DC
+1485,Frederick Douglass NHS,2003,44.9,DC
+1486,Frederick Douglass NHS,2006,48,DC
+1487,Frederick Douglass NHS,2007,47,DC
+1488,Frederick Douglass NHS,2009,45.3,DC
+1489,Frederick Douglass NHS,2010,47.4,DC
+1490,Frederick Douglass NHS,2010,47.4,DC
+1491,George Washington MEM PKWY,1996,44.2,
+1492,George Washington MEM PKWY,1997,45,
+1493,George Washington MEM PKWY,1998,50,
+1494,George Washington MEM PKWY,1999,47.8,
+1495,George Washington MEM PKWY,2000,46.1,
+1496,George Washington MEM PKWY,2000,46.1,
+1497,George Washington MEM PKWY,2001,48.3,
+1498,George Washington MEM PKWY,2002,47.3,
+1499,George Washington MEM PKWY,2003,44.9,
+1500,George Washington MEM PKWY,2006,48,
+1501,George Washington MEM PKWY,2007,47,
+1502,George Washington MEM PKWY,2009,45.3,
+1503,George Washington MEM PKWY,2010,47.4,
+1504,George Washington MEM PKWY,2010,47.4,
+1505,Greenbelt Park,1996,44.2,MD
+1506,Greenbelt Park,1997,45,MD
+1507,Greenbelt Park,1998,50,MD
+1508,Greenbelt Park,1999,47.8,MD
+1509,Greenbelt Park,2000,46.1,MD
+1510,Greenbelt Park,2000,46.1,MD
+1511,Greenbelt Park,2001,48.3,MD
+1512,Greenbelt Park,2002,47.3,MD
+1513,Greenbelt Park,2003,44.9,MD
+1514,Greenbelt Park,2006,48,MD
+1515,Greenbelt Park,2007,47,MD
+1516,Greenbelt Park,2009,45.3,MD
+1517,Greenbelt Park,2010,47.4,MD
+1518,Greenbelt Park,2010,47.4,MD
+1519,Harpers Ferry NHP,2000,40.7,WV
+1520,Harpers Ferry NHP,2000,40.7,WV
+1521,Harpers Ferry NHP,2001,40.9,WV
+1522,Harpers Ferry NHP,2010,43.6,WV
+1523,Harpers Ferry NHP,2010,43.6,WV
+1524,Harpers Ferry NHP,2011,41.1,WV
+1525,Harpers Ferry NHP,2015,38.1,WV
+1526,Harpers Ferry NHP,2016,43.2,WV
+1527,John F. Kennedy Center For Pa,1997,45.2,PA
+1528,John F. Kennedy Center For Pa,1998,48.8,PA
+1529,John F. Kennedy Center For Pa,2001,47.5,PA
+1530,John F. Kennedy Center For Pa,2002,47.3,PA
+1531,John F. Kennedy Center For Pa,2003,45.1,PA
+1532,John F. Kennedy Center For Pa,2004,46.2,PA
+1533,John F. Kennedy Center For Pa,2005,46.3,PA
+1534,John F. Kennedy Center For Pa,2007,46.8,PA
+1535,John F. Kennedy Center For Pa,2009,45.7,PA
+1536,John F. Kennedy Center For Pa,2010,48.1,PA
+1537,John F. Kennedy Center For Pa,2010,48.1,PA
+1538,John F. Kennedy Center For Pa,2011,47.6,PA
+1539,John F. Kennedy Center For Pa,2012,49.9,PA
+1540,Korean War Veterans Memorial,1996,44.2,DC
+1541,Korean War Veterans Memorial,1997,45,DC
+1542,Korean War Veterans Memorial,1998,50,DC
+1543,Korean War Veterans Memorial,1999,47.8,DC
+1544,Korean War Veterans Memorial,2000,46.1,DC
+1545,Korean War Veterans Memorial,2000,46.1,DC
+1546,Korean War Veterans Memorial,2001,48.3,DC
+1547,Korean War Veterans Memorial,2002,47.3,DC
+1548,Korean War Veterans Memorial,2003,44.9,DC
+1549,Korean War Veterans Memorial,2006,48,DC
+1550,Korean War Veterans Memorial,2007,47,DC
+1551,Korean War Veterans Memorial,2009,45.3,DC
+1552,Korean War Veterans Memorial,2010,47.4,DC
+1553,Korean War Veterans Memorial,2010,47.4,DC
+1554,LBJ Memorial Grove on the Potomac,1996,44.2,DC
+1555,LBJ Memorial Grove on the Potomac,1997,45,DC
+1556,LBJ Memorial Grove on the Potomac,1998,50,DC
+1557,LBJ Memorial Grove on the Potomac,1999,47.8,DC
+1558,LBJ Memorial Grove on the Potomac,2000,46.1,DC
+1559,LBJ Memorial Grove on the Potomac,2000,46.1,DC
+1560,LBJ Memorial Grove on the Potomac,2001,48.3,DC
+1561,LBJ Memorial Grove on the Potomac,2002,47.3,DC
+1562,LBJ Memorial Grove on the Potomac,2003,44.9,DC
+1563,LBJ Memorial Grove on the Potomac,2006,48,DC
+1564,LBJ Memorial Grove on the Potomac,2007,47,DC
+1565,LBJ Memorial Grove on the Potomac,2009,45.3,DC
+1566,LBJ Memorial Grove on the Potomac,2010,47.4,DC
+1567,LBJ Memorial Grove on the Potomac,2010,47.4,DC
+1568,Lincoln Memorial,1996,44.2,DC
+1569,Lincoln Memorial,1997,45,DC
+1570,Lincoln Memorial,1998,50,DC
+1571,Lincoln Memorial,1999,47.8,DC
+1572,Lincoln Memorial,2000,46.1,DC
+1573,Lincoln Memorial,2000,46.1,DC
+1574,Lincoln Memorial,2001,48.3,DC
+1575,Lincoln Memorial,2002,47.3,DC
+1576,Lincoln Memorial,2003,44.9,DC
+1577,Lincoln Memorial,2006,48,DC
+1578,Lincoln Memorial,2007,47,DC
+1579,Lincoln Memorial,2009,45.3,DC
+1580,Lincoln Memorial,2010,47.4,DC
+1581,Lincoln Memorial,2010,47.4,DC
+1582,Manassas NBP,2000,40.7,VA
+1583,Manassas NBP,2000,40.7,VA
+1584,Manassas NBP,2001,40.9,VA
+1585,Manassas NBP,2010,43.6,VA
+1586,Manassas NBP,2010,43.6,VA
+1587,Manassas NBP,2011,41.1,VA
+1588,Manassas NBP,2015,38.1,VA
+1589,Manassas NBP,2016,43.2,VA
+1590,"Martin Luther King, Jr. Memorial",1996,44.2,DC
+1591,"Martin Luther King, Jr. Memorial",1997,45,DC
+1592,"Martin Luther King, Jr. Memorial",1998,50,DC
+1593,"Martin Luther King, Jr. Memorial",1999,47.8,DC
+1594,"Martin Luther King, Jr. Memorial",2000,46.1,DC
+1595,"Martin Luther King, Jr. Memorial",2000,46.1,DC
+1596,"Martin Luther King, Jr. Memorial",2001,48.3,DC
+1597,"Martin Luther King, Jr. Memorial",2002,47.3,DC
+1598,"Martin Luther King, Jr. Memorial",2003,44.9,DC
+1599,"Martin Luther King, Jr. Memorial",2006,48,DC
+1600,"Martin Luther King, Jr. Memorial",2007,47,DC
+1601,"Martin Luther King, Jr. Memorial",2009,45.3,DC
+1602,"Martin Luther King, Jr. Memorial",2010,47.4,DC
+1603,"Martin Luther King, Jr. Memorial",2010,47.4,DC
+1604,Mary McLeod Bethune Council House NHS,1996,44.2,DC
+1605,Mary McLeod Bethune Council House NHS,1997,45,DC
+1606,Mary McLeod Bethune Council House NHS,1998,50,DC
+1607,Mary McLeod Bethune Council House NHS,1999,47.8,DC
+1608,Mary McLeod Bethune Council House NHS,2000,46.1,DC
+1609,Mary McLeod Bethune Council House NHS,2000,46.1,DC
+1610,Mary McLeod Bethune Council House NHS,2001,48.3,DC
+1611,Mary McLeod Bethune Council House NHS,2002,47.3,DC
+1612,Mary McLeod Bethune Council House NHS,2003,44.9,DC
+1613,Mary McLeod Bethune Council House NHS,2006,48,DC
+1614,Mary McLeod Bethune Council House NHS,2007,47,DC
+1615,Mary McLeod Bethune Council House NHS,2009,45.3,DC
+1616,Mary McLeod Bethune Council House NHS,2010,47.4,DC
+1617,Mary McLeod Bethune Council House NHS,2010,47.4,DC
+1618,Monocacy NB,2000,40.7,MD
+1619,Monocacy NB,2000,40.7,MD
+1620,Monocacy NB,2001,40.9,MD
+1621,Monocacy NB,2010,43.6,MD
+1622,Monocacy NB,2010,43.6,MD
+1623,Monocacy NB,2011,41.1,MD
+1624,Monocacy NB,2015,38.1,MD
+1625,Monocacy NB,2016,43.2,MD
+1626,National Capital Parks Central,1998,56.6,WA
+1627,National Capital Parks Central,1999,55.2,WA
+1628,National Capital Parks Central,2006,55.5,WA
+1629,National Capital Parks Central,2007,54.4,WA
+1630,National Capital Parks Central,2008,53.3,WA
+1631,National Capital Parks Central,2010,54,WA
+1632,National Capital Parks Central,2010,54,WA
+1633,National Capital Parks Central,2011,53.1,WA
+1634,National Capital Parks Central,2012,54.3,WA
+1635,National Capital Parks Central,2013,54.5,WA
+1636,National Capital Parks Central,2014,55.6,WA
+1637,National Capital Parks Central,2016,56,WA
+1638,National Capital Parks Central,2017,53.5,WA
+1639,National Capital Parks Central,2018,55.3,WA
+1640,National Capital Parks Central,2019,52.8,WA
+1641,National Capital Parks Central,2020,55.4,WA
+1642,National Capital Parks Combined,1998,56.6,WA
+1643,National Capital Parks Combined,1999,55.2,WA
+1644,National Capital Parks Combined,2006,55.5,WA
+1645,National Capital Parks Combined,2007,54.4,WA
+1646,National Capital Parks Combined,2008,53.3,WA
+1647,National Capital Parks Combined,2010,54,WA
+1648,National Capital Parks Combined,2010,54,WA
+1649,National Capital Parks Combined,2011,53.1,WA
+1650,National Capital Parks Combined,2012,54.3,WA
+1651,National Capital Parks Combined,2013,54.5,WA
+1652,National Capital Parks Combined,2014,55.6,WA
+1653,National Capital Parks Combined,2016,56,WA
+1654,National Capital Parks Combined,2017,53.5,WA
+1655,National Capital Parks Combined,2018,55.3,WA
+1656,National Capital Parks Combined,2019,52.8,WA
+1657,National Capital Parks Combined,2020,55.4,WA
+1658,National Capital Parks East,1996,44.2,DC
+1659,National Capital Parks East,1997,45,DC
+1660,National Capital Parks East,1998,50,DC
+1661,National Capital Parks East,1999,47.8,DC
+1662,National Capital Parks East,2000,46.1,DC
+1663,National Capital Parks East,2000,46.1,DC
+1664,National Capital Parks East,2001,48.3,DC
+1665,National Capital Parks East,2002,47.3,DC
+1666,National Capital Parks East,2003,44.9,DC
+1667,National Capital Parks East,2006,48,DC
+1668,National Capital Parks East,2007,47,DC
+1669,National Capital Parks East,2009,45.3,DC
+1670,National Capital Parks East,2010,47.4,DC
+1671,National Capital Parks East,2010,47.4,DC
+1672,Pennsylvania Avenue NHS,1996,44.2,DC
+1673,Pennsylvania Avenue NHS,1997,45,DC
+1674,Pennsylvania Avenue NHS,1998,50,DC
+1675,Pennsylvania Avenue NHS,1999,47.8,DC
+1676,Pennsylvania Avenue NHS,2000,46.1,DC
+1677,Pennsylvania Avenue NHS,2000,46.1,DC
+1678,Pennsylvania Avenue NHS,2001,48.3,DC
+1679,Pennsylvania Avenue NHS,2002,47.3,DC
+1680,Pennsylvania Avenue NHS,2003,44.9,DC
+1681,Pennsylvania Avenue NHS,2006,48,DC
+1682,Pennsylvania Avenue NHS,2007,47,DC
+1683,Pennsylvania Avenue NHS,2009,45.3,DC
+1684,Pennsylvania Avenue NHS,2010,47.4,DC
+1685,Pennsylvania Avenue NHS,2010,47.4,DC
+1686,Piscataway Park,2000,40.7,MD
+1687,Piscataway Park,2000,40.7,MD
+1688,Piscataway Park,2001,40.9,MD
+1689,Piscataway Park,2010,43.6,MD
+1690,Piscataway Park,2010,43.6,MD
+1691,Piscataway Park,2011,41.1,MD
+1692,Piscataway Park,2015,38.1,MD
+1693,Piscataway Park,2016,43.2,MD
+1694,President's Park,1996,44.2,DC
+1695,President's Park,1997,45,DC
+1696,President's Park,1998,50,DC
+1697,President's Park,1999,47.8,DC
+1698,President's Park,2000,46.1,DC
+1699,President's Park,2000,46.1,DC
+1700,President's Park,2001,48.3,DC
+1701,President's Park,2002,47.3,DC
+1702,President's Park,2003,44.9,DC
+1703,President's Park,2006,48,DC
+1704,President's Park,2007,47,DC
+1705,President's Park,2009,45.3,DC
+1706,President's Park,2010,47.4,DC
+1707,President's Park,2010,47.4,DC
+1708,Prince William Forest Park,2000,40.7,VA
+1709,Prince William Forest Park,2000,40.7,VA
+1710,Prince William Forest Park,2001,40.9,VA
+1711,Prince William Forest Park,2010,43.6,VA
+1712,Prince William Forest Park,2010,43.6,VA
+1713,Prince William Forest Park,2011,41.1,VA
+1714,Prince William Forest Park,2015,38.1,VA
+1715,Prince William Forest Park,2016,43.2,VA
+1716,Rock Creek Park,1996,44.2,DC
+1717,Rock Creek Park,1997,45,DC
+1718,Rock Creek Park,1998,50,DC
+1719,Rock Creek Park,1999,47.8,DC
+1720,Rock Creek Park,2000,46.1,DC
+1721,Rock Creek Park,2000,46.1,DC
+1722,Rock Creek Park,2001,48.3,DC
+1723,Rock Creek Park,2002,47.3,DC
+1724,Rock Creek Park,2003,44.9,DC
+1725,Rock Creek Park,2006,48,DC
+1726,Rock Creek Park,2007,47,DC
+1727,Rock Creek Park,2009,45.3,DC
+1728,Rock Creek Park,2010,47.4,DC
+1729,Rock Creek Park,2010,47.4,DC
+1730,Theodore Roosevelt Island,1996,44.2,DC
+1731,Theodore Roosevelt Island,1997,45,DC
+1732,Theodore Roosevelt Island,1998,50,DC
+1733,Theodore Roosevelt Island,1999,47.8,DC
+1734,Theodore Roosevelt Island,2000,46.1,DC
+1735,Theodore Roosevelt Island,2000,46.1,DC
+1736,Theodore Roosevelt Island,2001,48.3,DC
+1737,Theodore Roosevelt Island,2002,47.3,DC
+1738,Theodore Roosevelt Island,2003,44.9,DC
+1739,Theodore Roosevelt Island,2006,48,DC
+1740,Theodore Roosevelt Island,2007,47,DC
+1741,Theodore Roosevelt Island,2009,45.3,DC
+1742,Theodore Roosevelt Island,2010,47.4,DC
+1743,Theodore Roosevelt Island,2010,47.4,DC
+1744,Thomas Jefferson MEM,1996,44.2,DC
+1745,Thomas Jefferson MEM,1997,45,DC
+1746,Thomas Jefferson MEM,1998,50,DC
+1747,Thomas Jefferson MEM,1999,47.8,DC
+1748,Thomas Jefferson MEM,2000,46.1,DC
+1749,Thomas Jefferson MEM,2000,46.1,DC
+1750,Thomas Jefferson MEM,2001,48.3,DC
+1751,Thomas Jefferson MEM,2002,47.3,DC
+1752,Thomas Jefferson MEM,2003,44.9,DC
+1753,Thomas Jefferson MEM,2006,48,DC
+1754,Thomas Jefferson MEM,2007,47,DC
+1755,Thomas Jefferson MEM,2009,45.3,DC
+1756,Thomas Jefferson MEM,2010,47.4,DC
+1757,Thomas Jefferson MEM,2010,47.4,DC
+1758,Vietnam Veterans MEM,1996,44.2,DC
+1759,Vietnam Veterans MEM,1997,45,DC
+1760,Vietnam Veterans MEM,1998,50,DC
+1761,Vietnam Veterans MEM,1999,47.8,DC
+1762,Vietnam Veterans MEM,2000,46.1,DC
+1763,Vietnam Veterans MEM,2000,46.1,DC
+1764,Vietnam Veterans MEM,2001,48.3,DC
+1765,Vietnam Veterans MEM,2002,47.3,DC
+1766,Vietnam Veterans MEM,2003,44.9,DC
+1767,Vietnam Veterans MEM,2006,48,DC
+1768,Vietnam Veterans MEM,2007,47,DC
+1769,Vietnam Veterans MEM,2009,45.3,DC
+1770,Vietnam Veterans MEM,2010,47.4,DC
+1771,Vietnam Veterans MEM,2010,47.4,DC
+1772,Washington Monument,1996,44.2,DC
+1773,Washington Monument,1997,45,DC
+1774,Washington Monument,1998,50,DC
+1775,Washington Monument,1999,47.8,DC
+1776,Washington Monument,2000,46.1,DC
+1777,Washington Monument,2000,46.1,DC
+1778,Washington Monument,2001,48.3,DC
+1779,Washington Monument,2002,47.3,DC
+1780,Washington Monument,2003,44.9,DC
+1781,Washington Monument,2006,48,DC
+1782,Washington Monument,2007,47,DC
+1783,Washington Monument,2009,45.3,DC
+1784,Washington Monument,2010,47.4,DC
+1785,Washington Monument,2010,47.4,DC
+1786,White House,1996,44.2,DC
+1787,White House,1997,45,DC
+1788,White House,1998,50,DC
+1789,White House,1999,47.8,DC
+1790,White House,2000,46.1,DC
+1791,White House,2000,46.1,DC
+1792,White House,2001,48.3,DC
+1793,White House,2002,47.3,DC
+1794,White House,2003,44.9,DC
+1795,White House,2006,48,DC
+1796,White House,2007,47,DC
+1797,White House,2009,45.3,DC
+1798,White House,2010,47.4,DC
+1799,White House,2010,47.4,DC
+1800,Wolf Trap NP for the Performing Arts,1996,44.2,VA
+1801,Wolf Trap NP for the Performing Arts,1997,45,VA
+1802,Wolf Trap NP for the Performing Arts,1998,50,VA
+1803,Wolf Trap NP for the Performing Arts,1999,47.8,VA
+1804,Wolf Trap NP for the Performing Arts,2000,46.1,VA
+1805,Wolf Trap NP for the Performing Arts,2000,46.1,VA
+1806,Wolf Trap NP for the Performing Arts,2001,48.3,VA
+1807,Wolf Trap NP for the Performing Arts,2002,47.3,VA
+1808,Wolf Trap NP for the Performing Arts,2003,44.9,VA
+1809,Wolf Trap NP for the Performing Arts,2006,48,VA
+1810,Wolf Trap NP for the Performing Arts,2007,47,VA
+1811,Wolf Trap NP for the Performing Arts,2009,45.3,VA
+1812,Wolf Trap NP for the Performing Arts,2010,47.4,VA
+1813,Wolf Trap NP for the Performing Arts,2010,47.4,VA
+1814,World War I Memorial,1996,44.2,DC
+1815,World War I Memorial,1997,45,DC
+1816,World War I Memorial,1998,50,DC
+1817,World War I Memorial,1999,47.8,DC
+1818,World War I Memorial,2000,46.1,DC
+1819,World War I Memorial,2000,46.1,DC
+1820,World War I Memorial,2001,48.3,DC
+1821,World War I Memorial,2002,47.3,DC
+1822,World War I Memorial,2003,44.9,DC
+1823,World War I Memorial,2006,48,DC
+1824,World War I Memorial,2007,47,DC
+1825,World War I Memorial,2009,45.3,DC
+1826,World War I Memorial,2010,47.4,DC
+1827,World War I Memorial,2010,47.4,DC
+1829,Allegheny Portage Railroad NHS,1996,44.2,PA
+1830,Allegheny Portage Railroad NHS,1997,45,PA
+1831,Allegheny Portage Railroad NHS,1998,50,PA
+1832,Allegheny Portage Railroad NHS,1999,47.8,PA
+1833,Allegheny Portage Railroad NHS,2000,46.1,PA
+1834,Allegheny Portage Railroad NHS,2000,46.1,PA
+1835,Allegheny Portage Railroad NHS,2001,48.3,PA
+1836,Allegheny Portage Railroad NHS,2002,47.3,PA
+1837,Allegheny Portage Railroad NHS,2003,44.9,PA
+1838,Allegheny Portage Railroad NHS,2006,48,PA
+1839,Allegheny Portage Railroad NHS,2007,47,PA
+1840,Allegheny Portage Railroad NHS,2009,45.3,PA
+1841,Allegheny Portage Railroad NHS,2010,47.4,PA
+1842,Allegheny Portage Railroad NHS,2010,47.4,PA
+1843,Appomattox Court House NHP,1992,58,VA
+1844,Appomattox Court House NHP,1993,58.2,VA
+1845,Appomattox Court House NHP,1994,58.1,VA
+1846,Appomattox Court House NHP,1995,59,VA
+1847,Appomattox Court House NHP,1996,57.3,VA
+1848,Appomattox Court House NHP,1997,58.3,VA
+1849,Appomattox Court House NHP,1998,61.2,VA
+1850,Appomattox Court House NHP,1999,60.2,VA
+1851,Appomattox Court House NHP,2000,58.4,VA
+1852,Appomattox Court House NHP,2000,58.4,VA
+1853,Appomattox Court House NHP,2001,59.1,VA
+1854,Appomattox Court House NHP,2003,58.3,VA
+1855,Appomattox Court House NHP,2010,59.6,VA
+1856,Appomattox Court House NHP,2010,59.6,VA
+1857,Appomattox Court House NHP,2011,61.4,VA
+1858,Appomattox Court House NHP,2015,60,VA

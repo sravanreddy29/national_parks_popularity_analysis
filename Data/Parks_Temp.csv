@@ -1,0 +1,1718 @@
+,ParkName,Year,AvgTemp,State
+0,Alagnak Wild River,1990,18.6,AK
+1,Alagnak Wild River,1991,20.7,AK
+2,Alagnak Wild River,1992,17.9,AK
+3,Alagnak Wild River,1993,19.9,AK
+4,Alagnak Wild River,1997,21.3,AK
+5,Alagnak Wild River,1998,19.4,AK
+6,Alagnak Wild River,1999,15.3,AK
+7,Alagnak Wild River,2000,19.8,AK
+8,Alagnak Wild River,2000,19.8,AK
+9,Alagnak Wild River,2001,18.9,AK
+10,Alagnak Wild River,2002,23.4,AK
+11,Alagnak Wild River,2003,21.4,AK
+12,Alagnak Wild River,2004,23.3,AK
+13,Alagnak Wild River,2005,20.4,AK
+14,Alagnak Wild River,2006,20.6,AK
+15,Alagnak Wild River,2007,24.3,AK
+16,Alagnak Wild River,2008,18.6,AK
+17,Alagnak Wild River,2009,20.7,AK
+18,Alagnak Wild River,2010,21.1,AK
+19,Alagnak Wild River,2010,21.1,AK
+20,Alagnak Wild River,2011,22.4,AK
+21,Alagnak Wild River,2012,17.7,AK
+22,Alagnak Wild River,2013,21.3,AK
+23,Alagnak Wild River,2014,25.2,AK
+24,Alagnak Wild River,2015,22.8,AK
+25,Alagnak Wild River,2016,25.2,AK
+26,Alagnak Wild River,2017,26.2,AK
+27,Alagnak Wild River,2018,28.1,AK
+28,Aniakchak NM & PRES,1990,18.6,AK
+29,Aniakchak NM & PRES,1991,20.7,AK
+30,Aniakchak NM & PRES,1992,17.9,AK
+31,Aniakchak NM & PRES,1993,19.9,AK
+32,Aniakchak NM & PRES,1997,21.3,AK
+33,Aniakchak NM & PRES,1998,19.4,AK
+34,Aniakchak NM & PRES,1999,15.3,AK
+35,Aniakchak NM & PRES,2000,19.8,AK
+36,Aniakchak NM & PRES,2000,19.8,AK
+37,Aniakchak NM & PRES,2001,18.9,AK
+38,Aniakchak NM & PRES,2002,23.4,AK
+39,Aniakchak NM & PRES,2003,21.4,AK
+40,Aniakchak NM & PRES,2004,23.3,AK
+41,Aniakchak NM & PRES,2005,20.4,AK
+42,Aniakchak NM & PRES,2006,20.6,AK
+43,Aniakchak NM & PRES,2007,24.3,AK
+44,Aniakchak NM & PRES,2008,18.6,AK
+45,Aniakchak NM & PRES,2009,20.7,AK
+46,Aniakchak NM & PRES,2010,21.1,AK
+47,Aniakchak NM & PRES,2010,21.1,AK
+48,Aniakchak NM & PRES,2011,22.4,AK
+49,Aniakchak NM & PRES,2012,17.7,AK
+50,Aniakchak NM & PRES,2013,21.3,AK
+51,Aniakchak NM & PRES,2014,25.2,AK
+52,Aniakchak NM & PRES,2015,22.8,AK
+53,Aniakchak NM & PRES,2016,25.2,AK
+54,Aniakchak NM & PRES,2017,26.2,AK
+55,Aniakchak NM & PRES,2018,28.1,AK
+56,Bering Land Bridge NPRES,1990,46.2,AK
+57,Bering Land Bridge NPRES,1991,46.2,AK
+58,Bering Land Bridge NPRES,1992,46.7,AK
+59,Bering Land Bridge NPRES,1993,47.6,AK
+60,Bering Land Bridge NPRES,1994,46.3,AK
+61,Bering Land Bridge NPRES,1995,46.3,AK
+62,Bering Land Bridge NPRES,1996,44.4,AK
+63,Bering Land Bridge NPRES,1997,47.9,AK
+64,Bering Land Bridge NPRES,1998,46.8,AK
+65,Bering Land Bridge NPRES,2002,46.6,AK
+66,Bering Land Bridge NPRES,2003,47.4,AK
+67,Bering Land Bridge NPRES,2004,47.7,AK
+68,Bering Land Bridge NPRES,2005,47.5,AK
+69,Bering Land Bridge NPRES,2006,45.4,AK
+70,Bering Land Bridge NPRES,2007,45.7,AK
+71,Bering Land Bridge NPRES,2008,44.5,AK
+72,Bering Land Bridge NPRES,2009,45.0,AK
+73,Bering Land Bridge NPRES,2010,46.4,AK
+74,Bering Land Bridge NPRES,2010,46.4,AK
+75,Bering Land Bridge NPRES,2011,45.6,AK
+76,Bering Land Bridge NPRES,2012,45.0,AK
+77,Bering Land Bridge NPRES,2013,47.0,AK
+78,Bering Land Bridge NPRES,2014,47.6,AK
+79,Bering Land Bridge NPRES,2015,48.6,AK
+80,Bering Land Bridge NPRES,2016,48.5,AK
+81,Bering Land Bridge NPRES,2017,46.3,AK
+82,Bering Land Bridge NPRES,2018,47.4,AK
+83,Bering Land Bridge NPRES,2019,48.0,AK
+84,Bering Land Bridge NPRES,2020,47.2,AK
+85,Cape Krusenstern NM,1990,18.6,AK
+86,Cape Krusenstern NM,1991,20.7,AK
+87,Cape Krusenstern NM,1992,17.9,AK
+88,Cape Krusenstern NM,1993,19.9,AK
+89,Cape Krusenstern NM,1997,21.3,AK
+90,Cape Krusenstern NM,1998,19.4,AK
+91,Cape Krusenstern NM,1999,15.3,AK
+92,Cape Krusenstern NM,2000,19.8,AK
+93,Cape Krusenstern NM,2000,19.8,AK
+94,Cape Krusenstern NM,2001,18.9,AK
+95,Cape Krusenstern NM,2002,23.4,AK
+96,Cape Krusenstern NM,2003,21.4,AK
+97,Cape Krusenstern NM,2004,23.3,AK
+98,Cape Krusenstern NM,2005,20.4,AK
+99,Cape Krusenstern NM,2006,20.6,AK
+100,Cape Krusenstern NM,2007,24.3,AK
+101,Cape Krusenstern NM,2008,18.6,AK
+102,Cape Krusenstern NM,2009,20.7,AK
+103,Cape Krusenstern NM,2010,21.1,AK
+104,Cape Krusenstern NM,2010,21.1,AK
+105,Cape Krusenstern NM,2011,22.4,AK
+106,Cape Krusenstern NM,2012,17.7,AK
+107,Cape Krusenstern NM,2013,21.3,AK
+108,Cape Krusenstern NM,2014,25.2,AK
+109,Cape Krusenstern NM,2015,22.8,AK
+110,Cape Krusenstern NM,2016,25.2,AK
+111,Cape Krusenstern NM,2017,26.2,AK
+112,Cape Krusenstern NM,2018,28.1,AK
+113,Denali NP & PRES,1990,46.2,AK
+114,Denali NP & PRES,1991,46.2,AK
+115,Denali NP & PRES,1992,46.7,AK
+116,Denali NP & PRES,1993,47.6,AK
+117,Denali NP & PRES,1994,46.3,AK
+118,Denali NP & PRES,1995,46.3,AK
+119,Denali NP & PRES,1996,44.4,AK
+120,Denali NP & PRES,1997,47.9,AK
+121,Denali NP & PRES,1998,46.8,AK
+122,Denali NP & PRES,2002,46.6,AK
+123,Denali NP & PRES,2003,47.4,AK
+124,Denali NP & PRES,2004,47.7,AK
+125,Denali NP & PRES,2005,47.5,AK
+126,Denali NP & PRES,2006,45.4,AK
+127,Denali NP & PRES,2007,45.7,AK
+128,Denali NP & PRES,2008,44.5,AK
+129,Denali NP & PRES,2009,45.0,AK
+130,Denali NP & PRES,2010,46.4,AK
+131,Denali NP & PRES,2010,46.4,AK
+132,Denali NP & PRES,2011,45.6,AK
+133,Denali NP & PRES,2012,45.0,AK
+134,Denali NP & PRES,2013,47.0,AK
+135,Denali NP & PRES,2014,47.6,AK
+136,Denali NP & PRES,2015,48.6,AK
+137,Denali NP & PRES,2016,48.5,AK
+138,Denali NP & PRES,2017,46.3,AK
+139,Denali NP & PRES,2018,47.4,AK
+140,Denali NP & PRES,2019,48.0,AK
+141,Denali NP & PRES,2020,47.2,AK
+142,Gates of the Arctic NP & PRES,1990,32.1,AK
+143,Gates of the Arctic NP & PRES,1991,34.3,AK
+144,Gates of the Arctic NP & PRES,1992,34.8,AK
+145,Gates of the Arctic NP & PRES,1993,35.7,AK
+146,Gates of the Arctic NP & PRES,1994,33.1,AK
+147,Gates of the Arctic NP & PRES,1995,32.9,AK
+148,Gates of the Arctic NP & PRES,1996,28.9,AK
+149,Gates of the Arctic NP & PRES,1997,35.6,AK
+150,Gates of the Arctic NP & PRES,1998,34.5,AK
+151,Gates of the Arctic NP & PRES,1999,34.1,AK
+152,Gates of the Arctic NP & PRES,2000,34.9,AK
+153,Gates of the Arctic NP & PRES,2000,34.9,AK
+154,Gates of the Arctic NP & PRES,2002,34.5,AK
+155,Gates of the Arctic NP & PRES,2003,35.3,AK
+156,Gates of the Arctic NP & PRES,2005,36.4,AK
+157,Gates of the Arctic NP & PRES,2006,31.8,AK
+158,Gates of the Arctic NP & PRES,2007,32.8,AK
+159,Gates of the Arctic NP & PRES,2010,34.5,AK
+160,Gates of the Arctic NP & PRES,2010,34.5,AK
+161,Gates of the Arctic NP & PRES,2011,32.7,AK
+162,Gates of the Arctic NP & PRES,2014,35.0,AK
+163,Gates of the Arctic NP & PRES,2015,37.7,AK
+164,Gates of the Arctic NP & PRES,2016,38.7,AK
+165,Gates of the Arctic NP & PRES,2017,34.0,AK
+166,Gates of the Arctic NP & PRES,2018,34.8,AK
+167,Gates of the Arctic NP & PRES,2019,37.2,AK
+168,Glacier Bay NP & PRES,1990,32.1,AK
+169,Glacier Bay NP & PRES,1991,34.3,AK
+170,Glacier Bay NP & PRES,1992,34.8,AK
+171,Glacier Bay NP & PRES,1993,35.7,AK
+172,Glacier Bay NP & PRES,1994,33.1,AK
+173,Glacier Bay NP & PRES,1995,32.9,AK
+174,Glacier Bay NP & PRES,1996,28.9,AK
+175,Glacier Bay NP & PRES,1997,35.6,AK
+176,Glacier Bay NP & PRES,1998,34.5,AK
+177,Glacier Bay NP & PRES,1999,34.1,AK
+178,Glacier Bay NP & PRES,2000,34.9,AK
+179,Glacier Bay NP & PRES,2000,34.9,AK
+180,Glacier Bay NP & PRES,2002,34.5,AK
+181,Glacier Bay NP & PRES,2003,35.3,AK
+182,Glacier Bay NP & PRES,2005,36.4,AK
+183,Glacier Bay NP & PRES,2006,31.8,AK
+184,Glacier Bay NP & PRES,2007,32.8,AK
+185,Glacier Bay NP & PRES,2010,34.5,AK
+186,Glacier Bay NP & PRES,2010,34.5,AK
+187,Glacier Bay NP & PRES,2011,32.7,AK
+188,Glacier Bay NP & PRES,2014,35.0,AK
+189,Glacier Bay NP & PRES,2015,37.7,AK
+190,Glacier Bay NP & PRES,2016,38.7,AK
+191,Glacier Bay NP & PRES,2017,34.0,AK
+192,Glacier Bay NP & PRES,2018,34.8,AK
+193,Glacier Bay NP & PRES,2019,37.2,AK
+194,Katmai NP & PRES,1990,32.1,AK
+195,Katmai NP & PRES,1991,34.3,AK
+196,Katmai NP & PRES,1992,34.8,AK
+197,Katmai NP & PRES,1993,35.7,AK
+198,Katmai NP & PRES,1994,33.1,AK
+199,Katmai NP & PRES,1995,32.9,AK
+200,Katmai NP & PRES,1996,28.9,AK
+201,Katmai NP & PRES,1997,35.6,AK
+202,Katmai NP & PRES,1998,34.5,AK
+203,Katmai NP & PRES,1999,34.1,AK
+204,Katmai NP & PRES,2000,34.9,AK
+205,Katmai NP & PRES,2000,34.9,AK
+206,Katmai NP & PRES,2002,34.5,AK
+207,Katmai NP & PRES,2003,35.3,AK
+208,Katmai NP & PRES,2005,36.4,AK
+209,Katmai NP & PRES,2006,31.8,AK
+210,Katmai NP & PRES,2007,32.8,AK
+211,Katmai NP & PRES,2010,34.5,AK
+212,Katmai NP & PRES,2010,34.5,AK
+213,Katmai NP & PRES,2011,32.7,AK
+214,Katmai NP & PRES,2014,35.0,AK
+215,Katmai NP & PRES,2015,37.7,AK
+216,Katmai NP & PRES,2016,38.7,AK
+217,Katmai NP & PRES,2017,34.0,AK
+218,Katmai NP & PRES,2018,34.8,AK
+219,Katmai NP & PRES,2019,37.2,AK
+220,Kenai Fjords NP,1990,32.1,AK
+221,Kenai Fjords NP,1991,34.3,AK
+222,Kenai Fjords NP,1992,34.8,AK
+223,Kenai Fjords NP,1993,35.7,AK
+224,Kenai Fjords NP,1994,33.1,AK
+225,Kenai Fjords NP,1995,32.9,AK
+226,Kenai Fjords NP,1996,28.9,AK
+227,Kenai Fjords NP,1997,35.6,AK
+228,Kenai Fjords NP,1998,34.5,AK
+229,Kenai Fjords NP,1999,34.1,AK
+230,Kenai Fjords NP,2000,34.9,AK
+231,Kenai Fjords NP,2000,34.9,AK
+232,Kenai Fjords NP,2002,34.5,AK
+233,Kenai Fjords NP,2003,35.3,AK
+234,Kenai Fjords NP,2005,36.4,AK
+235,Kenai Fjords NP,2006,31.8,AK
+236,Kenai Fjords NP,2007,32.8,AK
+237,Kenai Fjords NP,2010,34.5,AK
+238,Kenai Fjords NP,2010,34.5,AK
+239,Kenai Fjords NP,2011,32.7,AK
+240,Kenai Fjords NP,2014,35.0,AK
+241,Kenai Fjords NP,2015,37.7,AK
+242,Kenai Fjords NP,2016,38.7,AK
+243,Kenai Fjords NP,2017,34.0,AK
+244,Kenai Fjords NP,2018,34.8,AK
+245,Kenai Fjords NP,2019,37.2,AK
+246,Klondike Gold Rush NHP Alaska,1990,32.1,AK
+247,Klondike Gold Rush NHP Alaska,1991,34.3,AK
+248,Klondike Gold Rush NHP Alaska,1992,34.8,AK
+249,Klondike Gold Rush NHP Alaska,1993,35.7,AK
+250,Klondike Gold Rush NHP Alaska,1994,33.1,AK
+251,Klondike Gold Rush NHP Alaska,1995,32.9,AK
+252,Klondike Gold Rush NHP Alaska,1996,28.9,AK
+253,Klondike Gold Rush NHP Alaska,1997,35.6,AK
+254,Klondike Gold Rush NHP Alaska,1998,34.5,AK
+255,Klondike Gold Rush NHP Alaska,1999,34.1,AK
+256,Klondike Gold Rush NHP Alaska,2000,34.9,AK
+257,Klondike Gold Rush NHP Alaska,2000,34.9,AK
+258,Klondike Gold Rush NHP Alaska,2002,34.5,AK
+259,Klondike Gold Rush NHP Alaska,2003,35.3,AK
+260,Klondike Gold Rush NHP Alaska,2005,36.4,AK
+261,Klondike Gold Rush NHP Alaska,2006,31.8,AK
+262,Klondike Gold Rush NHP Alaska,2007,32.8,AK
+263,Klondike Gold Rush NHP Alaska,2010,34.5,AK
+264,Klondike Gold Rush NHP Alaska,2010,34.5,AK
+265,Klondike Gold Rush NHP Alaska,2011,32.7,AK
+266,Klondike Gold Rush NHP Alaska,2014,35.0,AK
+267,Klondike Gold Rush NHP Alaska,2015,37.7,AK
+268,Klondike Gold Rush NHP Alaska,2016,38.7,AK
+269,Klondike Gold Rush NHP Alaska,2017,34.0,AK
+270,Klondike Gold Rush NHP Alaska,2018,34.8,AK
+271,Klondike Gold Rush NHP Alaska,2019,37.2,AK
+272,Kobuk Valley NP,1994,21.1,AK
+273,Kobuk Valley NP,1996,21.9,AK
+274,Kobuk Valley NP,1997,25.2,AK
+275,Kobuk Valley NP,2008,21.8,AK
+276,Kobuk Valley NP,2009,23.0,AK
+277,Kobuk Valley NP,2010,24.5,AK
+278,Kobuk Valley NP,2010,24.5,AK
+279,Kobuk Valley NP,2011,23.7,AK
+280,Kobuk Valley NP,2012,21.7,AK
+281,Kobuk Valley NP,2013,25.8,AK
+282,Kobuk Valley NP,2014,28.3,AK
+283,Kobuk Valley NP,2015,26.0,AK
+284,Kobuk Valley NP,2016,29.2,AK
+285,Kobuk Valley NP,2017,26.7,AK
+286,Lake Clark NP & PRES,1990,32.1,AK
+287,Lake Clark NP & PRES,1991,34.3,AK
+288,Lake Clark NP & PRES,1992,34.8,AK
+289,Lake Clark NP & PRES,1993,35.7,AK
+290,Lake Clark NP & PRES,1994,33.1,AK
+291,Lake Clark NP & PRES,1995,32.9,AK
+292,Lake Clark NP & PRES,1996,28.9,AK
+293,Lake Clark NP & PRES,1997,35.6,AK
+294,Lake Clark NP & PRES,1998,34.5,AK
+295,Lake Clark NP & PRES,1999,34.1,AK
+296,Lake Clark NP & PRES,2000,34.9,AK
+297,Lake Clark NP & PRES,2000,34.9,AK
+298,Lake Clark NP & PRES,2002,34.5,AK
+299,Lake Clark NP & PRES,2003,35.3,AK
+300,Lake Clark NP & PRES,2005,36.4,AK
+301,Lake Clark NP & PRES,2006,31.8,AK
+302,Lake Clark NP & PRES,2007,32.8,AK
+303,Lake Clark NP & PRES,2010,34.5,AK
+304,Lake Clark NP & PRES,2010,34.5,AK
+305,Lake Clark NP & PRES,2011,32.7,AK
+306,Lake Clark NP & PRES,2014,35.0,AK
+307,Lake Clark NP & PRES,2015,37.7,AK
+308,Lake Clark NP & PRES,2016,38.7,AK
+309,Lake Clark NP & PRES,2017,34.0,AK
+310,Lake Clark NP & PRES,2018,34.8,AK
+311,Lake Clark NP & PRES,2019,37.2,AK
+312,Noatak NPRES,1990,18.6,AK
+313,Noatak NPRES,1991,20.7,AK
+314,Noatak NPRES,1992,17.9,AK
+315,Noatak NPRES,1993,19.9,AK
+316,Noatak NPRES,1997,21.3,AK
+317,Noatak NPRES,1998,19.4,AK
+318,Noatak NPRES,1999,15.3,AK
+319,Noatak NPRES,2000,19.8,AK
+320,Noatak NPRES,2000,19.8,AK
+321,Noatak NPRES,2001,18.9,AK
+322,Noatak NPRES,2002,23.4,AK
+323,Noatak NPRES,2003,21.4,AK
+324,Noatak NPRES,2004,23.3,AK
+325,Noatak NPRES,2005,20.4,AK
+326,Noatak NPRES,2006,20.6,AK
+327,Noatak NPRES,2007,24.3,AK
+328,Noatak NPRES,2008,18.6,AK
+329,Noatak NPRES,2009,20.7,AK
+330,Noatak NPRES,2010,21.1,AK
+331,Noatak NPRES,2010,21.1,AK
+332,Noatak NPRES,2011,22.4,AK
+333,Noatak NPRES,2012,17.7,AK
+334,Noatak NPRES,2013,21.3,AK
+335,Noatak NPRES,2014,25.2,AK
+336,Noatak NPRES,2015,22.8,AK
+337,Noatak NPRES,2016,25.2,AK
+338,Noatak NPRES,2017,26.2,AK
+339,Noatak NPRES,2018,28.1,AK
+340,Sitka NHP,1990,46.2,AK
+341,Sitka NHP,1991,46.2,AK
+342,Sitka NHP,1992,46.7,AK
+343,Sitka NHP,1993,47.6,AK
+344,Sitka NHP,1994,46.3,AK
+345,Sitka NHP,1995,46.3,AK
+346,Sitka NHP,1996,44.4,AK
+347,Sitka NHP,1997,47.9,AK
+348,Sitka NHP,1998,46.8,AK
+349,Sitka NHP,2002,46.6,AK
+350,Sitka NHP,2003,47.4,AK
+351,Sitka NHP,2004,47.7,AK
+352,Sitka NHP,2005,47.5,AK
+353,Sitka NHP,2006,45.4,AK
+354,Sitka NHP,2007,45.7,AK
+355,Sitka NHP,2008,44.5,AK
+356,Sitka NHP,2009,45.0,AK
+357,Sitka NHP,2010,46.4,AK
+358,Sitka NHP,2010,46.4,AK
+359,Sitka NHP,2011,45.6,AK
+360,Sitka NHP,2012,45.0,AK
+361,Sitka NHP,2013,47.0,AK
+362,Sitka NHP,2014,47.6,AK
+363,Sitka NHP,2015,48.6,AK
+364,Sitka NHP,2016,48.5,AK
+365,Sitka NHP,2017,46.3,AK
+366,Sitka NHP,2018,47.4,AK
+367,Sitka NHP,2019,48.0,AK
+368,Sitka NHP,2020,47.2,AK
+369,Wrangell-St. Elias NP & PRES,1990,46.2,AK
+370,Wrangell-St. Elias NP & PRES,1991,46.2,AK
+371,Wrangell-St. Elias NP & PRES,1992,46.7,AK
+372,Wrangell-St. Elias NP & PRES,1993,47.6,AK
+373,Wrangell-St. Elias NP & PRES,1994,46.3,AK
+374,Wrangell-St. Elias NP & PRES,1995,46.3,AK
+375,Wrangell-St. Elias NP & PRES,1996,44.4,AK
+376,Wrangell-St. Elias NP & PRES,1997,47.9,AK
+377,Wrangell-St. Elias NP & PRES,1998,46.8,AK
+378,Wrangell-St. Elias NP & PRES,2002,46.6,AK
+379,Wrangell-St. Elias NP & PRES,2003,47.4,AK
+380,Wrangell-St. Elias NP & PRES,2004,47.7,AK
+381,Wrangell-St. Elias NP & PRES,2005,47.5,AK
+382,Wrangell-St. Elias NP & PRES,2006,45.4,AK
+383,Wrangell-St. Elias NP & PRES,2007,45.7,AK
+384,Wrangell-St. Elias NP & PRES,2008,44.5,AK
+385,Wrangell-St. Elias NP & PRES,2009,45.0,AK
+386,Wrangell-St. Elias NP & PRES,2010,46.4,AK
+387,Wrangell-St. Elias NP & PRES,2010,46.4,AK
+388,Wrangell-St. Elias NP & PRES,2011,45.6,AK
+389,Wrangell-St. Elias NP & PRES,2012,45.0,AK
+390,Wrangell-St. Elias NP & PRES,2013,47.0,AK
+391,Wrangell-St. Elias NP & PRES,2014,47.6,AK
+392,Wrangell-St. Elias NP & PRES,2015,48.6,AK
+393,Wrangell-St. Elias NP & PRES,2016,48.5,AK
+394,Wrangell-St. Elias NP & PRES,2017,46.3,AK
+395,Wrangell-St. Elias NP & PRES,2018,47.4,AK
+396,Wrangell-St. Elias NP & PRES,2019,48.0,AK
+397,Wrangell-St. Elias NP & PRES,2020,47.2,AK
+398,Yukon-Charley Rivers NPRES,1998,20.8,AK
+399,Yukon-Charley Rivers NPRES,1999,17.8,AK
+400,Yukon-Charley Rivers NPRES,2000,20.7,AK
+401,Yukon-Charley Rivers NPRES,2000,20.7,AK
+402,Yukon-Charley Rivers NPRES,2001,21.2,AK
+403,Yukon-Charley Rivers NPRES,2004,20.5,AK
+404,Yukon-Charley Rivers NPRES,2005,22.4,AK
+405,Yukon-Charley Rivers NPRES,2007,19.4,AK
+406,Yukon-Charley Rivers NPRES,2009,19.0,AK
+407,Yukon-Charley Rivers NPRES,2010,22.5,AK
+408,Yukon-Charley Rivers NPRES,2010,22.5,AK
+409,Yukon-Charley Rivers NPRES,2011,19.3,AK
+410,Yukon-Charley Rivers NPRES,2012,17.5,AK
+411,Yukon-Charley Rivers NPRES,2013,19.4,AK
+412,Yukon-Charley Rivers NPRES,2014,21.2,AK
+413,Yukon-Charley Rivers NPRES,2015,21.6,AK
+414,Yukon-Charley Rivers NPRES,2016,24.0,AK
+415,Yukon-Charley Rivers NPRES,2018,21.1,AK
+416,Yukon-Charley Rivers NPRES,2019,22.7,AK
+417,Yukon-Charley Rivers NPRES,2020,17.4,AK
+418,Alibates Flint Quarries NM,1990,53.5,TX
+419,Alibates Flint Quarries NM,1991,53.6,TX
+420,Alibates Flint Quarries NM,1992,53.6,TX
+421,Alibates Flint Quarries NM,1994,55.2,TX
+422,Alibates Flint Quarries NM,1995,54.0,TX
+423,Alibates Flint Quarries NM,1996,53.4,TX
+424,Alibates Flint Quarries NM,1997,52.7,TX
+425,Alibates Flint Quarries NM,1998,55.1,TX
+426,Alibates Flint Quarries NM,1999,54.5,TX
+427,Alibates Flint Quarries NM,2000,55.2,TX
+428,Alibates Flint Quarries NM,2000,55.2,TX
+429,Alibates Flint Quarries NM,2001,54.2,TX
+430,Alibates Flint Quarries NM,2003,55.0,TX
+431,Alibates Flint Quarries NM,2004,54.3,TX
+432,Alibates Flint Quarries NM,2005,54.7,TX
+433,Alibates Flint Quarries NM,2006,55.0,TX
+434,Alibates Flint Quarries NM,2007,53.3,TX
+435,Alibates Flint Quarries NM,2008,55.1,TX
+436,Alibates Flint Quarries NM,2009,55.5,TX
+437,Alibates Flint Quarries NM,2011,56.5,TX
+438,Alibates Flint Quarries NM,2013,54.9,TX
+439,Alibates Flint Quarries NM,2015,55.6,TX
+440,Alibates Flint Quarries NM,2016,56.4,TX
+441,Alibates Flint Quarries NM,2017,56.0,TX
+442,Alibates Flint Quarries NM,2018,54.6,TX
+443,Alibates Flint Quarries NM,2019,53.5,TX
+444,Amistad NRA,1994,72.0,TX
+445,Amistad NRA,2000,73.1,TX
+446,Amistad NRA,2000,73.1,TX
+447,Amistad NRA,2001,73.4,TX
+448,Amistad NRA,2002,72.6,TX
+449,Amistad NRA,2003,74.1,TX
+450,Amistad NRA,2004,72.8,TX
+451,Amistad NRA,2005,73.8,TX
+452,Amistad NRA,2006,74.2,TX
+453,Amistad NRA,2007,73.7,TX
+454,Amistad NRA,2008,74.4,TX
+455,Amistad NRA,2010,73.8,TX
+456,Amistad NRA,2010,73.8,TX
+457,Amistad NRA,2012,74.9,TX
+458,Arches NP,1990,46.4,UT
+459,Arches NP,1991,45.4,UT
+460,Arches NP,1992,45.9,UT
+461,Arches NP,1993,45.6,UT
+462,Arches NP,1994,47.7,UT
+463,Arches NP,1995,47.6,UT
+464,Arches NP,1996,47.2,UT
+465,Arches NP,1997,46.8,UT
+466,Arches NP,1998,47.7,UT
+467,Arches NP,1999,47.7,UT
+468,Arches NP,2000,48.8,UT
+469,Arches NP,2000,48.8,UT
+470,Arches NP,2002,47.9,UT
+471,Arches NP,2003,49.7,UT
+472,Arches NP,2004,47.6,UT
+473,Arches NP,2007,48.6,UT
+474,Arches NP,2008,46.3,UT
+475,Arches NP,2009,46.7,UT
+476,Arches NP,2010,47.2,UT
+477,Arches NP,2010,47.2,UT
+478,Arches NP,2011,46.6,UT
+479,Arches NP,2012,49.6,UT
+480,Arches NP,2013,46.2,UT
+481,Arches NP,2014,48.0,UT
+482,Arches NP,2015,48.8,UT
+483,Arches NP,2016,48.0,UT
+484,Arches NP,2017,49.6,UT
+485,Arches NP,2018,49.0,UT
+486,Arches NP,2019,46.8,UT
+487,Aztec Ruins NM,1990,49.3,NM
+488,Aztec Ruins NM,1991,48.5,NM
+489,Aztec Ruins NM,1992,49.2,NM
+490,Aztec Ruins NM,1993,49.6,NM
+491,Aztec Ruins NM,1994,51.0,NM
+492,Aztec Ruins NM,2000,52.3,NM
+493,Aztec Ruins NM,2000,52.3,NM
+494,Aztec Ruins NM,2004,50.1,NM
+495,Aztec Ruins NM,2005,51.2,NM
+496,Aztec Ruins NM,2006,51.0,NM
+497,Aztec Ruins NM,2007,52.0,NM
+498,Aztec Ruins NM,2008,50.0,NM
+499,Aztec Ruins NM,2010,50.1,NM
+500,Aztec Ruins NM,2010,50.1,NM
+501,Aztec Ruins NM,2011,50.1,NM
+502,Aztec Ruins NM,2012,52.3,NM
+503,Aztec Ruins NM,2016,52.0,NM
+504,Aztec Ruins NM,2017,53.2,NM
+505,Bandelier NM,1994,72.0,NM
+506,Bandelier NM,2000,73.1,NM
+507,Bandelier NM,2000,73.1,NM
+508,Bandelier NM,2001,73.4,NM
+509,Bandelier NM,2002,72.6,NM
+510,Bandelier NM,2003,74.1,NM
+511,Bandelier NM,2004,72.8,NM
+512,Bandelier NM,2005,73.8,NM
+513,Bandelier NM,2006,74.2,NM
+514,Bandelier NM,2007,73.7,NM
+515,Bandelier NM,2008,74.4,NM
+516,Bandelier NM,2010,73.8,NM
+517,Bandelier NM,2010,73.8,NM
+518,Bandelier NM,2012,74.9,NM
+519,Bent's Old Fort NHS,1990,48.5,CO
+520,Bent's Old Fort NHS,1991,49.4,CO
+521,Bent's Old Fort NHS,1993,45.8,CO
+522,Bent's Old Fort NHS,1994,50.3,CO
+523,Bent's Old Fort NHS,1995,48.5,CO
+524,Bent's Old Fort NHS,1996,48.2,CO
+525,Bent's Old Fort NHS,1997,48.2,CO
+526,Bent's Old Fort NHS,1998,50.4,CO
+527,Bent's Old Fort NHS,1999,51.0,CO
+528,Bent's Old Fort NHS,2000,49.9,CO
+529,Bent's Old Fort NHS,2000,49.9,CO
+530,Bent's Old Fort NHS,2001,50.2,CO
+531,Bent's Old Fort NHS,2003,50.0,CO
+532,Bent's Old Fort NHS,2004,50.3,CO
+533,Bent's Old Fort NHS,2005,51.6,CO
+534,Bent's Old Fort NHS,2006,50.8,CO
+535,Bent's Old Fort NHS,2007,49.3,CO
+536,Bent's Old Fort NHS,2008,48.3,CO
+537,Bent's Old Fort NHS,2009,48.4,CO
+538,Bent's Old Fort NHS,2010,51.1,CO
+539,Bent's Old Fort NHS,2010,51.1,CO
+540,Bent's Old Fort NHS,2011,49.9,CO
+541,Bent's Old Fort NHS,2012,53.4,CO
+542,Bent's Old Fort NHS,2013,49.4,CO
+543,Bent's Old Fort NHS,2014,49.7,CO
+544,Bent's Old Fort NHS,2015,51.8,CO
+545,Bent's Old Fort NHS,2016,52.0,CO
+546,Bent's Old Fort NHS,2017,52.0,CO
+547,Bent's Old Fort NHS,2019,48.3,CO
+548,Bent's Old Fort NHS,2020,50.6,CO
+549,Big Bend NP,1994,72.0,TX
+550,Big Bend NP,2000,73.1,TX
+551,Big Bend NP,2000,73.1,TX
+552,Big Bend NP,2001,73.4,TX
+553,Big Bend NP,2002,72.6,TX
+554,Big Bend NP,2003,74.1,TX
+555,Big Bend NP,2004,72.8,TX
+556,Big Bend NP,2005,73.8,TX
+557,Big Bend NP,2006,74.2,TX
+558,Big Bend NP,2007,73.7,TX
+559,Big Bend NP,2008,74.4,TX
+560,Big Bend NP,2010,73.8,TX
+561,Big Bend NP,2010,73.8,TX
+562,Big Bend NP,2012,74.9,TX
+563,Big Thicket NPRES,1990,68.5,TX
+564,Big Thicket NPRES,1992,66.4,TX
+565,Big Thicket NPRES,1993,66.2,TX
+566,Big Thicket NPRES,1994,67.0,TX
+567,Big Thicket NPRES,1995,67.6,TX
+568,Big Thicket NPRES,1996,67.2,TX
+569,Big Thicket NPRES,1997,66.6,TX
+570,Big Thicket NPRES,1998,69.6,TX
+571,Big Thicket NPRES,1999,69.2,TX
+572,Big Thicket NPRES,2000,68.4,TX
+573,Big Thicket NPRES,2000,68.4,TX
+574,Big Thicket NPRES,2001,67.3,TX
+575,Big Thicket NPRES,2002,67.4,TX
+576,Big Thicket NPRES,2003,66.9,TX
+577,Big Thicket NPRES,2004,67.3,TX
+578,Big Thicket NPRES,2005,68.0,TX
+579,Big Thicket NPRES,2007,67.3,TX
+580,Big Thicket NPRES,2008,66.9,TX
+581,Big Thicket NPRES,2009,66.7,TX
+582,Big Thicket NPRES,2010,66.9,TX
+583,Big Thicket NPRES,2010,66.9,TX
+584,Big Thicket NPRES,2011,68.0,TX
+585,Big Thicket NPRES,2012,68.8,TX
+586,Big Thicket NPRES,2013,65.7,TX
+587,Big Thicket NPRES,2014,64.3,TX
+588,Big Thicket NPRES,2015,66.4,TX
+589,Big Thicket NPRES,2016,66.6,TX
+590,Big Thicket NPRES,2017,66.2,TX
+591,Big Thicket NPRES,2018,65.8,TX
+592,Big Thicket NPRES,2019,65.6,TX
+593,Big Thicket NPRES,2020,66.3,TX
+594,Bighorn Canyon NRA,1990,42.0,MT
+595,Bighorn Canyon NRA,1991,41.3,MT
+596,Bighorn Canyon NRA,1994,43.4,MT
+597,Bighorn Canyon NRA,1995,42.7,MT
+598,Bighorn Canyon NRA,1999,43.6,MT
+599,Bighorn Canyon NRA,2001,43.4,MT
+600,Bighorn Canyon NRA,2002,41.0,MT
+601,Bighorn Canyon NRA,2004,43.5,MT
+602,Bighorn Canyon NRA,2005,42.6,MT
+603,Bighorn Canyon NRA,2014,43.2,MT
+604,Bighorn Canyon NRA,2015,45.4,MT
+605,Bighorn Canyon NRA,2016,44.7,MT
+606,Bighorn Canyon NRA,2017,44.3,MT
+607,Bighorn Canyon NRA,2020,42.6,MT
+608,Black Canyon of the Gunnison NP,1990,46.4,CO
+609,Black Canyon of the Gunnison NP,1991,45.4,CO
+610,Black Canyon of the Gunnison NP,1992,45.9,CO
+611,Black Canyon of the Gunnison NP,1993,45.6,CO
+612,Black Canyon of the Gunnison NP,1994,47.7,CO
+613,Black Canyon of the Gunnison NP,1995,47.6,CO
+614,Black Canyon of the Gunnison NP,1996,47.2,CO
+615,Black Canyon of the Gunnison NP,1997,46.8,CO
+616,Black Canyon of the Gunnison NP,1998,47.7,CO
+617,Black Canyon of the Gunnison NP,1999,47.7,CO
+618,Black Canyon of the Gunnison NP,2000,48.8,CO
+619,Black Canyon of the Gunnison NP,2000,48.8,CO
+620,Black Canyon of the Gunnison NP,2002,47.9,CO
+621,Black Canyon of the Gunnison NP,2003,49.7,CO
+622,Black Canyon of the Gunnison NP,2004,47.6,CO
+623,Black Canyon of the Gunnison NP,2007,48.6,CO
+624,Black Canyon of the Gunnison NP,2008,46.3,CO
+625,Black Canyon of the Gunnison NP,2009,46.7,CO
+626,Black Canyon of the Gunnison NP,2010,47.2,CO
+627,Black Canyon of the Gunnison NP,2010,47.2,CO
+628,Black Canyon of the Gunnison NP,2011,46.6,CO
+629,Black Canyon of the Gunnison NP,2012,49.6,CO
+630,Black Canyon of the Gunnison NP,2013,46.2,CO
+631,Black Canyon of the Gunnison NP,2014,48.0,CO
+632,Black Canyon of the Gunnison NP,2015,48.8,CO
+633,Black Canyon of the Gunnison NP,2016,48.0,CO
+634,Black Canyon of the Gunnison NP,2017,49.6,CO
+635,Black Canyon of the Gunnison NP,2018,49.0,CO
+636,Black Canyon of the Gunnison NP,2019,46.8,CO
+637,Bryce Canyon NP,1990,49.3,UT
+638,Bryce Canyon NP,1991,48.5,UT
+639,Bryce Canyon NP,1992,49.2,UT
+640,Bryce Canyon NP,1993,49.6,UT
+641,Bryce Canyon NP,1994,51.0,UT
+642,Bryce Canyon NP,2000,52.3,UT
+643,Bryce Canyon NP,2000,52.3,UT
+644,Bryce Canyon NP,2004,50.1,UT
+645,Bryce Canyon NP,2005,51.2,UT
+646,Bryce Canyon NP,2006,51.0,UT
+647,Bryce Canyon NP,2007,52.0,UT
+648,Bryce Canyon NP,2008,50.0,UT
+649,Bryce Canyon NP,2010,50.1,UT
+650,Bryce Canyon NP,2010,50.1,UT
+651,Bryce Canyon NP,2011,50.1,UT
+652,Bryce Canyon NP,2012,52.3,UT
+653,Bryce Canyon NP,2016,52.0,UT
+654,Bryce Canyon NP,2017,53.2,UT
+655,Canyon de Chelly NM,1990,49.3,AZ
+656,Canyon de Chelly NM,1991,48.5,AZ
+657,Canyon de Chelly NM,1992,49.2,AZ
+658,Canyon de Chelly NM,1993,49.6,AZ
+659,Canyon de Chelly NM,1994,51.0,AZ
+660,Canyon de Chelly NM,2000,52.3,AZ
+661,Canyon de Chelly NM,2000,52.3,AZ
+662,Canyon de Chelly NM,2004,50.1,AZ
+663,Canyon de Chelly NM,2005,51.2,AZ
+664,Canyon de Chelly NM,2006,51.0,AZ
+665,Canyon de Chelly NM,2007,52.0,AZ
+666,Canyon de Chelly NM,2008,50.0,AZ
+667,Canyon de Chelly NM,2010,50.1,AZ
+668,Canyon de Chelly NM,2010,50.1,AZ
+669,Canyon de Chelly NM,2011,50.1,AZ
+670,Canyon de Chelly NM,2012,52.3,AZ
+671,Canyon de Chelly NM,2016,52.0,AZ
+672,Canyon de Chelly NM,2017,53.2,AZ
+673,Canyonlands NP,1990,49.3,UT
+674,Canyonlands NP,1991,48.5,UT
+675,Canyonlands NP,1992,49.2,UT
+676,Canyonlands NP,1993,49.6,UT
+677,Canyonlands NP,1994,51.0,UT
+678,Canyonlands NP,2000,52.3,UT
+679,Canyonlands NP,2000,52.3,UT
+680,Canyonlands NP,2004,50.1,UT
+681,Canyonlands NP,2005,51.2,UT
+682,Canyonlands NP,2006,51.0,UT
+683,Canyonlands NP,2007,52.0,UT
+684,Canyonlands NP,2008,50.0,UT
+685,Canyonlands NP,2010,50.1,UT
+686,Canyonlands NP,2010,50.1,UT
+687,Canyonlands NP,2011,50.1,UT
+688,Canyonlands NP,2012,52.3,UT
+689,Canyonlands NP,2016,52.0,UT
+690,Canyonlands NP,2017,53.2,UT
+691,Capitol Reef NP,1990,49.3,UT
+692,Capitol Reef NP,1991,48.5,UT
+693,Capitol Reef NP,1992,49.2,UT
+694,Capitol Reef NP,1993,49.6,UT
+695,Capitol Reef NP,1994,51.0,UT
+696,Capitol Reef NP,2000,52.3,UT
+697,Capitol Reef NP,2000,52.3,UT
+698,Capitol Reef NP,2004,50.1,UT
+699,Capitol Reef NP,2005,51.2,UT
+700,Capitol Reef NP,2006,51.0,UT
+701,Capitol Reef NP,2007,52.0,UT
+702,Capitol Reef NP,2008,50.0,UT
+703,Capitol Reef NP,2010,50.1,UT
+704,Capitol Reef NP,2010,50.1,UT
+705,Capitol Reef NP,2011,50.1,UT
+706,Capitol Reef NP,2012,52.3,UT
+707,Capitol Reef NP,2016,52.0,UT
+708,Capitol Reef NP,2017,53.2,UT
+709,Capulin Volcano NM,1990,48.5,NM
+710,Capulin Volcano NM,1991,49.4,NM
+711,Capulin Volcano NM,1993,45.8,NM
+712,Capulin Volcano NM,1994,50.3,NM
+713,Capulin Volcano NM,1995,48.5,NM
+714,Capulin Volcano NM,1996,48.2,NM
+715,Capulin Volcano NM,1997,48.2,NM
+716,Capulin Volcano NM,1998,50.4,NM
+717,Capulin Volcano NM,1999,51.0,NM
+718,Capulin Volcano NM,2000,49.9,NM
+719,Capulin Volcano NM,2000,49.9,NM
+720,Capulin Volcano NM,2001,50.2,NM
+721,Capulin Volcano NM,2003,50.0,NM
+722,Capulin Volcano NM,2004,50.3,NM
+723,Capulin Volcano NM,2005,51.6,NM
+724,Capulin Volcano NM,2006,50.8,NM
+725,Capulin Volcano NM,2007,49.3,NM
+726,Capulin Volcano NM,2008,48.3,NM
+727,Capulin Volcano NM,2009,48.4,NM
+728,Capulin Volcano NM,2010,51.1,NM
+729,Capulin Volcano NM,2010,51.1,NM
+730,Capulin Volcano NM,2011,49.9,NM
+731,Capulin Volcano NM,2012,53.4,NM
+732,Capulin Volcano NM,2013,49.4,NM
+733,Capulin Volcano NM,2014,49.7,NM
+734,Capulin Volcano NM,2015,51.8,NM
+735,Capulin Volcano NM,2016,52.0,NM
+736,Capulin Volcano NM,2017,52.0,NM
+737,Capulin Volcano NM,2019,48.3,NM
+738,Capulin Volcano NM,2020,50.6,NM
+739,Carlsbad Caverns NP,1994,72.0,NM
+740,Carlsbad Caverns NP,2000,73.1,NM
+741,Carlsbad Caverns NP,2000,73.1,NM
+742,Carlsbad Caverns NP,2001,73.4,NM
+743,Carlsbad Caverns NP,2002,72.6,NM
+744,Carlsbad Caverns NP,2003,74.1,NM
+745,Carlsbad Caverns NP,2004,72.8,NM
+746,Carlsbad Caverns NP,2005,73.8,NM
+747,Carlsbad Caverns NP,2006,74.2,NM
+748,Carlsbad Caverns NP,2007,73.7,NM
+749,Carlsbad Caverns NP,2008,74.4,NM
+750,Carlsbad Caverns NP,2010,73.8,NM
+751,Carlsbad Caverns NP,2010,73.8,NM
+752,Carlsbad Caverns NP,2012,74.9,NM
+753,Casa Grande Ruins NM,1990,70.4,AZ
+754,Casa Grande Ruins NM,1991,69.9,AZ
+755,Casa Grande Ruins NM,1992,70.6,AZ
+756,Casa Grande Ruins NM,1993,70.6,AZ
+757,Casa Grande Ruins NM,1994,70.9,AZ
+758,Casa Grande Ruins NM,1995,71.7,AZ
+759,Casa Grande Ruins NM,1996,72.0,AZ
+760,Casa Grande Ruins NM,1997,71.1,AZ
+761,Casa Grande Ruins NM,1998,69.4,AZ
+762,Casa Grande Ruins NM,1999,71.1,AZ
+763,Casa Grande Ruins NM,2000,71.8,AZ
+764,Casa Grande Ruins NM,2000,71.8,AZ
+765,Casa Grande Ruins NM,2001,71.4,AZ
+766,Casa Grande Ruins NM,2002,71.0,AZ
+767,Casa Grande Ruins NM,2003,71.5,AZ
+768,Casa Grande Ruins NM,2004,70.6,AZ
+769,Casa Grande Ruins NM,2006,71.0,AZ
+770,Casa Grande Ruins NM,2007,70.8,AZ
+771,Casa Grande Ruins NM,2008,70.6,AZ
+772,Casa Grande Ruins NM,2009,71.2,AZ
+773,Casa Grande Ruins NM,2010,70.1,AZ
+774,Casa Grande Ruins NM,2010,70.1,AZ
+775,Casa Grande Ruins NM,2011,70.1,AZ
+776,Casa Grande Ruins NM,2012,71.2,AZ
+777,Cedar Breaks NM,1990,64.8,UT
+778,Cedar Breaks NM,1997,67.9,UT
+779,Cedar Breaks NM,1998,65.2,UT
+780,Cedar Breaks NM,2002,68.4,UT
+781,Cedar Breaks NM,2003,70.1,UT
+782,Cedar Breaks NM,2004,68.3,UT
+783,Cedar Breaks NM,2006,68.4,UT
+784,Cedar Breaks NM,2009,68.2,UT
+785,Cedar Breaks NM,2010,68.2,UT
+786,Cedar Breaks NM,2010,68.2,UT
+787,Cedar Breaks NM,2011,66.7,UT
+788,Cedar Breaks NM,2012,70.4,UT
+789,Cedar Breaks NM,2015,70.8,UT
+790,Cedar Breaks NM,2016,69.6,UT
+791,Cedar Breaks NM,2019,67.3,UT
+792,Chaco Culture NHP,1990,70.4,NM
+793,Chaco Culture NHP,1991,69.9,NM
+794,Chaco Culture NHP,1992,70.6,NM
+795,Chaco Culture NHP,1993,70.6,NM
+796,Chaco Culture NHP,1994,70.9,NM
+797,Chaco Culture NHP,1995,71.7,NM
+798,Chaco Culture NHP,1996,72.0,NM
+799,Chaco Culture NHP,1997,71.1,NM
+800,Chaco Culture NHP,1998,69.4,NM
+801,Chaco Culture NHP,1999,71.1,NM
+802,Chaco Culture NHP,2000,71.8,NM
+803,Chaco Culture NHP,2000,71.8,NM
+804,Chaco Culture NHP,2001,71.4,NM
+805,Chaco Culture NHP,2002,71.0,NM
+806,Chaco Culture NHP,2003,71.5,NM
+807,Chaco Culture NHP,2004,70.6,NM
+808,Chaco Culture NHP,2006,71.0,NM
+809,Chaco Culture NHP,2007,70.8,NM
+810,Chaco Culture NHP,2008,70.6,NM
+811,Chaco Culture NHP,2009,71.2,NM
+812,Chaco Culture NHP,2010,70.1,NM
+813,Chaco Culture NHP,2010,70.1,NM
+814,Chaco Culture NHP,2011,70.1,NM
+815,Chaco Culture NHP,2012,71.2,NM
+816,Chamizal NMEM,1994,72.0,CA
+817,Chamizal NMEM,2000,73.1,CA
+818,Chamizal NMEM,2000,73.1,CA
+819,Chamizal NMEM,2001,73.4,CA
+820,Chamizal NMEM,2002,72.6,CA
+821,Chamizal NMEM,2003,74.1,CA
+822,Chamizal NMEM,2004,72.8,CA
+823,Chamizal NMEM,2005,73.8,CA
+824,Chamizal NMEM,2006,74.2,CA
+825,Chamizal NMEM,2007,73.7,CA
+826,Chamizal NMEM,2008,74.4,CA
+827,Chamizal NMEM,2010,73.8,CA
+828,Chamizal NMEM,2010,73.8,CA
+829,Chamizal NMEM,2012,74.9,CA
+830,Chickasaw NRA,1990,64.1,OK
+831,Chickasaw NRA,1991,63.3,OK
+832,Chickasaw NRA,1994,61.2,OK
+833,Chickasaw NRA,1995,61.2,OK
+834,Chickasaw NRA,1996,59.9,OK
+835,Chickasaw NRA,1997,60.5,OK
+836,Chickasaw NRA,1998,63.5,OK
+837,Chickasaw NRA,1999,62.7,OK
+838,Chickasaw NRA,2000,61.4,OK
+839,Chickasaw NRA,2000,61.4,OK
+840,Chickasaw NRA,2001,60.7,OK
+841,Chickasaw NRA,2002,59.6,OK
+842,Chickasaw NRA,2003,59.3,OK
+843,Chickasaw NRA,2004,60.1,OK
+844,Chickasaw NRA,2005,60.9,OK
+845,Chickasaw NRA,2006,61.0,OK
+846,Chickasaw NRA,2007,60.6,OK
+847,Chickasaw NRA,2008,58.7,OK
+848,Chickasaw NRA,2009,58.5,OK
+849,Chickasaw NRA,2010,59.9,OK
+850,Chickasaw NRA,2010,59.9,OK
+851,Chickasaw NRA,2012,62.4,OK
+852,Chickasaw NRA,2013,58.5,OK
+853,Chickasaw NRA,2014,57.1,OK
+854,Chickasaw NRA,2015,59.9,OK
+855,Chickasaw NRA,2016,61.0,OK
+856,Chickasaw NRA,2018,59.6,OK
+857,Chickasaw NRA,2019,59.6,OK
+858,Chickasaw NRA,2020,59.5,OK
+859,Chiricahua NM,1994,72.0,AZ
+860,Chiricahua NM,2000,73.1,AZ
+861,Chiricahua NM,2000,73.1,AZ
+862,Chiricahua NM,2001,73.4,AZ
+863,Chiricahua NM,2002,72.6,AZ
+864,Chiricahua NM,2003,74.1,AZ
+865,Chiricahua NM,2004,72.8,AZ
+866,Chiricahua NM,2005,73.8,AZ
+867,Chiricahua NM,2006,74.2,AZ
+868,Chiricahua NM,2007,73.7,AZ
+869,Chiricahua NM,2008,74.4,AZ
+870,Chiricahua NM,2010,73.8,AZ
+871,Chiricahua NM,2010,73.8,AZ
+872,Chiricahua NM,2012,74.9,AZ
+873,Colorado NM,1990,46.4,CO
+874,Colorado NM,1991,45.4,CO
+875,Colorado NM,1992,45.9,CO
+876,Colorado NM,1993,45.6,CO
+877,Colorado NM,1994,47.7,CO
+878,Colorado NM,1995,47.6,CO
+879,Colorado NM,1996,47.2,CO
+880,Colorado NM,1997,46.8,CO
+881,Colorado NM,1998,47.7,CO
+882,Colorado NM,1999,47.7,CO
+883,Colorado NM,2000,48.8,CO
+884,Colorado NM,2000,48.8,CO
+885,Colorado NM,2002,47.9,CO
+886,Colorado NM,2003,49.7,CO
+887,Colorado NM,2004,47.6,CO
+888,Colorado NM,2007,48.6,CO
+889,Colorado NM,2008,46.3,CO
+890,Colorado NM,2009,46.7,CO
+891,Colorado NM,2010,47.2,CO
+892,Colorado NM,2010,47.2,CO
+893,Colorado NM,2011,46.6,CO
+894,Colorado NM,2012,49.6,CO
+895,Colorado NM,2013,46.2,CO
+896,Colorado NM,2014,48.0,CO
+897,Colorado NM,2015,48.8,CO
+898,Colorado NM,2016,48.0,CO
+899,Colorado NM,2017,49.6,CO
+900,Colorado NM,2018,49.0,CO
+901,Colorado NM,2019,46.8,CO
+902,Coronado NMEM,1994,72.0,AZ
+903,Coronado NMEM,2000,73.1,AZ
+904,Coronado NMEM,2000,73.1,AZ
+905,Coronado NMEM,2001,73.4,AZ
+906,Coronado NMEM,2002,72.6,AZ
+907,Coronado NMEM,2003,74.1,AZ
+908,Coronado NMEM,2004,72.8,AZ
+909,Coronado NMEM,2005,73.8,AZ
+910,Coronado NMEM,2006,74.2,AZ
+911,Coronado NMEM,2007,73.7,AZ
+912,Coronado NMEM,2008,74.4,AZ
+913,Coronado NMEM,2010,73.8,AZ
+914,Coronado NMEM,2010,73.8,AZ
+915,Coronado NMEM,2012,74.9,AZ
+916,Curecanti NRA,1994,72.0,CO
+917,Curecanti NRA,2000,73.1,CO
+918,Curecanti NRA,2000,73.1,CO
+919,Curecanti NRA,2001,73.4,CO
+920,Curecanti NRA,2002,72.6,CO
+921,Curecanti NRA,2003,74.1,CO
+922,Curecanti NRA,2004,72.8,CO
+923,Curecanti NRA,2005,73.8,CO
+924,Curecanti NRA,2006,74.2,CO
+925,Curecanti NRA,2007,73.7,CO
+926,Curecanti NRA,2008,74.4,CO
+927,Curecanti NRA,2010,73.8,CO
+928,Curecanti NRA,2010,73.8,CO
+929,Curecanti NRA,2012,74.9,CO
+930,Devils Tower NM,1991,43.8,WY
+931,Devils Tower NM,1993,38.7,WY
+932,Devils Tower NM,1994,42.4,WY
+933,Devils Tower NM,1995,42.7,WY
+934,Devils Tower NM,1996,38.8,WY
+935,Devils Tower NM,1998,44.5,WY
+936,Devils Tower NM,1999,45.3,WY
+937,Devils Tower NM,2000,43.4,WY
+938,Devils Tower NM,2000,43.4,WY
+939,Devils Tower NM,2002,43.7,WY
+940,Devils Tower NM,2003,44.1,WY
+941,Devils Tower NM,2004,45.4,WY
+942,Devils Tower NM,2005,47.6,WY
+943,Devils Tower NM,2006,47.9,WY
+944,Devils Tower NM,2007,46.4,WY
+945,Devils Tower NM,2015,44.8,WY
+946,Devils Tower NM,2017,41.1,WY
+947,Dinosaur NM,1990,46.4,UT
+948,Dinosaur NM,1991,45.4,UT
+949,Dinosaur NM,1992,45.9,UT
+950,Dinosaur NM,1993,45.6,UT
+951,Dinosaur NM,1994,47.7,UT
+952,Dinosaur NM,1995,47.6,UT
+953,Dinosaur NM,1996,47.2,UT
+954,Dinosaur NM,1997,46.8,UT
+955,Dinosaur NM,1998,47.7,UT
+956,Dinosaur NM,1999,47.7,UT
+957,Dinosaur NM,2000,48.8,UT
+958,Dinosaur NM,2000,48.8,UT
+959,Dinosaur NM,2002,47.9,UT
+960,Dinosaur NM,2003,49.7,UT
+961,Dinosaur NM,2004,47.6,UT
+962,Dinosaur NM,2007,48.6,UT
+963,Dinosaur NM,2008,46.3,UT
+964,Dinosaur NM,2009,46.7,UT
+965,Dinosaur NM,2010,47.2,UT
+966,Dinosaur NM,2010,47.2,UT
+967,Dinosaur NM,2011,46.6,UT
+968,Dinosaur NM,2012,49.6,UT
+969,Dinosaur NM,2013,46.2,UT
+970,Dinosaur NM,2014,48.0,UT
+971,Dinosaur NM,2015,48.8,UT
+972,Dinosaur NM,2016,48.0,UT
+973,Dinosaur NM,2017,49.6,UT
+974,Dinosaur NM,2018,49.0,UT
+975,Dinosaur NM,2019,46.8,UT
+976,El Malpais NM,1994,72.0,NM
+977,El Malpais NM,2000,73.1,NM
+978,El Malpais NM,2000,73.1,NM
+979,El Malpais NM,2001,73.4,NM
+980,El Malpais NM,2002,72.6,NM
+981,El Malpais NM,2003,74.1,NM
+982,El Malpais NM,2004,72.8,NM
+983,El Malpais NM,2005,73.8,NM
+984,El Malpais NM,2006,74.2,NM
+985,El Malpais NM,2007,73.7,NM
+986,El Malpais NM,2008,74.4,NM
+987,El Malpais NM,2010,73.8,NM
+988,El Malpais NM,2010,73.8,NM
+989,El Malpais NM,2012,74.9,NM
+990,El Morro NM,1994,72.0,NM
+991,El Morro NM,2000,73.1,NM
+992,El Morro NM,2000,73.1,NM
+993,El Morro NM,2001,73.4,NM
+994,El Morro NM,2002,72.6,NM
+995,El Morro NM,2003,74.1,NM
+996,El Morro NM,2004,72.8,NM
+997,El Morro NM,2005,73.8,NM
+998,El Morro NM,2006,74.2,NM
+999,El Morro NM,2007,73.7,NM
+1000,El Morro NM,2008,74.4,NM
+1001,El Morro NM,2010,73.8,NM
+1002,El Morro NM,2010,73.8,NM
+1003,El Morro NM,2012,74.9,NM
+1004,Florissant Fossil Beds NM,1990,48.5,CO
+1005,Florissant Fossil Beds NM,1991,49.4,CO
+1006,Florissant Fossil Beds NM,1993,45.8,CO
+1007,Florissant Fossil Beds NM,1994,50.3,CO
+1008,Florissant Fossil Beds NM,1995,48.5,CO
+1009,Florissant Fossil Beds NM,1996,48.2,CO
+1010,Florissant Fossil Beds NM,1997,48.2,CO
+1011,Florissant Fossil Beds NM,1998,50.4,CO
+1012,Florissant Fossil Beds NM,1999,51.0,CO
+1013,Florissant Fossil Beds NM,2000,49.9,CO
+1014,Florissant Fossil Beds NM,2000,49.9,CO
+1015,Florissant Fossil Beds NM,2001,50.2,CO
+1016,Florissant Fossil Beds NM,2003,50.0,CO
+1017,Florissant Fossil Beds NM,2004,50.3,CO
+1018,Florissant Fossil Beds NM,2005,51.6,CO
+1019,Florissant Fossil Beds NM,2006,50.8,CO
+1020,Florissant Fossil Beds NM,2007,49.3,CO
+1021,Florissant Fossil Beds NM,2008,48.3,CO
+1022,Florissant Fossil Beds NM,2009,48.4,CO
+1023,Florissant Fossil Beds NM,2010,51.1,CO
+1024,Florissant Fossil Beds NM,2010,51.1,CO
+1025,Florissant Fossil Beds NM,2011,49.9,CO
+1026,Florissant Fossil Beds NM,2012,53.4,CO
+1027,Florissant Fossil Beds NM,2013,49.4,CO
+1028,Florissant Fossil Beds NM,2014,49.7,CO
+1029,Florissant Fossil Beds NM,2015,51.8,CO
+1030,Florissant Fossil Beds NM,2016,52.0,CO
+1031,Florissant Fossil Beds NM,2017,52.0,CO
+1032,Florissant Fossil Beds NM,2019,48.3,CO
+1033,Florissant Fossil Beds NM,2020,50.6,CO
+1034,Fort Bowie NHS,1994,72.0,AZ
+1035,Fort Bowie NHS,2000,73.1,AZ
+1036,Fort Bowie NHS,2000,73.1,AZ
+1037,Fort Bowie NHS,2001,73.4,AZ
+1038,Fort Bowie NHS,2002,72.6,AZ
+1039,Fort Bowie NHS,2003,74.1,AZ
+1040,Fort Bowie NHS,2004,72.8,AZ
+1041,Fort Bowie NHS,2005,73.8,AZ
+1042,Fort Bowie NHS,2006,74.2,AZ
+1043,Fort Bowie NHS,2007,73.7,AZ
+1044,Fort Bowie NHS,2008,74.4,AZ
+1045,Fort Bowie NHS,2010,73.8,AZ
+1046,Fort Bowie NHS,2010,73.8,AZ
+1047,Fort Bowie NHS,2012,74.9,AZ
+1048,Fort Davis NHS,1994,72.0,TX
+1049,Fort Davis NHS,2000,73.1,TX
+1050,Fort Davis NHS,2000,73.1,TX
+1051,Fort Davis NHS,2001,73.4,TX
+1052,Fort Davis NHS,2002,72.6,TX
+1053,Fort Davis NHS,2003,74.1,TX
+1054,Fort Davis NHS,2004,72.8,TX
+1055,Fort Davis NHS,2005,73.8,TX
+1056,Fort Davis NHS,2006,74.2,TX
+1057,Fort Davis NHS,2007,73.7,TX
+1058,Fort Davis NHS,2008,74.4,TX
+1059,Fort Davis NHS,2010,73.8,TX
+1060,Fort Davis NHS,2010,73.8,TX
+1061,Fort Davis NHS,2012,74.9,TX
+1062,Fort Laramie NHS,1990,48.5,WY
+1063,Fort Laramie NHS,1991,49.4,WY
+1064,Fort Laramie NHS,1993,45.8,WY
+1065,Fort Laramie NHS,1994,50.3,WY
+1066,Fort Laramie NHS,1995,48.5,WY
+1067,Fort Laramie NHS,1996,48.2,WY
+1068,Fort Laramie NHS,1997,48.2,WY
+1069,Fort Laramie NHS,1998,50.4,WY
+1070,Fort Laramie NHS,1999,51.0,WY
+1071,Fort Laramie NHS,2000,49.9,WY
+1072,Fort Laramie NHS,2000,49.9,WY
+1073,Fort Laramie NHS,2001,50.2,WY
+1074,Fort Laramie NHS,2003,50.0,WY
+1075,Fort Laramie NHS,2004,50.3,WY
+1076,Fort Laramie NHS,2005,51.6,WY
+1077,Fort Laramie NHS,2006,50.8,WY
+1078,Fort Laramie NHS,2007,49.3,WY
+1079,Fort Laramie NHS,2008,48.3,WY
+1080,Fort Laramie NHS,2009,48.4,WY
+1081,Fort Laramie NHS,2010,51.1,WY
+1082,Fort Laramie NHS,2010,51.1,WY
+1083,Fort Laramie NHS,2011,49.9,WY
+1084,Fort Laramie NHS,2012,53.4,WY
+1085,Fort Laramie NHS,2013,49.4,WY
+1086,Fort Laramie NHS,2014,49.7,WY
+1087,Fort Laramie NHS,2015,51.8,WY
+1088,Fort Laramie NHS,2016,52.0,WY
+1089,Fort Laramie NHS,2017,52.0,WY
+1090,Fort Laramie NHS,2019,48.3,WY
+1091,Fort Laramie NHS,2020,50.6,WY
+1092,Fort Union NM,1994,72.0,NM
+1093,Fort Union NM,2000,73.1,NM
+1094,Fort Union NM,2000,73.1,NM
+1095,Fort Union NM,2001,73.4,NM
+1096,Fort Union NM,2002,72.6,NM
+1097,Fort Union NM,2003,74.1,NM
+1098,Fort Union NM,2004,72.8,NM
+1099,Fort Union NM,2005,73.8,NM
+1100,Fort Union NM,2006,74.2,NM
+1101,Fort Union NM,2007,73.7,NM
+1102,Fort Union NM,2008,74.4,NM
+1103,Fort Union NM,2010,73.8,NM
+1104,Fort Union NM,2010,73.8,NM
+1105,Fort Union NM,2012,74.9,NM
+1106,Fossil Butte NM,1993,38.0,WY
+1107,Fossil Butte NM,1994,42.3,WY
+1108,Fossil Butte NM,1995,41.8,WY
+1109,Fossil Butte NM,1996,41.1,WY
+1110,Fossil Butte NM,1997,39.9,WY
+1111,Fossil Butte NM,1998,41.7,WY
+1112,Fossil Butte NM,1999,41.6,WY
+1113,Fossil Butte NM,2000,42.0,WY
+1114,Fossil Butte NM,2000,42.0,WY
+1115,Fossil Butte NM,2001,40.9,WY
+1116,Fossil Butte NM,2002,39.9,WY
+1117,Fossil Butte NM,2006,41.4,WY
+1118,Fossil Butte NM,2007,42.5,WY
+1119,Fossil Butte NM,2008,39.9,WY
+1120,Fossil Butte NM,2010,41.4,WY
+1121,Fossil Butte NM,2010,41.4,WY
+1122,Fossil Butte NM,2011,38.9,WY
+1123,Fossil Butte NM,2012,43.9,WY
+1124,Fossil Butte NM,2013,41.1,WY
+1125,Fossil Butte NM,2014,43.4,WY
+1126,Fossil Butte NM,2015,44.8,WY
+1127,Fossil Butte NM,2016,43.0,WY
+1128,Fossil Butte NM,2017,42.3,WY
+1129,Fossil Butte NM,2018,42.9,WY
+1130,Fossil Butte NM,2019,39.9,WY
+1131,Fossil Butte NM,2020,41.9,WY
+1132,Gila Cliff Dwellings NM,1994,72.0,NM
+1133,Gila Cliff Dwellings NM,2000,73.1,NM
+1134,Gila Cliff Dwellings NM,2000,73.1,NM
+1135,Gila Cliff Dwellings NM,2001,73.4,NM
+1136,Gila Cliff Dwellings NM,2002,72.6,NM
+1137,Gila Cliff Dwellings NM,2003,74.1,NM
+1138,Gila Cliff Dwellings NM,2004,72.8,NM
+1139,Gila Cliff Dwellings NM,2005,73.8,NM
+1140,Gila Cliff Dwellings NM,2006,74.2,NM
+1141,Gila Cliff Dwellings NM,2007,73.7,NM
+1142,Gila Cliff Dwellings NM,2008,74.4,NM
+1143,Gila Cliff Dwellings NM,2010,73.8,NM
+1144,Gila Cliff Dwellings NM,2010,73.8,NM
+1145,Gila Cliff Dwellings NM,2012,74.9,NM
+1146,Glacier NP,1990,47.0,MT
+1147,Glacier NP,1991,46.7,MT
+1148,Glacier NP,1992,48.4,MT
+1149,Glacier NP,1993,46.1,MT
+1150,Glacier NP,1994,48.5,MT
+1151,Glacier NP,1995,47.8,MT
+1152,Glacier NP,1996,45.4,MT
+1153,Glacier NP,1997,47.5,MT
+1154,Glacier NP,1998,49.9,MT
+1155,Glacier NP,1999,47.8,MT
+1156,Glacier NP,2000,47.0,MT
+1157,Glacier NP,2000,47.0,MT
+1158,Glacier NP,2001,48.3,MT
+1159,Glacier NP,2002,47.4,MT
+1160,Glacier NP,2003,49.0,MT
+1161,Glacier NP,2004,49.3,MT
+1162,Glacier NP,2005,47.6,MT
+1163,Glacier NP,2006,49.1,MT
+1164,Glacier NP,2012,48.4,MT
+1165,Glen Canyon NRA,1990,49.3,UT
+1166,Glen Canyon NRA,1991,48.5,UT
+1167,Glen Canyon NRA,1992,49.2,UT
+1168,Glen Canyon NRA,1993,49.6,UT
+1169,Glen Canyon NRA,1994,51.0,UT
+1170,Glen Canyon NRA,2000,52.3,UT
+1171,Glen Canyon NRA,2000,52.3,UT
+1172,Glen Canyon NRA,2004,50.1,UT
+1173,Glen Canyon NRA,2005,51.2,UT
+1174,Glen Canyon NRA,2006,51.0,UT
+1175,Glen Canyon NRA,2007,52.0,UT
+1176,Glen Canyon NRA,2008,50.0,UT
+1177,Glen Canyon NRA,2010,50.1,UT
+1178,Glen Canyon NRA,2010,50.1,UT
+1179,Glen Canyon NRA,2011,50.1,UT
+1180,Glen Canyon NRA,2012,52.3,UT
+1181,Glen Canyon NRA,2016,52.0,UT
+1182,Glen Canyon NRA,2017,53.2,UT
+1183,Golden Spike NHP,1990,45.2,UT
+1184,Golden Spike NHP,1991,45.1,UT
+1185,Golden Spike NHP,1992,45.8,UT
+1186,Golden Spike NHP,1993,40.6,UT
+1187,Golden Spike NHP,1994,46.0,UT
+1188,Golden Spike NHP,1995,45.9,UT
+1189,Golden Spike NHP,1996,45.1,UT
+1190,Golden Spike NHP,1997,45.1,UT
+1191,Golden Spike NHP,1998,46.5,UT
+1192,Golden Spike NHP,1999,45.4,UT
+1193,Golden Spike NHP,2000,44.9,UT
+1194,Golden Spike NHP,2000,44.9,UT
+1195,Golden Spike NHP,2001,43.9,UT
+1196,Golden Spike NHP,2002,43.2,UT
+1197,Golden Spike NHP,2003,46.2,UT
+1198,Golden Spike NHP,2004,43.3,UT
+1199,Golden Spike NHP,2005,43.5,UT
+1200,Golden Spike NHP,2006,45.6,UT
+1201,Golden Spike NHP,2009,44.2,UT
+1202,Golden Spike NHP,2010,44.7,UT
+1203,Golden Spike NHP,2010,44.7,UT
+1204,Golden Spike NHP,2011,44.0,UT
+1205,Golden Spike NHP,2012,47.5,UT
+1206,Golden Spike NHP,2013,44.1,UT
+1207,Golden Spike NHP,2014,46.7,UT
+1208,Golden Spike NHP,2015,47.1,UT
+1209,Golden Spike NHP,2016,44.7,UT
+1210,Golden Spike NHP,2018,45.8,UT
+1211,Golden Spike NHP,2019,44.1,UT
+1212,Golden Spike NHP,2020,46.1,UT
+1213,Grand Canyon NP,1994,72.0,AZ
+1214,Grand Canyon NP,2000,73.1,AZ
+1215,Grand Canyon NP,2000,73.1,AZ
+1216,Grand Canyon NP,2001,73.4,AZ
+1217,Grand Canyon NP,2002,72.6,AZ
+1218,Grand Canyon NP,2003,74.1,AZ
+1219,Grand Canyon NP,2004,72.8,AZ
+1220,Grand Canyon NP,2005,73.8,AZ
+1221,Grand Canyon NP,2006,74.2,AZ
+1222,Grand Canyon NP,2007,73.7,AZ
+1223,Grand Canyon NP,2008,74.4,AZ
+1224,Grand Canyon NP,2010,73.8,AZ
+1225,Grand Canyon NP,2010,73.8,AZ
+1226,Grand Canyon NP,2012,74.9,AZ
+1227,Grand Teton NP,1990,42.0,WY
+1228,Grand Teton NP,1991,41.3,WY
+1229,Grand Teton NP,1994,43.4,WY
+1230,Grand Teton NP,1995,42.7,WY
+1231,Grand Teton NP,1999,43.6,WY
+1232,Grand Teton NP,2001,43.4,WY
+1233,Grand Teton NP,2002,41.0,WY
+1234,Grand Teton NP,2004,43.5,WY
+1235,Grand Teton NP,2005,42.6,WY
+1236,Grand Teton NP,2014,43.2,WY
+1237,Grand Teton NP,2015,45.4,WY
+1238,Grand Teton NP,2016,44.7,WY
+1239,Grand Teton NP,2017,44.3,WY
+1240,Grand Teton NP,2020,42.6,WY
+1241,Grant-Kohrs Ranch NHS,1990,47.4,MT
+1242,Grant-Kohrs Ranch NHS,1991,47.3,MT
+1243,Grant-Kohrs Ranch NHS,1992,48.9,MT
+1244,Grant-Kohrs Ranch NHS,1993,46.3,MT
+1245,Grant-Kohrs Ranch NHS,1994,48.7,MT
+1246,Grant-Kohrs Ranch NHS,1995,48.1,MT
+1247,Grant-Kohrs Ranch NHS,1996,45.5,MT
+1248,Grant-Kohrs Ranch NHS,1997,47.3,MT
+1249,Grant-Kohrs Ranch NHS,1998,50.2,MT
+1250,Grant-Kohrs Ranch NHS,1999,47.8,MT
+1251,Grant-Kohrs Ranch NHS,2000,46.9,MT
+1252,Grant-Kohrs Ranch NHS,2000,46.9,MT
+1253,Grant-Kohrs Ranch NHS,2001,48.0,MT
+1254,Grant-Kohrs Ranch NHS,2002,47.6,MT
+1255,Grant-Kohrs Ranch NHS,2003,48.9,MT
+1256,Grant-Kohrs Ranch NHS,2004,49.1,MT
+1257,Grant-Kohrs Ranch NHS,2005,47.5,MT
+1258,Grant-Kohrs Ranch NHS,2006,48.7,MT
+1259,Grant-Kohrs Ranch NHS,2007,48.4,MT
+1260,Grant-Kohrs Ranch NHS,2009,47.1,MT
+1261,Grant-Kohrs Ranch NHS,2010,48.4,MT
+1262,Grant-Kohrs Ranch NHS,2010,48.4,MT
+1263,Grant-Kohrs Ranch NHS,2011,46.5,MT
+1264,Grant-Kohrs Ranch NHS,2013,48.2,MT
+1265,Grant-Kohrs Ranch NHS,2014,48.3,MT
+1266,Grant-Kohrs Ranch NHS,2015,50.4,MT
+1267,Grant-Kohrs Ranch NHS,2016,50.0,MT
+1268,Grant-Kohrs Ranch NHS,2017,47.9,MT
+1269,Grant-Kohrs Ranch NHS,2018,48.5,MT
+1270,Grant-Kohrs Ranch NHS,2019,47.5,MT
+1271,Grant-Kohrs Ranch NHS,2020,48.6,MT
+1272,Great Sand Dunes NP & PRES,1990,48.5,CO
+1273,Great Sand Dunes NP & PRES,1991,49.4,CO
+1274,Great Sand Dunes NP & PRES,1993,45.8,CO
+1275,Great Sand Dunes NP & PRES,1994,50.3,CO
+1276,Great Sand Dunes NP & PRES,1995,48.5,CO
+1277,Great Sand Dunes NP & PRES,1996,48.2,CO
+1278,Great Sand Dunes NP & PRES,1997,48.2,CO
+1279,Great Sand Dunes NP & PRES,1998,50.4,CO
+1280,Great Sand Dunes NP & PRES,1999,51.0,CO
+1281,Great Sand Dunes NP & PRES,2000,49.9,CO
+1282,Great Sand Dunes NP & PRES,2000,49.9,CO
+1283,Great Sand Dunes NP & PRES,2001,50.2,CO
+1284,Great Sand Dunes NP & PRES,2003,50.0,CO
+1285,Great Sand Dunes NP & PRES,2004,50.3,CO
+1286,Great Sand Dunes NP & PRES,2005,51.6,CO
+1287,Great Sand Dunes NP & PRES,2006,50.8,CO
+1288,Great Sand Dunes NP & PRES,2007,49.3,CO
+1289,Great Sand Dunes NP & PRES,2008,48.3,CO
+1290,Great Sand Dunes NP & PRES,2009,48.4,CO
+1291,Great Sand Dunes NP & PRES,2010,51.1,CO
+1292,Great Sand Dunes NP & PRES,2010,51.1,CO
+1293,Great Sand Dunes NP & PRES,2011,49.9,CO
+1294,Great Sand Dunes NP & PRES,2012,53.4,CO
+1295,Great Sand Dunes NP & PRES,2013,49.4,CO
+1296,Great Sand Dunes NP & PRES,2014,49.7,CO
+1297,Great Sand Dunes NP & PRES,2015,51.8,CO
+1298,Great Sand Dunes NP & PRES,2016,52.0,CO
+1299,Great Sand Dunes NP & PRES,2017,52.0,CO
+1300,Great Sand Dunes NP & PRES,2019,48.3,CO
+1301,Great Sand Dunes NP & PRES,2020,50.6,CO
+1302,Guadalupe Mountains NP,1994,72.0,TX
+1303,Guadalupe Mountains NP,2000,73.1,TX
+1304,Guadalupe Mountains NP,2000,73.1,TX
+1305,Guadalupe Mountains NP,2001,73.4,TX
+1306,Guadalupe Mountains NP,2002,72.6,TX
+1307,Guadalupe Mountains NP,2003,74.1,TX
+1308,Guadalupe Mountains NP,2004,72.8,TX
+1309,Guadalupe Mountains NP,2005,73.8,TX
+1310,Guadalupe Mountains NP,2006,74.2,TX
+1311,Guadalupe Mountains NP,2007,73.7,TX
+1312,Guadalupe Mountains NP,2008,74.4,TX
+1313,Guadalupe Mountains NP,2010,73.8,TX
+1314,Guadalupe Mountains NP,2010,73.8,TX
+1315,Guadalupe Mountains NP,2012,74.9,TX
+1316,Hovenweep NM,1990,49.3,
+1317,Hovenweep NM,1991,48.5,
+1318,Hovenweep NM,1992,49.2,
+1319,Hovenweep NM,1993,49.6,
+1320,Hovenweep NM,1994,51.0,
+1321,Hovenweep NM,2000,52.3,
+1322,Hovenweep NM,2000,52.3,
+1323,Hovenweep NM,2004,50.1,
+1324,Hovenweep NM,2005,51.2,
+1325,Hovenweep NM,2006,51.0,
+1326,Hovenweep NM,2007,52.0,
+1327,Hovenweep NM,2008,50.0,
+1328,Hovenweep NM,2010,50.1,
+1329,Hovenweep NM,2010,50.1,
+1330,Hovenweep NM,2011,50.1,
+1331,Hovenweep NM,2012,52.3,
+1332,Hovenweep NM,2016,52.0,
+1333,Hovenweep NM,2017,53.2,
+1334,Hubbell Trading Post NHS,1990,49.3,AZ
+1335,Hubbell Trading Post NHS,1991,48.5,AZ
+1336,Hubbell Trading Post NHS,1992,49.2,AZ
+1337,Hubbell Trading Post NHS,1993,49.6,AZ
+1338,Hubbell Trading Post NHS,1994,51.0,AZ
+1339,Hubbell Trading Post NHS,2000,52.3,AZ
+1340,Hubbell Trading Post NHS,2000,52.3,AZ
+1341,Hubbell Trading Post NHS,2004,50.1,AZ
+1342,Hubbell Trading Post NHS,2005,51.2,AZ
+1343,Hubbell Trading Post NHS,2006,51.0,AZ
+1344,Hubbell Trading Post NHS,2007,52.0,AZ
+1345,Hubbell Trading Post NHS,2008,50.0,AZ
+1346,Hubbell Trading Post NHS,2010,50.1,AZ
+1347,Hubbell Trading Post NHS,2010,50.1,AZ
+1348,Hubbell Trading Post NHS,2011,50.1,AZ
+1349,Hubbell Trading Post NHS,2012,52.3,AZ
+1350,Hubbell Trading Post NHS,2016,52.0,AZ
+1351,Hubbell Trading Post NHS,2017,53.2,AZ
+1352,"John D. Rockefeller, Jr. MEM PKWY",1990,42.0,WY
+1353,"John D. Rockefeller, Jr. MEM PKWY",1991,41.3,WY
+1354,"John D. Rockefeller, Jr. MEM PKWY",1994,43.4,WY
+1355,"John D. Rockefeller, Jr. MEM PKWY",1995,42.7,WY
+1356,"John D. Rockefeller, Jr. MEM PKWY",1999,43.6,WY
+1357,"John D. Rockefeller, Jr. MEM PKWY",2001,43.4,WY
+1358,"John D. Rockefeller, Jr. MEM PKWY",2002,41.0,WY
+1359,"John D. Rockefeller, Jr. MEM PKWY",2004,43.5,WY
+1360,"John D. Rockefeller, Jr. MEM PKWY",2005,42.6,WY
+1361,"John D. Rockefeller, Jr. MEM PKWY",2014,43.2,WY
+1362,"John D. Rockefeller, Jr. MEM PKWY",2015,45.4,WY
+1363,"John D. Rockefeller, Jr. MEM PKWY",2016,44.7,WY
+1364,"John D. Rockefeller, Jr. MEM PKWY",2017,44.3,WY
+1365,"John D. Rockefeller, Jr. MEM PKWY",2020,42.6,WY
+1366,Lake Meredith NRA,1990,53.5,TX
+1367,Lake Meredith NRA,1991,53.6,TX
+1368,Lake Meredith NRA,1992,53.6,TX
+1369,Lake Meredith NRA,1994,55.2,TX
+1370,Lake Meredith NRA,1995,54.0,TX
+1371,Lake Meredith NRA,1996,53.4,TX
+1372,Lake Meredith NRA,1997,52.7,TX
+1373,Lake Meredith NRA,1998,55.1,TX
+1374,Lake Meredith NRA,1999,54.5,TX
+1375,Lake Meredith NRA,2000,55.2,TX
+1376,Lake Meredith NRA,2000,55.2,TX
+1377,Lake Meredith NRA,2001,54.2,TX
+1378,Lake Meredith NRA,2003,55.0,TX
+1379,Lake Meredith NRA,2004,54.3,TX
+1380,Lake Meredith NRA,2005,54.7,TX
+1381,Lake Meredith NRA,2006,55.0,TX
+1382,Lake Meredith NRA,2007,53.3,TX
+1383,Lake Meredith NRA,2008,55.1,TX
+1384,Lake Meredith NRA,2009,55.5,TX
+1385,Lake Meredith NRA,2011,56.5,TX
+1386,Lake Meredith NRA,2013,54.9,TX
+1387,Lake Meredith NRA,2015,55.6,TX
+1388,Lake Meredith NRA,2016,56.4,TX
+1389,Lake Meredith NRA,2017,56.0,TX
+1390,Lake Meredith NRA,2018,54.6,TX
+1391,Lake Meredith NRA,2019,53.5,TX
+1392,Little Bighorn Battlefield NM,1991,43.8,MT
+1393,Little Bighorn Battlefield NM,1993,38.7,MT
+1394,Little Bighorn Battlefield NM,1994,42.4,MT
+1395,Little Bighorn Battlefield NM,1995,42.7,MT
+1396,Little Bighorn Battlefield NM,1996,38.8,MT
+1397,Little Bighorn Battlefield NM,1998,44.5,MT
+1398,Little Bighorn Battlefield NM,1999,45.3,MT
+1399,Little Bighorn Battlefield NM,2000,43.4,MT
+1400,Little Bighorn Battlefield NM,2000,43.4,MT
+1401,Little Bighorn Battlefield NM,2002,43.7,MT
+1402,Little Bighorn Battlefield NM,2003,44.1,MT
+1403,Little Bighorn Battlefield NM,2004,45.4,MT
+1404,Little Bighorn Battlefield NM,2005,47.6,MT
+1405,Little Bighorn Battlefield NM,2006,47.9,MT
+1406,Little Bighorn Battlefield NM,2007,46.4,MT
+1407,Little Bighorn Battlefield NM,2015,44.8,MT
+1408,Little Bighorn Battlefield NM,2017,41.1,MT
+1409,Lyndon B. Johnson NHP,2000,40.7,TX
+1410,Lyndon B. Johnson NHP,2000,40.7,TX
+1411,Lyndon B. Johnson NHP,2001,40.9,TX
+1412,Lyndon B. Johnson NHP,2010,43.6,TX
+1413,Lyndon B. Johnson NHP,2010,43.6,TX
+1414,Lyndon B. Johnson NHP,2011,41.1,TX
+1415,Lyndon B. Johnson NHP,2015,38.1,TX
+1416,Lyndon B. Johnson NHP,2016,43.2,TX
+1417,Manhattan Project NHP,1994,72.0,NM
+1418,Manhattan Project NHP,2000,73.1,NM
+1419,Manhattan Project NHP,2000,73.1,NM
+1420,Manhattan Project NHP,2001,73.4,NM
+1421,Manhattan Project NHP,2002,72.6,NM
+1422,Manhattan Project NHP,2003,74.1,NM
+1423,Manhattan Project NHP,2004,72.8,NM
+1424,Manhattan Project NHP,2005,73.8,NM
+1425,Manhattan Project NHP,2006,74.2,NM
+1426,Manhattan Project NHP,2007,73.7,NM
+1427,Manhattan Project NHP,2008,74.4,NM
+1428,Manhattan Project NHP,2010,73.8,NM
+1429,Manhattan Project NHP,2010,73.8,NM
+1430,Manhattan Project NHP,2012,74.9,NM
+1431,Mesa Verde NP,1994,72.0,CO
+1432,Mesa Verde NP,2000,73.1,CO
+1433,Mesa Verde NP,2000,73.1,CO
+1434,Mesa Verde NP,2001,73.4,CO
+1435,Mesa Verde NP,2002,72.6,CO
+1436,Mesa Verde NP,2003,74.1,CO
+1437,Mesa Verde NP,2004,72.8,CO
+1438,Mesa Verde NP,2005,73.8,CO
+1439,Mesa Verde NP,2006,74.2,CO
+1440,Mesa Verde NP,2007,73.7,CO
+1441,Mesa Verde NP,2008,74.4,CO
+1442,Mesa Verde NP,2010,73.8,CO
+1443,Mesa Verde NP,2010,73.8,CO
+1444,Mesa Verde NP,2012,74.9,CO
+1445,Montezuma Castle NM,1994,72.0,AZ
+1446,Montezuma Castle NM,2000,73.1,AZ
+1447,Montezuma Castle NM,2000,73.1,AZ
+1448,Montezuma Castle NM,2001,73.4,AZ
+1449,Montezuma Castle NM,2002,72.6,AZ
+1450,Montezuma Castle NM,2003,74.1,AZ
+1451,Montezuma Castle NM,2004,72.8,AZ
+1452,Montezuma Castle NM,2005,73.8,AZ
+1453,Montezuma Castle NM,2006,74.2,AZ
+1454,Montezuma Castle NM,2007,73.7,AZ
+1455,Montezuma Castle NM,2008,74.4,AZ
+1456,Montezuma Castle NM,2010,73.8,AZ
+1457,Montezuma Castle NM,2010,73.8,AZ
+1458,Montezuma Castle NM,2012,74.9,AZ
+1459,Natural Bridges NM,1990,49.3,UT
+1460,Natural Bridges NM,1991,48.5,UT
+1461,Natural Bridges NM,1992,49.2,UT
+1462,Natural Bridges NM,1993,49.6,UT
+1463,Natural Bridges NM,1994,51.0,UT
+1464,Natural Bridges NM,2000,52.3,UT
+1465,Natural Bridges NM,2000,52.3,UT
+1466,Natural Bridges NM,2004,50.1,UT
+1467,Natural Bridges NM,2005,51.2,UT
+1468,Natural Bridges NM,2006,51.0,UT
+1469,Natural Bridges NM,2007,52.0,UT
+1470,Natural Bridges NM,2008,50.0,UT
+1471,Natural Bridges NM,2010,50.1,UT
+1472,Natural Bridges NM,2010,50.1,UT
+1473,Natural Bridges NM,2011,50.1,UT
+1474,Natural Bridges NM,2012,52.3,UT
+1475,Natural Bridges NM,2016,52.0,UT
+1476,Natural Bridges NM,2017,53.2,UT
+1477,Navajo NM,1990,49.3,NM
+1478,Navajo NM,1991,48.5,NM
+1479,Navajo NM,1992,49.2,NM
+1480,Navajo NM,1993,49.6,NM
+1481,Navajo NM,1994,51.0,NM
+1482,Navajo NM,2000,52.3,NM
+1483,Navajo NM,2000,52.3,NM
+1484,Navajo NM,2004,50.1,NM
+1485,Navajo NM,2005,51.2,NM
+1486,Navajo NM,2006,51.0,NM
+1487,Navajo NM,2007,52.0,NM
+1488,Navajo NM,2008,50.0,NM
+1489,Navajo NM,2010,50.1,NM
+1490,Navajo NM,2010,50.1,NM
+1491,Navajo NM,2011,50.1,NM
+1492,Navajo NM,2012,52.3,NM
+1493,Navajo NM,2016,52.0,NM
+1494,Navajo NM,2017,53.2,NM
+1495,Oklahoma City NMEM,1990,64.1,OK
+1496,Oklahoma City NMEM,1991,63.3,OK
+1497,Oklahoma City NMEM,1994,61.2,OK
+1498,Oklahoma City NMEM,1995,61.2,OK
+1499,Oklahoma City NMEM,1996,59.9,OK
+1500,Oklahoma City NMEM,1997,60.5,OK
+1501,Oklahoma City NMEM,1998,63.5,OK
+1502,Oklahoma City NMEM,1999,62.7,OK
+1503,Oklahoma City NMEM,2000,61.4,OK
+1504,Oklahoma City NMEM,2000,61.4,OK
+1505,Oklahoma City NMEM,2001,60.7,OK
+1506,Oklahoma City NMEM,2002,59.6,OK
+1507,Oklahoma City NMEM,2003,59.3,OK
+1508,Oklahoma City NMEM,2004,60.1,OK
+1509,Oklahoma City NMEM,2005,60.9,OK
+1510,Oklahoma City NMEM,2006,61.0,OK
+1511,Oklahoma City NMEM,2007,60.6,OK
+1512,Oklahoma City NMEM,2008,58.7,OK
+1513,Oklahoma City NMEM,2009,58.5,OK
+1514,Oklahoma City NMEM,2010,59.9,OK
+1515,Oklahoma City NMEM,2010,59.9,OK
+1516,Oklahoma City NMEM,2012,62.4,OK
+1517,Oklahoma City NMEM,2013,58.5,OK
+1518,Oklahoma City NMEM,2014,57.1,OK
+1519,Oklahoma City NMEM,2015,59.9,OK
+1520,Oklahoma City NMEM,2016,61.0,OK
+1521,Oklahoma City NMEM,2018,59.6,OK
+1522,Oklahoma City NMEM,2019,59.6,OK
+1523,Oklahoma City NMEM,2020,59.5,OK
+1524,Organ Pipe Cactus NM,1994,72.0,AZ
+1525,Organ Pipe Cactus NM,2000,73.1,AZ
+1526,Organ Pipe Cactus NM,2000,73.1,AZ
+1527,Organ Pipe Cactus NM,2001,73.4,AZ
+1528,Organ Pipe Cactus NM,2002,72.6,AZ
+1529,Organ Pipe Cactus NM,2003,74.1,AZ
+1530,Organ Pipe Cactus NM,2004,72.8,AZ
+1531,Organ Pipe Cactus NM,2005,73.8,AZ
+1532,Organ Pipe Cactus NM,2006,74.2,AZ
+1533,Organ Pipe Cactus NM,2007,73.7,AZ
+1534,Organ Pipe Cactus NM,2008,74.4,AZ
+1535,Organ Pipe Cactus NM,2010,73.8,AZ
+1536,Organ Pipe Cactus NM,2010,73.8,AZ
+1537,Organ Pipe Cactus NM,2012,74.9,AZ
+1538,Padre Island NS,1991,76.1,TX
+1539,Padre Island NS,1992,74.6,TX
+1540,Padre Island NS,1993,74.0,TX
+1541,Padre Island NS,1994,75.0,TX
+1542,Padre Island NS,1996,75.3,TX
+1543,Padre Island NS,1997,72.3,TX
+1544,Padre Island NS,2002,76.9,TX
+1545,Padre Island NS,2004,75.6,TX
+1546,Padre Island NS,2005,75.6,TX
+1547,Padre Island NS,2006,76.3,TX
+1548,Padre Island NS,2008,73.9,TX
+1549,Padre Island NS,2009,76.4,TX
+1550,Padre Island NS,2010,72.8,TX
+1551,Padre Island NS,2010,72.8,TX
+1552,Padre Island NS,2011,76.2,TX
+1553,Palo Alto Battlefield NHP,2000,75.5,TX
+1554,Palo Alto Battlefield NHP,2000,75.5,TX
+1555,Palo Alto Battlefield NHP,2011,76.3,TX
+1556,Pecos NHP,1990,50.6,NM
+1557,Pecos NHP,1991,49.9,NM
+1558,Pecos NHP,1993,50.6,NM
+1559,Pecos NHP,1994,52.2,NM
+1560,Pecos NHP,1995,52.3,NM
+1561,Pecos NHP,2001,53.5,NM
+1562,Pecos NHP,2003,53.9,NM
+1563,Pecos NHP,2004,51.9,NM
+1564,Pecos NHP,2008,51.2,NM
+1565,Pecos NHP,2009,51.7,NM
+1566,Pecos NHP,2010,52.7,NM
+1567,Pecos NHP,2010,52.7,NM
+1568,Pecos NHP,2011,52.0,NM
+1569,Pecos NHP,2012,54.1,NM
+1570,Pecos NHP,2013,50.3,NM
+1571,Pecos NHP,2014,53.0,NM
+1572,Pecos NHP,2015,52.9,NM
+1573,Pecos NHP,2018,52.5,NM
+1574,Pecos NHP,2019,50.1,NM
+1575,Pecos NHP,2020,51.5,NM
+1576,Petrified Forest NP,1990,72.3,AZ
+1577,Petrified Forest NP,1991,74.5,AZ
+1578,Petrified Forest NP,2000,75.1,AZ
+1579,Petrified Forest NP,2000,75.1,AZ
+1580,Petrified Forest NP,2001,74.5,AZ
+1581,Petrified Forest NP,2003,74.4,AZ
+1582,Petrified Forest NP,2004,73.1,AZ
+1583,Petrified Forest NP,2005,73.9,AZ
+1584,Petrified Forest NP,2006,73.3,AZ
+1585,Petrified Forest NP,2007,73.4,AZ
+1586,Petrified Forest NP,2008,74.1,AZ
+1587,Petrified Forest NP,2009,73.9,AZ
+1588,Petrified Forest NP,2010,73.2,AZ
+1589,Petrified Forest NP,2010,73.2,AZ
+1590,Petrified Forest NP,2011,72.9,AZ
+1591,Petrified Forest NP,2012,74.1,AZ
+1592,Petroglyph NM,1990,50.6,NM
+1593,Petroglyph NM,1991,49.9,NM
+1594,Petroglyph NM,1993,50.6,NM
+1595,Petroglyph NM,1994,52.2,NM
+1596,Petroglyph NM,1995,52.3,NM
+1597,Petroglyph NM,2001,53.5,NM
+1598,Petroglyph NM,2003,53.9,NM
+1599,Petroglyph NM,2004,51.9,NM
+1600,Petroglyph NM,2008,51.2,NM
+1601,Petroglyph NM,2009,51.7,NM
+1602,Petroglyph NM,2010,52.7,NM
+1603,Petroglyph NM,2010,52.7,NM
+1604,Petroglyph NM,2011,52.0,NM
+1605,Petroglyph NM,2012,54.1,NM
+1606,Petroglyph NM,2013,50.3,NM
+1607,Petroglyph NM,2014,53.0,NM
+1608,Petroglyph NM,2015,52.9,NM
+1609,Petroglyph NM,2018,52.5,NM
+1610,Petroglyph NM,2019,50.1,NM
+1611,Petroglyph NM,2020,51.5,NM
+1612,Pipe Spring NM,1990,64.8,AZ
+1613,Pipe Spring NM,1997,67.9,AZ
+1614,Pipe Spring NM,1998,65.2,AZ
+1615,Pipe Spring NM,2002,68.4,AZ
+1616,Pipe Spring NM,2003,70.1,AZ
+1617,Pipe Spring NM,2004,68.3,AZ
+1618,Pipe Spring NM,2006,68.4,AZ
+1619,Pipe Spring NM,2009,68.2,AZ
+1620,Pipe Spring NM,2010,68.2,AZ
+1621,Pipe Spring NM,2010,68.2,AZ
+1622,Pipe Spring NM,2011,66.7,AZ
+1623,Pipe Spring NM,2012,70.4,AZ
+1624,Pipe Spring NM,2015,70.8,AZ
+1625,Pipe Spring NM,2016,69.6,AZ
+1626,Pipe Spring NM,2019,67.3,AZ
+1627,Rainbow Bridge NM,1990,49.3,UT
+1628,Rainbow Bridge NM,1991,48.5,UT
+1629,Rainbow Bridge NM,1992,49.2,UT
+1630,Rainbow Bridge NM,1993,49.6,UT
+1631,Rainbow Bridge NM,1994,51.0,UT
+1632,Rainbow Bridge NM,2000,52.3,UT
+1633,Rainbow Bridge NM,2000,52.3,UT
+1634,Rainbow Bridge NM,2004,50.1,UT
+1635,Rainbow Bridge NM,2005,51.2,UT
+1636,Rainbow Bridge NM,2006,51.0,UT
+1637,Rainbow Bridge NM,2007,52.0,UT
+1638,Rainbow Bridge NM,2008,50.0,UT
+1639,Rainbow Bridge NM,2010,50.1,UT
+1640,Rainbow Bridge NM,2010,50.1,UT
+1641,Rainbow Bridge NM,2011,50.1,UT
+1642,Rainbow Bridge NM,2012,52.3,UT
+1643,Rainbow Bridge NM,2016,52.0,UT
+1644,Rainbow Bridge NM,2017,53.2,UT
+1645,Rio Grande W&SR,1994,72.0,
+1646,Rio Grande W&SR,2000,73.1,
+1647,Rio Grande W&SR,2000,73.1,
+1648,Rio Grande W&SR,2001,73.4,
+1649,Rio Grande W&SR,2002,72.6,
+1650,Rio Grande W&SR,2003,74.1,
+1651,Rio Grande W&SR,2004,72.8,
+1652,Rio Grande W&SR,2005,73.8,
+1653,Rio Grande W&SR,2006,74.2,
+1654,Rio Grande W&SR,2007,73.7,
+1655,Rio Grande W&SR,2008,74.4,
+1656,Rio Grande W&SR,2010,73.8,
+1657,Rio Grande W&SR,2010,73.8,
+1658,Rio Grande W&SR,2012,74.9,
+1659,Rocky Mountain NP,1990,48.5,CO
+1660,Rocky Mountain NP,1991,49.4,CO
+1661,Rocky Mountain NP,1993,45.8,CO
+1662,Rocky Mountain NP,1994,50.3,CO
+1663,Rocky Mountain NP,1995,48.5,CO
+1664,Rocky Mountain NP,1996,48.2,CO
+1665,Rocky Mountain NP,1997,48.2,CO
+1666,Rocky Mountain NP,1998,50.4,CO
+1667,Rocky Mountain NP,1999,51.0,CO
+1668,Rocky Mountain NP,2000,49.9,CO
+1669,Rocky Mountain NP,2000,49.9,CO
+1670,Rocky Mountain NP,2001,50.2,CO
+1671,Rocky Mountain NP,2003,50.0,CO
+1672,Rocky Mountain NP,2004,50.3,CO
+1673,Rocky Mountain NP,2005,51.6,CO
+1674,Rocky Mountain NP,2006,50.8,CO
+1675,Rocky Mountain NP,2007,49.3,CO
+1676,Rocky Mountain NP,2008,48.3,CO
+1677,Rocky Mountain NP,2009,48.4,CO
+1678,Rocky Mountain NP,2010,51.1,CO
+1679,Rocky Mountain NP,2010,51.1,CO
+1680,Rocky Mountain NP,2011,49.9,CO
+1681,Rocky Mountain NP,2012,53.4,CO
+1682,Rocky Mountain NP,2013,49.4,CO
+1683,Rocky Mountain NP,2014,49.7,CO
+1684,Rocky Mountain NP,2015,51.8,CO
+1685,Rocky Mountain NP,2016,52.0,CO
+1686,Rocky Mountain NP,2017,52.0,CO
+1687,Rocky Mountain NP,2019,48.3,CO
+1688,Rocky Mountain NP,2020,50.6,CO
+1689,Saguaro NP,1994,72.0,AZ
+1690,Saguaro NP,2000,73.1,AZ
+1691,Saguaro NP,2000,73.1,AZ
+1692,Saguaro NP,2001,73.4,AZ
+1693,Saguaro NP,2002,72.6,AZ
+1694,Saguaro NP,2003,74.1,AZ
+1695,Saguaro NP,2004,72.8,AZ
+1696,Saguaro NP,2005,73.8,AZ
+1697,Saguaro NP,2006,74.2,AZ
+1698,Saguaro NP,2007,73.7,AZ
+1699,Saguaro NP,2008,74.4,AZ
+1700,Saguaro NP,2010,73.8,AZ
+1701,Saguaro NP,2010,73.8,AZ
+1702,Saguaro NP,2012,74.9,AZ
+1703,Salinas Pueblo Missions NM,1994,72.0,NM
+1704,Salinas Pueblo Missions NM,2000,73.1,NM
+1705,Salinas Pueblo Missions NM,2000,73.1,NM
+1706,Salinas Pueblo Missions NM,2001,73.4,NM
+1707,Salinas Pueblo Missions NM,2002,72.6,NM
+1708,Salinas Pueblo Missions NM,2003,74.1,NM
+1709,Salinas Pueblo Missions NM,2004,72.8,NM
+1710,Salinas Pueblo Missions NM,2005,73.8,NM
+1711,Salinas Pueblo Missions NM,2006,74.2,NM
+1712,Salinas Pueblo Missions NM,2007,73.7,NM
+1713,Salinas Pueblo Missions NM,2008,74.4,NM
+1714,Salinas Pueblo Missions NM,2010,73.8,NM
+1715,Salinas Pueblo Missions NM,2010,73.8,NM
+1716,Salinas Pueblo Missions NM,2012,74.9,NM
